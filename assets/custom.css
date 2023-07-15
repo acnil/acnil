@@ -26,6 +26,7 @@ html {
 }
 
 
+
 .card {
     flex-grow: 3;
     display: flex;
@@ -130,4 +131,14 @@ html {
 
 .user__info>small {
     color: #666;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    /* For mobile phones: */
+    .card {
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+    }
 }

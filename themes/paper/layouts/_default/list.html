@@ -60,7 +60,7 @@
   <time class="text-sm antialiased opacity-60"
     >{{ .Date | time.Format "2006-01-02" }}</time
   >
-  <a class="absolute inset-0 text-[0]" href="{{ .Permalink }}">{{ .Title }}</a>
+  <a class="absolute inset-0 text-[0]" href="{{ .RelPermalink }}">{{ .Title }}</a>
 </section>
 {{ end }}
 </div>

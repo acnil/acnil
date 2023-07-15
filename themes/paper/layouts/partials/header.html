@@ -2,7 +2,7 @@
   <div class="relative z-50 mr-auto flex items-center">
     <a
       class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
-      href="{{ `` | absURL }}"
+      href="{{ `` | relURL }}"
       >{{ site.Title }}</a
     >
     <div
@@ -83,7 +83,7 @@
       <a
         class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
         style="--url: url(./{{ . }}.svg)"
-        href="{{ if eq . `rss` }}{{ `index.xml` | absURL }}{{ else if eq . `mastodon` }}{{ index site.Params . }}{{ else }}https://{{ . }}.com/{{ if eq . `linkedin` }}in/{{ end }}{{ index site.Params . }}{{ end }}"
+        href="{{ if eq . `rss` }}{{ `index.xml` | relURL }}{{ else if eq . `mastodon` }}{{ index site.Params . }}{{ else }}https://{{ . }}.com/{{ if eq . `linkedin` }}in/{{ end }}{{ index site.Params . }}{{ end }}"
         target="_blank"
         rel="{{ if eq . `rss` }}alternate{{ else }}me{{ end }}"
       >

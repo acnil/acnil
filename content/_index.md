@@ -10,6 +10,12 @@ Somos una asociación cultural de Burgos sin ánimo de lucro que trata de difund
 
 Aquí encontraras mucha gente interesante con la que compartir tus aficiones.
 
+<div class="flex justify-end px-5">
+<a class="tag tag-black"  href="about">Sobre nosotros</a>
+</div>
+
+# Actividades
+
 {{< cardlist >}}
 {{% card img="/images/codigo-pinguino.jpg" more="/pinguino" %}}
 # Codigo Pingüino

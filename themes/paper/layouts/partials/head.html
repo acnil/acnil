@@ -30,21 +30,21 @@
   <!---->
   {{ $custom := resources.Get "custom.css" }}
   <!---->
+
   {{ $css := slice $main $custom | resources.Concat "main.css" | minify }}
-  <link rel="preload stylesheet" as="style" href="{{ $css.Permalink }}" />
+  <link rel="preload stylesheet" as="style" href="{{ $css.RelPermalink }}" />
 
   {{ if and .IsPage (not site.Params.disableHLJS) }}
   <script
     defer
-    src="{{ `highlight.min.js` | absURL }}"
+    src="{{ `highlight.min.js` | relURL }}"
     onload="hljs.initHighlightingOnLoad();"
   ></script>
   {{ end }}
 
   <!-- Preload -->
-  {{ $dark_icon := "theme.png" }} {{ if site.Params.monoDarkIcon }} {{
-  $dark_icon := "theme.svg" }} {{ end }}
-  <link rel="preload" as="image" href="{{ $dark_icon | absURL }}" />
+  {{ $dark_icon := "theme.png" }} {{ if site.Params.monoDarkIcon }} {{$dark_icon = "theme.svg" }} {{ end }}
+  <link rel="preload" as="image" href="{{ $dark_icon | relURL }}" />
 
   {{ $avatar_url := $.Scratch.Get "avatar_url" }}
   <!---->
@@ -54,7 +54,7 @@
   <!---->
 
   {{ range $.Scratch.Get "social_list" }}
-  <link rel="preload" as="image" href="{{ printf `%s.svg` . | absURL }}" />
+  <link rel="preload" as="image" href="{{ printf `%s.svg` . | relURL }}" />
   {{ end }}
   <!---->
 
@@ -66,8 +66,8 @@
   <!---->
 
   <!-- Favicon -->
-  <link rel="icon" href="{{ `favicon.ico` | absURL }}" />
-  <link rel="apple-touch-icon" href="{{ `apple-touch-icon.png` | absURL }}" />
+  <link rel="icon" href="{{ `favicon.ico` | relURL }}" />
+  <link rel="apple-touch-icon" href="{{ `apple-touch-icon.png` | relURL }}" />
 
   <!-- Generator -->
   {{ hugo.Generator }}
@@ -77,7 +77,7 @@
   <link
     rel="{{ .Rel }}"
     type="{{ .MediaType.Type }}"
-    href="{{ .Permalink }}"
+    href="{{ .RelPermalink }}"
     title="{{ site.Title }}"
   />
   {{ end }}
