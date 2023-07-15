@@ -5,13 +5,13 @@
 
 html {
     --bg: #9af5b5;
+    --dark-bg: #152018;
     --card-bg: #6bbf84;
-    --dark-card-bg: #336041;
+    --dark-card-bg: #266139;
     --tag-green-colog: #1edb5a;
 }
 
 .logo img {
-
     border-radius: 1em;
 }
 
@@ -80,13 +80,9 @@ html {
     margin-left: .5em;
 }
 
-.tag-green {
-    background: var(--tag-green-colog);
-    color: #000000;
-}
 
 .tag-black {
-    background: #000000;
+    background: rgba(0, 0, 0, 0.8);
     color: #fafafa;
 }
 
