@@ -1,0 +1,13 @@
+<div class="card">
+<div class="card__header">
+    <img src="{{.Get "img" }}" alt="card__image" class="card__image">
+</div>
+<div class="card__body">
+    {{ .Inner }}
+</div>
+{{if .Get "more" }}
+<div class="card__footer">
+    <a class="tag tag-black" href="{{ .Get "more" }}" > Mas información</a>
+</div>
+{{- end -}}
+</div>

@@ -1,0 +1,133 @@
+/* Place custom css here. */
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+
+html {
+    --bg: #9af5b5;
+    --card-bg: #6bbf84;
+    --dark-card-bg: #336041;
+    --tag-green-colog: #1edb5a;
+}
+
+.logo img {
+
+    border-radius: 1em;
+}
+
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1200px;
+    margin-block: 2rem;
+    gap: 2rem;
+}
+
+
+.card {
+    flex-grow: 3;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: 0 .1rem 1rem rgba(0, 0, 0, 0.1);
+    border-radius: 1em;
+    background: var(--card-bg);
+}
+
+.dark .card {
+    background: var(--dark-card-bg);
+}
+
+.card__image {
+    max-width: 100%;
+    display: block;
+    object-fit: cover;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+
+.card__body {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.card__body p {
+    margin: 0;
+}
+
+
+.tag {
+    align-self: flex-start;
+    padding: .25em .75em;
+    border-radius: 1em;
+
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.tag:hover {
+    filter: brightness(150%);
+}
+
+.tag+.tag {
+    margin-left: .5em;
+}
+
+.tag-green {
+    background: var(--tag-green-colog);
+    color: #000000;
+}
+
+.tag-black {
+    background: #000000;
+    color: #fafafa;
+}
+
+.tag-blue {
+    background: #56CCF2;
+    background: linear-gradient(to bottom, #2F80ED, #56CCF2);
+    color: #fafafa;
+}
+
+.tag-brown {
+    background: #D1913C;
+    background: linear-gradient(to bottom, #FFD194, #D1913C);
+    color: #fafafa;
+}
+
+.tag-red {
+    background: #cb2d3e;
+    background: linear-gradient(to bottom, #ef473a, #cb2d3e);
+    color: #fafafa;
+}
+
+.card__body h4 {
+    font-size: 1.5rem;
+    text-transform: capitalize;
+}
+
+.card__footer {
+    flex-direction: row-reverse;
+    display: flex;
+    padding: 1rem;
+    margin-top: auto;
+}
+
+.user {
+    display: flex;
+    gap: .5rem;
+}
+
+.user__image {
+    border-radius: 50%;
+}
+
+.user__info>small {
+    color: #666;
+}

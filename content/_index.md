@@ -2,7 +2,7 @@
 author: "Victor Pérez"
 ---
 
-{{< figure src="./images/acnilito.jpg" title="Acnilito" class="mx-auto w-1/2">}}
+{{< figure src="./images/acnilito.jpg" title="Acnilito" class="mx-auto w-1/2 logo">}}
 
 # Bienvenido a **ACNIL**
 
@@ -10,3 +10,25 @@ Somos una asociación cultural de Burgos sin ánimo de lucro que trata de difund
 
 Aquí encontraras mucha gente interesante con la que compartir tus aficiones.
 
+{{< cardlist >}}
+{{% card img="/images/codigo-pinguino.jpg" more="/pinguino" %}}
+# Codigo Pingüino
+
+El tercer viernes de cada mes nos juntamos en el espacio jóven de gamonal para jugar a juegos de mesa. **No es necesario ser socio para asistir**. Te esperamos! 
+
+{{% /card %}}
+
+{{% card img="/images/codigo-fenix.jpg" %}}
+# Codigo Fenix
+
+El primer sabado de cada mes nos juntamos en el el local de la llana de afuera para jugar a juegos de mesa. **No es necesario ser socio para asistir**. Te esperamos! 
+
+{{% /card %}}
+
+{{% card img="/images/bigbangburgos2023.jpg" %}}
+# Big Bang Burgos
+
+Una vez al año, organizamos el evento **Big Bang Burgos**. Un gran evento donde puedes venir a disfrutar de todo lo quemas te gusta. Juegos de mesa, Cosplay, Merchandising, Rol....
+
+{{% /card %}}
+{{< /cardlist >}}

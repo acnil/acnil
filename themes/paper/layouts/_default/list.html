@@ -15,8 +15,8 @@
 {{ end }}
 
 <!-- Articles -->
-{{ $paginator := .Paginate $pages }} {{ range $index, $page := $paginator.Pages
-}}<!---->
+{{ $paginator := .Paginate $pages }} 
+{{ range $index, $page := $paginator.Pages}}<!---->
 
 <!-- avatar -->
 {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}<!---->
@@ -58,12 +58,12 @@
   {{ end }}
   <h2 class="!my-0 pb-1 font-bold !leading-none">{{ .Title }}</h2>
   <time class="text-sm antialiased opacity-60"
-    >{{ .Date | time.Format ":date_medium" }}</time
+    >{{ .Date | time.Format "2006-01-02" }}</time
   >
   <a class="absolute inset-0 text-[0]" href="{{ .Permalink }}">{{ .Title }}</a>
 </section>
 {{ end }}
-
+</div>
 <!-- Main Nav -->
 {{ if gt $paginator.TotalPages 1 }}
 <nav class="mt-16 flex">
