@@ -18,7 +18,6 @@
     aria-label="Menu"
   ></div>
 
-  {{ $bg_color := $.Scratch.Get "bg_color" }}
   <script>
     // base
     const htmlClass = document.documentElement.classList;
@@ -34,9 +33,7 @@
 
     // dark theme
     const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = '{{ $.Scratch.Get `bg_color` }}'.replace(/"/g, '');
     const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
     };

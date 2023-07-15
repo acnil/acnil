@@ -6,9 +6,6 @@ title = 'Asociacion Cultural ACNIL'
 theme = "paper"
 
 [params]
-  # color style
-  # color = 'linen'                           # linen, wheat, gray, light
-
   # header social icons
   twitter = 'acnilburgos'               # twitter.com/YOUR_TWITTER_ID
   instagram = 'acnilburgos'           # instagram.com/YOUR_INSTAGRAM_ID
