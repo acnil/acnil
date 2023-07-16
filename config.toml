@@ -1,8 +1,11 @@
-# baseURL = "http://acnil.es/"
-baseURL = "/"
+baseURL = "http://localhost:1313/acnil/"
+# baseURL = "/"
 languageCode = 'en-us'
 title = 'ACNIL'
 mainSections = "blog"
+
+RelativeURLs=true
+CanonifyURLs=true
 
 theme = "paper"
 
