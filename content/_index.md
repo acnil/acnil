@@ -2,7 +2,7 @@
 author: "Victor Pérez"
 ---
 
-{{< figure src="./images/acnilito.jpg" title="Acnilito" class="mx-auto w-1/2 logo">}}
+{{< figure src="./images/acnilito.jpg" title="Acnilito" class="mx-auto logo">}}
 
 # Bienvenido a **ACNIL**
 
