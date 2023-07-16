@@ -17,24 +17,26 @@ Aquí encontraras mucha gente interesante con la que compartir tus aficiones.
 # Actividades
 
 {{< cardlist >}}
+
+{{% card img="/images/bigbangburgos2023.jpg" %}}
+## Big Bang Burgos
+
+Una vez al año, organizamos el evento **Big Bang Burgos**. Un gran evento donde puedes venir a disfrutar de todo lo quemas te gusta. Juegos de mesa, Cosplay, Merchandising, Rol....
+
+{{% /card %}}
+
 {{% card img="/images/codigo-pinguino.jpg" more="/pinguino" %}}
-# Codigo Pingüino
+## Codigo Pingüino
 
 El tercer viernes de cada mes nos juntamos en el espacio jóven de gamonal para jugar a juegos de mesa. **No es necesario ser socio para asistir**. Te esperamos! 
 
 {{% /card %}}
 
 {{% card img="/images/codigo-fenix.jpg" %}}
-# Codigo Fenix
+## Codigo Fenix
 
 El primer sabado de cada mes nos juntamos en el el local de la llana de afuera para jugar a juegos de mesa. **No es necesario ser socio para asistir**. Te esperamos! 
 
 {{% /card %}}
 
-{{% card img="/images/bigbangburgos2023.jpg" %}}
-# Big Bang Burgos
-
-Una vez al año, organizamos el evento **Big Bang Burgos**. Un gran evento donde puedes venir a disfrutar de todo lo quemas te gusta. Juegos de mesa, Cosplay, Merchandising, Rol....
-
-{{% /card %}}
 {{< /cardlist >}}

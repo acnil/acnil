@@ -1,12 +1,16 @@
 {{ define "main" }}
 
+<article>
+
 <!-- Tag Title -->
 {{ if and .Title (eq .Type "tags") }}
 <h1 class="mb-16">#{{ .Title }}</h1>
 {{ end }}
 
 <!-- $Content -->
+<section>
 {{ .Content }}
+</section>
 
 <!-- $pages -->
 {{ $pages := union .RegularPages .Sections }}<!---->
@@ -64,6 +68,9 @@
 </section>
 {{ end }}
 </div>
+
+</article>
+
 <!-- Main Nav -->
 {{ if gt $paginator.TotalPages 1 }}
 <nav class="mt-16 flex">
