@@ -4,12 +4,20 @@
 
 
 html {
-    --bg: #9af5b5;
-    --dark-bg: #152018;
-    --card-bg: #6bbf84;
-    --dark-card-bg: #266139;
-    --tag-green-colog: #1edb5a;
+    --bg: hsl(138, 82%, 78%);
+    --card-bg: hsl(138, 82%, 78%);
+
+    --dark-bg: hsl(138, 11%, 10%);
+    --dark-card-bg: hsl(138, 11%, 15%);
+
+    --content: rgba(0, 0, 0, 0.2);
+    --header: rgba(0, 0, 0, 0.4);
 }
+
+header {
+    background-color: var(--header);
+}
+
 
 .logo img {
     border-radius: 1em;

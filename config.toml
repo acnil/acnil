@@ -1,7 +1,7 @@
 # baseURL = "http://acnil.es/"
 baseURL = "/"
 languageCode = 'en-us'
-title = 'Asociacion Cultural ACNIL'
+title = 'ACNIL'
 mainSections = "blog"
 
 theme = "paper"
