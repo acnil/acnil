@@ -152,3 +152,14 @@ header {
         margin-right: -1.5rem;
     }
 }
+
+.list-image img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-section {
+    border-radius: 1em;
+    padding: 1em;
+    min-height: 260px;
+}

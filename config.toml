@@ -6,6 +6,8 @@ mainSections = "blog"
 
 theme = "paper"
 
+refLinksErrorLevel="WARNING"
+
 [params]
   # header social icons
   twitter = 'acnilburgos'               # twitter.com/YOUR_TWITTER_ID

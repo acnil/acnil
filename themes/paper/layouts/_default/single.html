@@ -2,7 +2,7 @@
 
 <article>
 {{ if .Title }}
-  <header class="mb-16">
+  <div class="mb-16">
     <h1 class="!my-0 pb-2.5">{{ .Title }}</h1>
 
     {{ if ne .Type "page" }}
@@ -18,7 +18,7 @@
       {{ end }}
     </div>
     {{ end }}
-  </header>
+  </div>
 {{ end}}
 
   <section>{{ .Content }}</section>

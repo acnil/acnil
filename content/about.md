@@ -1,8 +1,7 @@
 ---
 ---
 
-{{< figure src="/images/acnilito.jpg" title="Acnilito" class="mx-auto w-1/2 logo"  href="/" >}}
-
+{{< figure src="/images/acnilito.jpg" title="Acnilito" class="mx-auto logo" link="/" >}}
 # Quien somos
 
 La **A**sociación **C**ultural por los **N**uevos **I**ntereses **L**údicos (**ACNIL**) Somos una asociación cultural de Burgos **sin ánimo de lucro** que trata de difundir los juegos de mesa, la cultura asiática, los juegos de rol y los videojuegos.

@@ -2,7 +2,7 @@
 author: "Victor Pérez"
 ---
 
-{{< figure src="./images/acnilito.jpg" title="Acnilito" class="mx-auto logo">}}
+{{< figure src="/images/acnilito.jpg" title="Acnilito" class="mx-auto logo" link="/" >}}
 
 # Bienvenido a **ACNIL**
 
@@ -18,7 +18,7 @@ Aquí encontraras mucha gente interesante con la que compartir tus aficiones.
 
 {{< cardlist >}}
 
-{{% card img="/images/bigbangburgos2023.jpg" %}}
+{{% card img="/images/bigbangburgos2023.jpg" more="/jornadas" %}}
 ## Big Bang Burgos
 
 Una vez al año, organizamos el evento **Big Bang Burgos**. Un gran evento donde puedes venir a disfrutar de todo lo quemas te gusta. Juegos de mesa, Cosplay, Merchandising, Rol....
