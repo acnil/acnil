@@ -29,7 +29,6 @@ refLinksErrorLevel="WARNING"
   comments = false   
   disableHLJS = true                        # disable highlight.js
   monoDarkIcon = true                     # show monochrome dark mode icon
-  # math = true                               # enable KaTex math typesetting globally
 
 [markup.goldmark.renderer]
 unsafe= true
