@@ -20,7 +20,7 @@ Hasta 2009, Burgos había permanecido dividida en este aspecto. Muchos jóvenes 
 - Camiseta asociativa con el logo de Acnil y tu nombre (opcional)
 - Formar parte del grupo de WhatsApp de la asociación junto con el resto de miembros
 - Formar parte de la Asamblea general de socios y poder votar en las decisiones asociativas
-- Poder participar en la organización de [Big Bang Burgos](/jornadas)
+- Poder participar en la organización de [Big Bang Burgos](../jornadas)
 
 ## ¿Quién puede ser socio?
 
