@@ -1,0 +1,7 @@
+{{- if hasPrefix .Destination "http" -}}
+<a target="_blank"  href="{{.Destination}}">{{ .Text }}</a>
+{{- else if hasSuffix  .Destination ".pdf" -}}
+<a target="_blank"  href="{{.Destination}}">{{ .Text }}</a>
+{{- else -}}
+<a href="{{.Destination}}">{{ .Text }}</a>
+{{- end -}}
