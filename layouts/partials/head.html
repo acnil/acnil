@@ -46,13 +46,6 @@
   {{ $dark_icon := "theme.png" }} {{ if site.Params.monoDarkIcon }} {{$dark_icon = "theme.svg" }} {{ end }}
   <link rel="preload" as="image" href="{{ $dark_icon | relURL }}" />
 
-  {{ $avatar_url := $.Scratch.Get "avatar_url" }}
-  <!---->
-  {{ if $avatar_url }}
-  <link rel="preload" as="image" href="{{ $avatar_url }}" />
-  {{ end }}
-  <!---->
-
   {{ range $.Scratch.Get "social_list" }}
   <link rel="preload" as="image" href="{{ printf `%s.svg` . | relURL }}" />
   {{ end }}

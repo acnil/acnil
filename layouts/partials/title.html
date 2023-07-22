@@ -1,0 +1,14 @@
+<div class="mb-16">
+<h1 class="!my-0 pb-2.5">{{ .Title }}</h1>
+
+{{ if ne .Type "page" }}
+<div class="text-sm antialiased opacity-60">
+    {{ $single_author := or .Params.Author site.Author.name }}
+    <!---->
+    {{ if $single_author }}
+    <span class="mx-1">&middot;</span>
+    <span>{{ $single_author }}</span>
+    {{ end }}
+</div>
+{{ end }}
+</div>
