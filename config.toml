@@ -7,14 +7,17 @@ mainSections = "blog"
 RelativeURLs=true
 CanonifyURLs=true
 
-theme = "paper"
+# I based the website on this, but I removed all unnecessary code to make it easier to understand
+# https://github.com/nanxiaobei/hugo-paper
+# theme = "paper"
 
 refLinksErrorLevel="WARNING"
 
 [params]
   # header social icons
-  twitter = 'acnilburgos'               # twitter.com/YOUR_TWITTER_ID
-  instagram = 'acnilburgos'           # instagram.com/YOUR_INSTAGRAM_ID
+  twitter = 'acnilburgos'               
+  instagram = 'acnilburgos'           
+  github = 'acnil'
 
   # home page profile
   # avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
