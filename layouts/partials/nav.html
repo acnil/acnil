@@ -2,7 +2,7 @@
 {{ $currentPage := . }}
 {{ with site.Menus.main }}
     {{ range . }}
-    <div class="marker lg:items-center flex {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} current-menu-item{{end}}">
+    <div class="marker lg:items-center flex{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} current-menu-item{{end}}">
     <a
     class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal "
     href="{{ .URL }}"
