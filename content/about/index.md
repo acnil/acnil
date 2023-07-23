@@ -33,12 +33,14 @@ Para ser socio se necesitan dos cosas:
 1. Rellenar la solicitud de socio.
 2. Pagar la cuota de socio.
 
-En [este link](./inscripcion.pdf) tienes la solicitud de socio. Dentro de ella está el número de cuenta donde deberás hacer el ingreso[^1] (La Caixa). El ingreso para nuevos socios es de **30€** (25€ cuota anual + 5€ cuota nuevos socios. Estos 5€ solo se pagan la primera vez que te haces socio). Deberá ponerse de asunto: Nick de socio + Año actual. Ejemplo: Shybâ 2019
+En [este link](./inscripcion.pdf) tienes la solicitud de socio. Dentro de ella está el número de cuenta donde deberás hacer el ingreso[^1] (La Caixa). El ingreso para nuevos socios es de **30€** (25€ cuota anual + 5€ cuota nuevos socios). Deberá ponerse de **asunto**: Nick de socio + Año actual. Ejemplo: Shybâ 2019
 
-Una vez que tengáis el resguardo de pago, la solicitud de socio cumplimentada y una fotocopia de vuestro DNI, debéis entregársela a la secretaria de la asociación (o en su defecto a alguien de la junta directiva) por los que podéis preguntar en cualquiera de las actividades de la asociación.
+Una vez que tengáis el resguardo de pago, la solicitud de socio cumplimentada y una fotocopia de vuestro DNI, debéis entregársela a la secretaria de la asociación (o en su defecto a alguien de la junta directiva). 
+
+Lo mas sencillo es que vengáis a un [código Pingüino o código Fénix](../pinguino) para conocernos y os podamos guiar en el proceso de asociaros.
 
 ## ¿Cuando puedo asociarme?
 
-¡En cualquier momento! No hay restricción a la hora de hacerte socio siempre y cuando entregues todo lo que hemos explicado antes. Serás socio desde el momento en el que hagas el ingreso y hasta final de ese mismo año. Eso sí, no pondrás disfrutar de los privilegios hasta que entregues todos los formularios y papeles a la persona procedente. ¿Qué quiere decir esto? que si tú pagas el 8 de enero y no nos entregas los papeles hasta el 5 de febrero, contaras como socia desde el día 8, pero no podrás entrar al grupo de WhatsApp. Así que acordaros de entregarnos los papeles lo antes posible 😉
+No hay restricción a la hora de hacerte socio siempre y cuando entregues todo lo que hemos explicado antes. Serás socio desde el momento en el que hagas el ingreso y **hasta final de ese mismo año**. Eso sí, no pondrás disfrutar de los [privilegios](#cuales-son-los-privilegios-de-ser-socio) hasta que entregues todos los formularios y papeles a la persona procedente.
 
 [^1]: Un vez ingresado el dinero, no será devuelto salvo en situaciones excepcionales. Si tienes cualquier problema, ponte en contacto con nosotros a través de redes sociales.

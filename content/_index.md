@@ -1,5 +1,8 @@
 ---
-Title: Bienvenido a ACNIL
+title: Bienvenido a ACNIL
+description: Somos una asociación cultural de Burgos sin ánimo de lucro que trata de difundir los juegos de mesa, la cultura asiática, los juegos de rol y los videojuegos.
+images:
+ - /images/acnilito.jpg
 ---
 
 {{< figure src="/images/acnilito.jpg" title="Acnilito" class="mx-auto logo" link="/" >}}

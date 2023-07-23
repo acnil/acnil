@@ -1,8 +1,10 @@
 baseURL = "http://localhost:1313/acnil/"
 # baseURL = "/"
-languageCode = 'en-us'
+languageCode = 'es-es'
 title = 'ACNIL'
-mainSections = "blog"
+description = ''
+
+# mainSections = "blog"
 
 RelativeURLs=true
 CanonifyURLs=true
@@ -19,7 +21,7 @@ refLinksErrorLevel="WARNING"
   pageRef = '/'
   weight = 10
 [[menu.main]]
-  name = 'Jornadas'
+  name = 'BigBangBurgos'
   pageRef = '/jornadas'
   weight = 20
 [[menu.main]]
@@ -40,8 +42,6 @@ refLinksErrorLevel="WARNING"
 
 
   # misc
-  comments = false   
-  disableHLJS = true                        # disable highlight.js
   monoDarkIcon = true                     # show monochrome dark mode icon
 
 [markup.goldmark.renderer]
