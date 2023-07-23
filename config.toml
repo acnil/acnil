@@ -13,6 +13,20 @@ CanonifyURLs=true
 
 refLinksErrorLevel="WARNING"
 
+[menu]
+[[menu.main]]
+  name = 'Inicio'
+  pageRef = '/'
+  weight = 10
+[[menu.main]]
+  name = 'Jornadas'
+  pageRef = '/jornadas'
+  weight = 20
+[[menu.main]]
+  name = 'Asociación'
+  pageRef = '/about'
+  weight = 30
+
 [params]
   # header social icons
   twitter = 'acnilburgos'               

@@ -10,12 +10,39 @@ html {
     --dark-bg: hsl(138, 11%, 10%);
     --dark-card-bg: hsl(138, 11%, 15%);
 
-    --content: rgba(0, 0, 0, 0.2);
-    --header: rgba(0, 0, 0, 0.4);
+    --content: hsl(138, 41%, 60%);
+    --dark-content: hsl(138, 11%, 9%);
+
+    --header: hsl(138, 32%, 38%);
+    --dark-header: hsl(138, 11%, 5%);
 }
 
-header {
+:is(header, .links) {
     background-color: var(--header);
+}
+
+.dark :is(header, .links) {
+    background-color: var(--dark-header);
+}
+
+.current-menu-item {
+    background-color: var(--content)
+}
+
+.dark .current-menu-item {
+    background-color: var(--dark-content)
+}
+
+.links .marker {
+    padding-left: 1em;
+    padding-right: 1em;
+    height: 100%;
+}
+
+.sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 
 
