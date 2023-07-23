@@ -1,0 +1,12 @@
+<div class="edit-page">
+ <a 
+ target="_blank" 
+ {{- if eq .Page.BundleType "branch" -}}
+ href="https://github.com/acnil/acnil/edit/master/content{{.Page.RelPermalink}}/_index.md"
+ {{- else -}}
+ href="https://github.com/acnil/acnil/edit/master/content{{.Page.RelPermalink}}/index.md"
+ {{- end -}}
+ >
+    <img  src="{{ relURL "./icons/pencil.png" }}" />
+</a>
+</div>
