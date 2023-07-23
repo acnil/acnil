@@ -5,7 +5,11 @@
     &copy; {{ now.Year }}
     <a class="link" href="{{ `` | relURL }}">{{ site.Title }}</a>
   </div>
+
+
   <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
     >Powered by Hugo️️</a
   >️
+
+  {{ partial "editpage.html" . }}
 </footer>
