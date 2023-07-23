@@ -16,6 +16,7 @@ Hasta 2009, Burgos había permanecido dividida en este aspecto. Muchos jóvenes 
 ## ¿Cuales son los privilegios de ser socio?
 
 - Acceso a la ludoteca de ACNIL para poder llevarse juegos prestados.
+- Acceso al local de la asociación donde podrás jugar a juegos de mesa.
 - Acceso a los beneficios de [Avalon](https://avalonburgos.es) (Más información en tienda)
 - Camiseta asociativa con el logo de Acnil y tu nombre (opcional)
 - Formar parte del grupo de WhatsApp de la asociación junto con el resto de miembros
