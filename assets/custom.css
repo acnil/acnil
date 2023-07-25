@@ -4,24 +4,38 @@
 
 
 html {
-    --bg: hsl(138, 82%, 78%);
-    --card-bg: hsl(138, 82%, 78%);
+    --bg: hsl(138, 0%, 90%);
+    --dark-bg: hsl(138, 0%, 10%);
 
-    --dark-bg: hsl(138, 11%, 10%);
-    --dark-card-bg: hsl(138, 11%, 15%);
+    --dark-card-bg: hsl(138, 0%, 15%);
+    --card-bg: hsl(138, 0%, 90%);
 
-    --content: hsl(138, 41%, 60%);
-    --dark-content: hsl(138, 11%, 9%);
+    --content: hsl(138, 0%, 85%);
+    --dark-content: hsl(138, 0%, 9%);
 
-    --header: hsl(138, 32%, 38%);
-    --dark-header: hsl(138, 11%, 5%);
+    --header: hsl(138, 0%, 95%);
+    --dark-header: hsl(138, 0%, 5%);
+
+    --border: hsl(138, 50%, 50%);
+}
+
+main {
+    border-left: 0.14rem solid var(--border);
 }
 
 :is(header, .links) {
     background-color: var(--header);
+    border-left: 0.35rem solid var(--border);
 }
 
-.dark :is(header, .links) {
+footer {
+    background-color: var(--header);
+    border-left: 0.14rem solid var(--border);
+
+    max-height: 3em;
+}
+
+.dark :is(header, .links, footer) {
     background-color: var(--dark-header);
 }
 
