@@ -25,7 +25,7 @@ refLinksErrorLevel="WARNING"
   pageRef = '/jornadas'
   weight = 20
 [[menu.main]]
-  name = 'Asociación'
+  name = 'Sobre Nosotros'
   pageRef = '/about'
   weight = 30
 
