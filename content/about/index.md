@@ -9,7 +9,7 @@ La **A**sociación **C**ultural por los **N**uevos **I**ntereses **L**údicos (*
 
 Fue creada el 23 de julio de 2009 en Burgos por un pequeño grupo de jóvenes de los que surgió, por votación, la primera Junta Directiva.
 
-Poco a poco fuimos ganando experiencia y creando más actividades tanto para los socios como para aquellos que simplemente quisieran acompañarnos y pasarlo bien porque, ante todo, somos una asociación que preten disfrutar de lo que nos gusta y de compartir esos intereses con gente como nosotros.
+Poco a poco fuimos ganando experiencia y creando más actividades tanto para los socios como para aquellos que simplemente quisieran acompañarnos y pasarlo bien porque, ante todo, somos una asociación que pretende disfrutar de lo que nos gusta y de compartir esos intereses con gente como nosotros.
 
 Hasta 2009, Burgos había permanecido dividida en este aspecto. Muchos jóvenes con intereses comunes se juntaban en grupos reducidos y desconocían la existencia de más gente con intereses similares. Es por esto que nació ACNIL, como una vía para compartir, disfrutar y conocer nueva gente que aumente nuestro conocimiento.
 
