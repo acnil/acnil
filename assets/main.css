@@ -430,10 +430,6 @@ video {
   display: none;
 }
 
-html,
-body {
-  height: 100%;
-}
 
 html {
   --bg: transparent;
