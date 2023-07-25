@@ -1,7 +1,7 @@
 ---
 ---
 
-{{< figure src="/images/acnilito.svg" title="Acnilito" class="mx-auto logo" link="/" >}}
+{{< figure src="/images/acnilito.png" title="Acnilito" class="mx-auto logo" link="/" >}}
 
 # Quiénes somos
 
