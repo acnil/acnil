@@ -1,3 +1,3 @@
-# Codigo Pingüino
+# Código Pingüino
 
-Aquí podrás leer mas información del código Pingüino
+Aquí podrás leer más información sobre el Código Pingüino
