@@ -6,6 +6,6 @@ images:
     - images/bigbangburgos.jpg
 ---
 
-Una vez al año, organizamos el evento **Big Bang Burgos**. Un gran evento donde puedes venir a disfrutar de todo lo quemas te gusta. Juegos de mesa, Cosplay, Merchandising, Rol....
+Una vez al año, organizamos el evento **Big Bang Burgos**. Un gran evento donde puedes venir a disfrutar de todo lo que más te gusta: juegos de mesa, cosplay, merchandising, rol, videojuegos, talleres...
 
-**Haz click** en las imágenes para ver mas información del evento
+**Haz click** en las imágenes para ver más información sobre el evento.
