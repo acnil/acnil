@@ -2,6 +2,16 @@
 
 Código fuente de la página web de ACNIL
 
+## Ejecutar en local
+
+1. Instala dependencias
+   1. [Hugo v0.114.0](https://github.com/gohugoio/hugo/releases/tag/v0.114.0)
+   3. VScode
+   4. Git
+3. Descarga el repositorio
+4. Ejecuta `hugo serve -D` desde la raiz
+5. Enjoy!
+
 ## Ejecutar en codespaces
 
 1. Abrir Codespace
