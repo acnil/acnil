@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Hugo serve",
+            "type": "shell",
+            "command": "hugo serve -D --liveReloadPort 443",
+            "problemMatcher": []
+        }
+    ]
+}
