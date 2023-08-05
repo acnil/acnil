@@ -1,14 +1,20 @@
 package main
 
 import (
+	"context"
 	"flag"
 	"fmt"
 	"image"
 	"image/jpeg"
 	_ "image/png"
+	"io"
 	"log"
+	"net/http"
 	"os"
 	"path/filepath"
+	"runtime"
+	"sort"
+	"strings"
 
 	"github.com/nfnt/resize"
 	"gopkg.in/yaml.v3"
@@ -20,7 +26,7 @@ type Config struct {
 
 type Action struct {
 	Name        string `yaml:"name,omitempty"`
-	Glob        string `yaml:"glob,omitempty"`
+	Source      string `yaml:"source,omitempty"`
 	Destination string `yaml:"destination,omitempty"`
 	MaxWidth    int    `yaml:"maxWidth,omitempty"`
 	Quality     int    `yaml:"quality,omitempty"`
@@ -42,9 +48,20 @@ func main() {
 		log.Fatalf("Couldn't read the config file, %s", err)
 	}
 
-	for _, action := range config.Actions {
-		ProcessAction(action)
+	nWorkers := runtime.NumCPU()
+	queue := make(chan ProcessImageAction, nWorkers)
+
+	ctx, done := context.WithCancel(context.Background())
+	log.Println("detected %d cpu", nWorkers)
+	for i := 0; i < nWorkers; i++ {
+		go StartWorker(ctx, queue)
 	}
+
+	for _, action := range config.Actions {
+		ProcessAction(ctx, queue, action)
+	}
+
+	done()
 
 }
 
@@ -61,37 +78,130 @@ type ImageData struct {
 }
 
 func (i ImageData) String() string {
-	return fmt.Sprintf("%dx%d (%s)", i.X, i.Y, i.Size)
+	return fmt.Sprintf("%s: %dx%d (%s)", i.Path, i.X, i.Y, i.Size)
 }
 
 type ActionResult struct {
 	Originals    []ImageData
 	Destinations []ImageData
 }
+type ProcessImageActionResult struct {
+	Original    ImageData
+	Destination ImageData
+}
 
-func ProcessAction(action Action) {
+type ProcessImageAction struct {
+	Action          Action
+	destinationName string
+	sourceImage     string
+
+	result chan ProcessImageActionResult
+}
+
+func StartWorker(ctx context.Context, queue <-chan ProcessImageAction) {
+	log.Printf("Starting worker...")
+	for {
+		select {
+		case work := <-queue:
+			originalImage, processedImage, err := ProcessImage(work.Action, work.destinationName, work.sourceImage)
+			if err != nil {
+				log.Printf("Failed to process image %s, %s", work.sourceImage, err)
+			}
+			work.result <- ProcessImageActionResult{
+				Original:    originalImage,
+				Destination: processedImage,
+			}
+		case <-ctx.Done():
+			log.Print("Stop worker because context is done")
+			return
+		}
+	}
+}
+
+func ProcessAction(ctx context.Context, queue chan<- ProcessImageAction, action Action) {
 	log.Printf("Running action %s", action.Name)
-	imageGlob, err := filepath.Glob(action.Glob)
+
+	if strings.HasPrefix(action.Source, "http") {
+		r, err := http.Get(action.Source)
+		if err != nil {
+			log.Printf("Failed to fetch image %s, %s", action.Name, err)
+			return
+		}
+		if r.StatusCode != http.StatusOK {
+			log.Printf("Unexpected status code %s, %s", action.Name, r.Status)
+			return
+		}
+		defer r.Body.Close()
+		tmp, err := os.CreateTemp("", "download_*.jpg")
+		if err != nil {
+			log.Printf("Cloudn't create a tmp file, %s, %s", action.Name, err)
+			return
+		}
+		io.Copy(tmp, r.Body)
+		tmp.Close()
+
+		results := make(chan ProcessImageActionResult, 1)
+		go func() {
+			queue <- ProcessImageAction{
+				destinationName: fmt.Sprintf("%s.jpg", action.Name),
+				sourceImage:     tmp.Name(),
+				result:          results,
+				Action:          action,
+			}
+		}()
+
+		select {
+		case result := <-results:
+			log.Printf("Original %s, processed %s, Saved %.0f%%", result.Original, result.Destination, 100-100*float64(result.Destination.Size)/float64(result.Original.Size))
+		case <-ctx.Done():
+			log.Printf("Context cancelled before all images were processed")
+		}
+
+		err = os.Remove(tmp.Name())
+		if err != nil {
+			log.Printf("Warning: failed to remove tmp file %s, %s", tmp.Name(), err)
+		}
+
+		return
+	}
+
+	imageGlob, err := filepath.Glob(action.Source)
 	if err != nil {
-		log.Printf("Action glob is invalid, %s ,%s", action.Glob, err)
+		log.Printf("Action glob is invalid, %s ,%s", action.Source, err)
 		return
 	}
 	if len(imageGlob) == 0 {
-		log.Printf("No images found for %s", action.Glob)
+		log.Printf("No images found for %s", action.Source)
 	}
+	results := make(chan ProcessImageActionResult)
+	go func() {
+		for i, sourceImage := range imageGlob {
+			queue <- ProcessImageAction{
+				destinationName: fmt.Sprintf("%s_%d.jpg", action.Name, i),
+				sourceImage:     sourceImage,
+				result:          results,
+				Action:          action,
+			}
+		}
+	}()
+
 	result := ActionResult{
 		Originals:    []ImageData{},
 		Destinations: []ImageData{},
 	}
-
-	for i, sourceImage := range imageGlob {
-		originalImage, processedImage, err := ProcessImage(action, i, sourceImage)
-		if err != nil {
-			log.Printf("Failed to process image %s, %s", sourceImage, err)
+	for i := 0; i < len(imageGlob); i++ {
+		select {
+		case actionResult := <-results:
+			result.Originals = append(result.Originals, actionResult.Original)
+			result.Destinations = append(result.Destinations, actionResult.Destination)
+		case <-ctx.Done():
+			log.Printf("Context cancelled before all images were processed")
+			return
 		}
-		result.Originals = append(result.Originals, originalImage)
-		result.Destinations = append(result.Destinations, processedImage)
 	}
+
+	sort.Slice(result.Originals, func(i, j int) bool { return result.Originals[i].Path < result.Originals[j].Path })
+	sort.Slice(result.Destinations, func(i, j int) bool { return result.Destinations[i].Path < result.Destinations[j].Path })
 
 	var totalOriginalSize Bytes
 	var totalProcessedSize Bytes
@@ -114,16 +224,15 @@ func ResizeImage(source image.Image, maxWidth int) (image.Image, error) {
 
 	Y := (source.Bounds().Dy() * maxWidth) / source.Bounds().Dx()
 
-	log.Printf("Resizing image to %dx%d", maxWidth, Y)
-	resizedImage := resize.Resize(uint(maxWidth), uint(Y), source, resize.Lanczos2)
+	resizedImage := resize.Resize(uint(maxWidth), uint(Y), source, resize.NearestNeighbor)
 	return resizedImage, nil
 }
 
-func ProcessImage(action Action, i int, sourceImage string) (original ImageData, destination ImageData, _ error) {
+func ProcessImage(action Action, destinationName string, sourceImage string) (original ImageData, destination ImageData, _ error) {
+	log.Printf("Processing image %s", sourceImage)
 	original.Path = sourceImage
 
-	betterName := fmt.Sprintf("images_%d.jpg", i)
-	destination.Path = filepath.Join(action.Destination, betterName)
+	destination.Path = filepath.Join(action.Destination, destinationName)
 
 	destinationFile, err := os.Create(destination.Path)
 	if err != nil {
@@ -131,7 +240,6 @@ func ProcessImage(action Action, i int, sourceImage string) (original ImageData,
 	}
 	defer destinationFile.Close()
 
-	log.Printf("Processing image %s", sourceImage)
 	sourceImageFile, err := os.Open(sourceImage)
 	if err != nil {
 		return original, destination, fmt.Errorf("Couldn't open source image, %s ,%w", sourceImage, err)
