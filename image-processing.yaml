@@ -1,0 +1,6 @@
+actions:
+  - name: "X"
+    glob: ./static/all-images/Fotos/X JMOAB/*
+    destination: content/jornadas/2022-07-09/
+    maxWidth: 800
+    quality: 95
