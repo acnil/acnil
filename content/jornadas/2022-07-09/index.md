@@ -1,7 +1,7 @@
 ---
-title: Jornadas 2020
-date: 2020-06-08
-image: /jornadas2022.jpg
+title: Jornadas 2022
+date: 2022-07-09
+image: ./cartel_X.jpg
 description: Este año vuelven las Jornadas de Manga y Ocio Alternativo a Burgos en su X edición, con este póster tan molón que nos ha hecho el artista @joserealart para la temática "Viajes en el tiempo".
 ---
 
