@@ -1,6 +1,6 @@
-baseURL = "http://localhost:1313/acnil/"
-# baseURL = "/"
+baseURL = "http://localhost:1313/"
 languageCode = 'es-es'
+defaultContentLanguage = 'es-es'
 title = 'ACNIL'
 description = ''
 
@@ -16,7 +16,15 @@ CanonifyURLs=true
 theme = ["hugo-shortcode-gallery"]
 
 refLinksErrorLevel="WARNING"
+enableGitInfo = true
+enableRobotsTXT = true
 
+disableKinds = ['taxonomy']
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 [menu]
 [[menu.main]]
