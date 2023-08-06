@@ -36,3 +36,7 @@ Tenemos un zip con las imágenes en alta resolución que no se encuentran en est
    5. Hacer click en `Abrir en el navegador`
 3. Editar!
    1. Edita cualquier página y los cambios se verán en tiempo real en la ventana anterior
+
+## Links
+
+- [Debug cards](http://debug.iframely.com/?uri=https%3A%2F%2Fbigbangburgos.es%2Fjornadas%2F2022-07-09%2F)
