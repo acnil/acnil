@@ -2,6 +2,10 @@
 
 Código fuente de la página web de ACNIL
 
+## Imagenes
+
+Tenemos un zip con las imágenes en alta resolución que no se encuentran en este repositorio para evitar que sea muy grande. Se pueden descargar [aqui](https://drive.google.com/file/d/1o7J-8wdfjL5hO6pA_I3OWRr1uxcwnXE1/view?usp=sharing). Hay un script que utiliza `./image-processing.yaml` para generar las imágenes en baja resolución para la web.
+
 ## Ejecutar en local
 
 1. Instala dependencias
