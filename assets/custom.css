@@ -81,6 +81,24 @@ footer {
 
 
 
+.poster {
+    width: calc(50% - 0.5em);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: 0 .1rem 1rem rgba(0, 0, 0, 0.1);
+    border-radius: 1em;
+    background: var(--card-bg);
+}
+
+.poster img {
+    margin: auto;
+}
+
+.dark .poster {
+    background: var(--dark-card-bg);
+}
+
 .card {
     width: calc(50% - 0.5em);
     display: flex;
@@ -194,6 +212,12 @@ footer {
 
     /* For mobile phones: */
     .card {
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+        width: 100%;
+    }
+
+    .poster {
         margin-left: -1.5rem;
         margin-right: -1.5rem;
         width: 100%;
