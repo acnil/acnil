@@ -1,7 +1,8 @@
 ---
 title: Big Bang Burgos 2023
 date: 2023-06-08
-image: ./cartel_XI.jpg
+images:
+ - /jornadas/2023-07-08/cartel_XI.jpg
 ---
 
 {{< figure src="cartel_XI.jpg"  class="list-image" >}}

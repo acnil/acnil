@@ -1,7 +1,8 @@
 ---
 title: Jornadas 2022
 date: 2022-07-09
-image: ./cartel_X.jpg
+images:
+ - /jornadas/2022-07-09/cartel_X.jpg
 description: Este año vuelven las Jornadas de Manga y Ocio Alternativo a Burgos en su X edición, con este póster tan molón que nos ha hecho el artista @joserealart para la temática "Viajes en el tiempo".
 ---
 
