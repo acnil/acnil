@@ -89,10 +89,15 @@ footer {
     box-shadow: 0 .1rem 1rem rgba(0, 0, 0, 0.1);
     border-radius: 1em;
     background: var(--card-bg);
+    transition: transform 100ms linear;
 }
 
 .poster img {
     margin: auto;
+}
+
+.poster:hover {
+    transform: scale(1.04);
 }
 
 .dark .poster {
