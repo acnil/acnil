@@ -4,7 +4,9 @@ date: 2020-06-08
 image: /jornadas2022.jpg
 ---
 
-{{< figure src="jornadas2022.jpg" class="list-image" >}}
+{{< figure src="cartel_X.jpg" class="list-image" >}}
+
+{{< figure src="horario_X.jpg" class="list-image" link="horario_X.jpg" >}}
 
 # Galeria de fotos
 
