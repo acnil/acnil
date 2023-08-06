@@ -10,6 +10,8 @@ description: Este año vuelven las Jornadas de Manga y Ocio Alternativo a Burgos
 
 Este año vuelven las Jornadas de Manga y Ocio Alternativo a Burgos en su X edición, con este póster tan molón que nos ha hecho el artista @joserealart para la temática "Viajes en el tiempo".
 
+🕗🔙🕘
+
 ## Horario
 
 Sábado 9 y Domingo 10 de Julio. De 10:00 a 13:30 y de 16:00 a 20:30.
