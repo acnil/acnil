@@ -5,6 +5,7 @@ title = 'ACNIL'
 description = ''
 
 mainSections = "blog"
+enableEmoji = true
 
 RelativeURLs=true
 CanonifyURLs=true
@@ -12,8 +13,10 @@ CanonifyURLs=true
 # I based the website on this, but I removed all unnecessary code to make it easier to understand
 # https://github.com/nanxiaobei/hugo-paper
 # theme = "paper"
+theme = ["hugo-shortcode-gallery"]
 
 refLinksErrorLevel="WARNING"
+
 
 [menu]
 [[menu.main]]

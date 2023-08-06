@@ -5,7 +5,7 @@ image: ./bigbangburgos2023.jpg
 ---
 
 
-{{< figure src="bigbangburgos2023.jpg" title="Poster" class="list-image" >}}
+{{< figure src="cartel_X.jpg"  class="list-image" >}}
 
 
 ## Twitter
