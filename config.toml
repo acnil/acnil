@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://mail.bigbangburgos.es/"
 languageCode = 'es-es'
 defaultContentLanguage = 'es-es'
 title = 'ACNIL'
@@ -20,6 +20,12 @@ enableGitInfo = true
 enableRobotsTXT = true
 
 disableKinds = ['taxonomy']
+
+[module]
+[[module.mounts]]
+  excludeFiles = 'all-images'
+  source = 'static'
+  target = 'static'
 
 [sitemap]
   changefreq = 'weekly'
