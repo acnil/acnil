@@ -54,7 +54,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            -d ./public
+            -d ./public \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
@@ -93,7 +93,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            -d web-deploy
+            -d web-deploy \
             --baseURL "https://acnil.es"
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
