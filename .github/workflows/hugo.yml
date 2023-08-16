@@ -27,11 +27,57 @@ defaults:
     shell: bash
 
 jobs:
-  # Build job
-  build:
+
+  deps:
+    name: install deps
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.114.0
+    steps:
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+
+  # Build job
+  github-pages:
+    name: deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    needs: deps
+    steps:
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
+      - name: Build with Hugo
+        env:
+          # For maximum backward compatibility with Hugo modules
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+        run: |
+          hugo \
+            --minify \
+            -d ./public
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        env:
+          name: github-pages
+          url: ${{ steps.pages.outputs.base_url }}
+        id: deployment
+        uses: actions/deploy-pages@v2
+
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    needs: deps
     steps:
       - name: Install Hugo CLI
         run: |
@@ -52,20 +98,12 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+            -d web-deploy
+            --baseURL "https://acnil.es"
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          path: ./public
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+          server: ftp.acnil.es
+          username: github@acnil.es
+          password: ${{ secrets.ftp_password }}
+          local-dir: ./web-deploy
