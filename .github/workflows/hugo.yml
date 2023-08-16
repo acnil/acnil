@@ -101,4 +101,4 @@ jobs:
           server: ftp.acnil.es
           username: github@acnil.es
           password: ${{ secrets.ftp_password }}
-          local-dir: ./web-deploy
+          local-dir: ./web-deploy/
