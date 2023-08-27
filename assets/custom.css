@@ -122,6 +122,7 @@ footer {
     max-width: 100%;
     display: block;
     object-fit: cover;
+    object-position: top;
     margin: 0px;
     padding: 0px;
     width: 100%;

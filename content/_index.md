@@ -35,4 +35,12 @@ El primer sábado y el tercer viernes de cada mes nos juntamos para jugar a jueg
 
 {{% /card %}}
 
+{{% card img="/images/tanabata.jpg" %}}
+
+### Tanabata
+
+Nos juntamos en el veranos en fuentes blancas para seguir la tradición japonesa del Tanabata. Pasamos el día haciendo actividades y al finalizar colgamos nuestros Tanzaku (短冊) (trocitos de papel con deseos) en un árbol.
+
+{{% /card %}}
+
 {{< /cardlist >}}

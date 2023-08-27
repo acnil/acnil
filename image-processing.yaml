@@ -19,3 +19,8 @@ actions:
     destination: content/jornadas/2022-07-09/
     maxWidth: 1200
     quality: 80
+  - name: "tanabata"
+    source: "https://pbs.twimg.com/media/F3fb9KlW4AAsVUt?format=jpg&name=medium"
+    destination: static/images/
+    maxWidth: 500
+    quality: 80
