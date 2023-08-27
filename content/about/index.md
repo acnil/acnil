@@ -34,7 +34,7 @@ Para ser socio se necesitan dos cosas:
 1. Rellenar la solicitud de socio.
 2. Pagar la cuota de socio.
 
-En [este link](./inscripcion.pdf) tienes la solicitud de socio. Dentro de ella está el número de cuenta donde deberás hacer el ingreso[^1] (La Caixa). El ingreso para nuevos socios es de **30€** (25€ cuota anual + 5€ cuota nuevos socios). Deberá ponerse de **asunto**: Nick de socio + Año actual. Ejemplo: Shybâ 2019
+En [este link]({{% inscripcion %}}) tienes la solicitud de socio. Dentro de ella está el número de cuenta donde deberás hacer el ingreso[^1] (La Caixa). El ingreso para nuevos socios es de **30€** (25€ cuota anual + 5€ cuota nuevos socios). Deberá ponerse de **asunto**: Nick de socio + Año actual. Ejemplo: Shybâ 2019
 
 Una vez que tengáis el resguardo de pago, la solicitud de socio cumplimentada y una fotocopia de vuestro DNI, debéis entregársela a la secretaria de la asociación (o en su defecto a alguien de la junta directiva).
 

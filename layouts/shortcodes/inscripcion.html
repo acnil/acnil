@@ -1,0 +1,5 @@
+{{- if gt (now.Format "1") "6" -}}
+./inscripcion-reducida.pdf
+{{- else -}}
+./inscripcion.pdf
+{{- end -}}
