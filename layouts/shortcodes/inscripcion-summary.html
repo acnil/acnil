@@ -1,0 +1,2 @@
+{{- $reduced := gt (now.Format "1") "6" -}}
+**{{if $reduced}}20{{else}}30{{end}}€** ({{if $reduced}}15{{else}}25{{end}}€ cuota anual + 5€ cuota nuevos socios)
