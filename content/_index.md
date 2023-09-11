@@ -27,6 +27,14 @@ Una vez al año organizamos el evento **Big Bang Burgos**. Un gran evento donde 
 
 {{% /card %}}
 
+{{% card img="/images/cartel_juegatron_reducido.jpg" more="/juegatron" %}}
+
+### Juegatrón
+
+Una vez al año organizamos el evento **Juegatrón**. Llevamos un montón de juegos de mesa a la estación de la ciencia y la tecnología, donde puedes pasar un fin de semana jugando sin parar.
+
+{{% /card %}}
+
 {{% card img="/images/codigo-pinguino.jpg" more="/pinguino" %}}
 
 ### Código Pingüino y Código Fénix

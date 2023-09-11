@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+<article>
+
+{{ if .Title }} {{ partial "title" . }} {{ end }}
+
+<!-- $Content -->
+<section>
+{{ .Content }}
+</section>
+
+<!-- $pages -->
+{{ $pages := union .RegularPages .Sections }}<!---->
+{{ if .IsHome }}<!---->
+{{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
+{{ end }}
+
+<!-- Articles -->
+{{ $paginator := .Paginate $pages }} 
+<div class="container">
+{{ range $index, $page := $paginator.Pages}}<!---->
+
+{{- if .Resources.GetMatch "*.jpg" -}}
+{{$poster := .Resources.GetMatch "*.jpg"}}
+<a class="poster" href="{{ .RelPermalink }}">
+  <img  href="{{ .RelPermalink }}" src="{{$poster.RelPermalink}}"/>
+</a>
+{{- else -}}
+  {{ errorf "Failed to render page preview becase couldn't find a jpg image in resources" .Resources }}
+{{ end }}
+{{ end }}
+</div>
+</div>
+
+</article>
+
+<!-- Main Nav -->
+{{ if gt $paginator.TotalPages 1 }}
+<nav class="mt-16 flex">
+  {{ if $paginator.HasPrev }}
+  <a class="btn" href="{{ $paginator.Prev.URL }}">← {{ i18n "prev_page" }}</a>
+  {{ end }}<!---->
+  {{ if $paginator.HasNext }}
+  <a class="btn ml-auto" href="{{ $paginator.Next.URL }}"
+    >{{ i18n "next_page" }} →</a
+  >
+  {{ end }}
+</nav>
+{{ end }}<!---->
+
+{{ end }}

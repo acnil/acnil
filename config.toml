@@ -42,9 +42,13 @@ disableKinds = ['taxonomy']
   pageRef = '/jornadas'
   weight = 20
 [[menu.main]]
+  name = 'Juegatrón'
+  pageRef = '/juegatron'
+  weight = 30
+[[menu.main]]
   name = 'Sobre Nosotros'
   pageRef = '/about'
-  weight = 30
+  weight = 40
 
 [params]
   # header social icons
