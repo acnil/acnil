@@ -1,3 +1,8 @@
+{{- if .Site.Params.test -}}
 User-agent: *
-Disallow: /about/
+Disallow: /
+{{- else -}}
+User-agent: *
+Allow: /
 Sitemap: {{ .Sitemap.Filename | default "sitemap.xml" | relURL }}
+{{- end -}}

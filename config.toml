@@ -55,6 +55,7 @@ disableKinds = ['taxonomy']
   twitter = 'acnilburgos'               
   instagram = 'acnilburgos'           
   github = 'acnil'
+  test = false
 
   # home page profile
   # avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
