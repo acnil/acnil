@@ -1,8 +1,8 @@
-{{- if .Site.Params.test -}}
-User-agent: *
-Disallow: /
-{{- else -}}
+{{ if or hugo.IsProduction (eq site.Params.env "production") }}
 User-agent: *
 Allow: /
 Sitemap: {{ .Sitemap.Filename | default "sitemap.xml" | relURL }}
+{{- else -}}
+User-agent: *
+Disallow: /
 {{- end -}}

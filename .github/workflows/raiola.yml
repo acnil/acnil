@@ -48,8 +48,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            -d web-deploy \
-            --baseURL "https://acnil.es"
+            -d web-deploy 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:

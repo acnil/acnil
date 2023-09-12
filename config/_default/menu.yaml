@@ -1,0 +1,13 @@
+main:
+  - name: Inicio
+    pageRef: /
+    weight: 10
+  - name: BigBangBurgos
+    pageRef: /jornadas
+    weight: 20
+  - name: Juegatrón
+    pageRef: /juegatron
+    weight: 30
+  - name: Sobre Nosotros
+    pageRef: /about
+    weight: 40

@@ -1,0 +1,16 @@
+# header social icons
+twitter: acnilburgos               
+instagram: acnilburgos           
+github: acnil
+test: false
+
+
+# home page profile
+# avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+# name = 'YOUR_NAME'
+# bio = 'YOUR_BIO'
+
+
+# misc
+monoDarkIcon: true                     # show monochrome dark mode icon
+

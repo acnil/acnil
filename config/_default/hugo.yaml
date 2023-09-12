@@ -1,0 +1,23 @@
+baseURL: "https://acnil.es/"
+languageCode: es-es
+defaultContentLanguage: es-es
+title: ACNIL
+description: "Somos una asociación cultural de Burgos sin ánimo de lucro que trata de difundir los juegos de mesa, la cultura asiática, los juegos de rol y los videojuegos."
+
+mainSections: "blog"
+enableEmoji: true
+
+RelativeURLs: true
+CanonifyURLs: true
+
+# I based the website on this, but I removed all unnecessary code to make it easier to understand
+# https://github.com/nanxiaobei/hugo-paper
+# theme = "paper"
+theme: "hugo-shortcode-gallery"
+
+refLinksErrorLevel: WARNING
+enableGitInfo: true
+enableRobotsTXT: true
+
+disableKinds: 
+  - taxonomy
