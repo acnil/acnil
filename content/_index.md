@@ -27,7 +27,7 @@ Una vez al año organizamos el evento **Big Bang Burgos**. Un gran evento donde 
 
 {{% /card %}}
 
-{{% card img="/images/cartel_juegatron_reducido.jpg" more="/juegatron" %}}
+{{% card img="/images/juegatron.jpg" more="/juegatron" %}}
 
 ### Juegatrón
 
