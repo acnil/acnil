@@ -5,7 +5,10 @@ images:
  - /jornadas/2023-07-08/cartel_XI.jpg
 ---
 
-{{< figure src="cartel_XI.jpg"  class="list-image" >}}
+{{< figure src="cartel_XI.jpg" alt="Cartel de Big Bang Burgos 2023"  class="list-image" >}}
+
+{{< figure src="sabado.jpg"  alt="Horario Big Bang Burgos del Sabado" class="list-image" >}}
+{{< figure src="domingo.jpg" alt="Horario Big Bang Burgos del domingo"  class="list-image" >}}
 
 ## Twitter
 
