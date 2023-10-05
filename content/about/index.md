@@ -1,4 +1,5 @@
 ---
+title: Sobre Nosotros
 ---
 
 {{< figure src="/images/acnilito.png" title="Acnilito" class="mx-auto logo" link="/" >}}
