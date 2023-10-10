@@ -4,9 +4,9 @@ title: Juegatrón 2023
 date: 2022-11-11
 description: Jornadas de juegos de mesa 2023.
 images: 
- - /juegatron/2022-11-11/wip.jpg
+ - /juegatron/2022-11-11/upcoming.jpg
 ---
 
 # Proximamente...
 
-{{< figure src="wip.jpg" class="list-image" >}}
+{{< figure src="upcoming.jpg" class="list-image" >}}
