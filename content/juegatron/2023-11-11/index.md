@@ -5,7 +5,7 @@ date: 2023-11-11
 publishDate: 2023-10-01
 description: Jornadas de juegos de mesa 2023.
 images: 
- - /juegatron/2022-11-11/upcoming.jpg
+ - /juegatron/2023-11-11/upcoming.jpg
 ---
 
 # Proximamente...
