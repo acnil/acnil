@@ -13,6 +13,14 @@ Otro año mas colaboramos con la [estación de la ciencia y la tecnología](http
 
 Volveremos a estar prácticamente todo el dia en la estación donde os enseñaremos un montón de juegos de mesa. Toda la información sobre el evento se puede encontrar en la página de la estación.
 
+## Cuándo
+
+- Todos los públicos a partir de 7 años.
+- :free: Entradas gratuita
+- :calendar: Sábado y domingo, 11 y 12 de noviembre de 2023
+- :clock: Horario: de 10 a 14 h. y de 16:30 a 20:30 h.
+- 📍 En La Estación de la Ciencia y la Tecnología
+
 ## {{< countdown target="2023-11-11T00:00:00" >}}
 
 {{< figure src="cartel.jpg" class="list-image" >}}

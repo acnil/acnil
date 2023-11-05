@@ -10,4 +10,8 @@ Una vez al año organizamos el evento **Juegatrón**. Llevamos un montón de jue
 
 **Acnil** organiza el evento poniendo a disposición una gran parte de nuestra ludoteca. Ademas de todo el apoyo de nuestros socios, que estarán en el evento para ayudarte a aprender los juegos y que no tengas que perder tiempo en leer nada.
 
+1. Entrada gratuita
+2. Podrás tomar prestados juegos para jugar durante el evento
+3. Nuestros socios estarán disponibles para enseñarte a jugar o responder dudas
+
 Mas abajo puedes ver los eventos de otros años, haz clic en el cartel para ver mas información.
