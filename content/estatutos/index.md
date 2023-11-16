@@ -4,9 +4,9 @@
 
 #### Artículo 1
 
-1.- Al amparo del artículo 22 de la Constitución Española, con sede en Burgos y con la denominación de ASOCIACIÓN CULTURAL POR LOS NUEVOS INTERESES LÚDICOS (ACNIL) se constituye una Asociación que tendrá, con arreglo a las Leyes, capacidad jurídica y plena capacidad para obrar, careciendo de ánimo de lucro.
-2.- El régimen de la Asociación está constituido por los presentes estatutos y los acuerdos válidamente adoptados por su Asamblea General y Órganos Directivos, dentro de la esfera de su respetiva competencia. En lo no previsto se estará a lo establecido en la Ley Orgánica 1/2002, de 22 de marzo, Reguladora del Derecho de Asociación.
-3.- Esta asociación tiene carácter permanente y se constituye por tiempo indefinido.
+1. Al amparo del artículo 22 de la Constitución Española, con sede en Burgos y con la denominación de ASOCIACIÓN CULTURAL POR LOS NUEVOS INTERESES LÚDICOS (ACNIL) se constituye una Asociación que tendrá, con arreglo a las Leyes, capacidad jurídica y plena capacidad para obrar, careciendo de ánimo de lucro.
+1. El régimen de la Asociación está constituido por los presentes estatutos y los acuerdos válidamente adoptados por su Asamblea General y Órganos Directivos, dentro de la esfera de su respetiva competencia. En lo no previsto se estará a lo establecido en la Ley Orgánica 1/2002, de 22 de marzo, Reguladora del Derecho de Asociación.
+1. Esta asociación tiene carácter permanente y se constituye por tiempo indefinido.
 
 ## TÍTULO II: FINES Y ACTIVIDADES DE LA ASOCIACIÓN
 
