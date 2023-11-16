@@ -13,7 +13,7 @@
 #### Artículo 2
 
 1. Son fines de esta Asociación:
-   1. Das a conocer la cultura oriental.
+   1. Dar a conocer la cultura oriental.
    2. Promover el uso de nuevas tecnologías y juegos de mesa entre la juventud.
    3. Dar a conocer la literatura de ficción y sus vertientes lúdicas.
 2. Para el cumplimiento de estos fines se realizarán las siguientes actividades:
