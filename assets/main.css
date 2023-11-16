@@ -437,11 +437,11 @@ html {
 
 body {
   -webkit-tap-highlight-color: transparent;
-  background: var(--bg);
+  background: linear-gradient(180deg, var(--bg) 0%, var(--bg-end) 1500px);
 }
 
 :is(.dark body) {
-  background-color: var(--dark-bg);
+  background: linear-gradient(180deg, var(--dark-bg) 0%, var(--dark-bg-end) 1500px);
 }
 
 *,
@@ -1598,11 +1598,11 @@ body {
 }
 
 .nav-wrapper {
-  background: var(--bg);
+  background-color: var(--bg);
 }
 
 :is(.dark .nav-wrapper) {
-  background: var(--bg);
+  background-color: var(--dark-bg);
 }
 
 .open {
