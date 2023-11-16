@@ -1,3 +1,10 @@
+---
+title: Estatutos de ACNIL
+description: Estatutos oficiales de la asociación
+images:
+ - /images/acnilito.png
+---
+
 # ESTATUTOS DE LA ASOCIACIÓN CULTURAL POR LOS NUEVOS INTERESES LÚDICOS (ACNIL)
 
 ## TÍTULO I: DENOMINACIÓN Y RÉGIMEN DE LA ASOCIACIÓN
