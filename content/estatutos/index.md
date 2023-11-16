@@ -14,10 +14,10 @@
 
 1. Son fines de esta Asociación:
    1. Das a conocer la cultura oriental.
-   2. Promover el uso de nuevas tecnologías a la juventud.
+   2. Promover el uso de nuevas tecnologías y juegos de mesa entre la juventud.
    3. Dar a conocer la literatura de ficción y sus vertientes lúdicas.
 2. Para el cumplimiento de estos fines se realizarán las siguientes actividades:
-   1. Reunión semanal en la que se practicarán diversas actividades para lograr los fines antes expuestos.
+   1. Reunión quincenal en la que se practicarán diversas actividades para lograr los fines antes expuestos.
    2. Fin de semana anual en el que se expondrán las actividades realizadas a lo largo del año a un público nacional.
    3. Salidas a los diferentes eventos sociales con finalidad similar a nuestras actividades culturales, las cuales serán opcionales, privando de su realización a aquellas personas que no aporten la cantidad indicada para la realización de dicha actividad, así como cualquier otra actividad necesaria para la consecución de sus fines.
 3. Los beneficios obtenidos por la Asociación, derivados del ejercicio de actividades económicas, incluidas en las prestaciones de servicios, deberán destinarse, exclusivamente, al cumplimiento de sus fines, son que quepa en ningún caso su reparto entre los asociados ni entre sus cónyuges o personas que convivan con aquellos con análoga relación de afectividad, ni entre sus parientes, ni su cesión gratuita a personas físicas o jurídicas con interés lucrativo.
@@ -59,11 +59,11 @@ Las reuniones de la Asamblea General serán ordinarias y extraordinarias.
 
 #### Artículo 8 - Convocatoria
 
-Las convocatorias de las Asambleas generales se realizarán por escrito expresando lugar, día y hora de la reunión, así como el orden del día con expresión concreta de los asuntos a tratar, Entre la convocatoria y el día señalado para la celebración de la Asamblea en primera convocatoria habrán de mediar al menos quince días, pudiendo así mismo hacerse constar si procediera la fecha y hora en la que se reunirá la Asamblea en segunda convocatoria, sin que entre una y otra pueda mediar un plazo inferior a una hora.
+Las convocatorias de las Asambleas generales se realizarán por escrito expresando lugar, día y hora de la reunión, así como el orden del día con expresión concreta de los asuntos a tratar, Entre la convocatoria y el día señalado para la celebración de la Asamblea en primera convocatoria habrán de mediar al menos siete días, pudiendo así mismo hacerse constar si procediera la fecha y hora en la que se reunirá la Asamblea en segunda convocatoria, sin que entre una y otra pueda mediar un plazo inferior a una hora.
 
 #### Artículo 9 - Quórum de asistencia y votaciones
 
-Las Asambleas Generales, tanto ordinarias como extraordinarias, quedarán válidamente constituidas en primera convocatoria cuando concurran a ella un tercio de los socios con derecho a voto. Será necesaria en todo caso la presencia del Presidente y Secretario, o de las personas que legalmente les sustituyan.
+Las Asambleas Generales, tanto ordinarias como extraordinarias, quedarán válidamente constituidas en primera convocatoria cuando concurran a ella un tercio de los socios con derecho a voto. y en segunda convocatoria cuando lo haga una décima parte de socios con derecho a voto. Será necesaria en todo caso la presencia del Presidente y Secretario, o de las personas que legalmente les sustituyan.
 
 Los acuerdos se tomarán por mayoría simple de las personas presentes o representadas cuando los votos afirmativos superen a los negativos, no siendo computables a estos efectos los votos en blanco ni las abstenciones.
 
@@ -82,11 +82,10 @@ Será necesario mayoría cualificada de los socios presentes o representados, qu
    1. Aprobar, en su caso, la gestión de la Junta
    1. Examinar y aprobar las Cuentas anuales
    1. Resolver sobre la aprobación del inventario anual de bienes muebles e inmuebles cuya valoración detallada de los mismos será realizada por el miembro de la Junta Directiva previamente asignado para esta última
-   1. Aprobar o rechazar las propuestas de la Junta Directiva en orden a las actividades de
-   1. Asociación.
-   1. Acordar los gastos que hayan de atenderse con cuotas extraordinarias y su establecimiento, así como los de las cuotas ordinarias, fijar la cuantía de estas y su periodicidad.
+   1. Aprobar o rechazar las propuestas de la Junta Directiva en orden a las actividades de Asociación.
+   1. Fijar cuantia y periodicidad de las cuotas ordinarias.
    1. Acordar la remuneración, en su caso, de los miembros de los órganos de representación. Requerirá el acuerdo de modificación de Estatutos y que conste en las cuentas anuales aprobadas por la Asamblea.
-   1. Cualquier otra que no sea de la competencia exclusiva de la Asamblea Extraordinaria.
+   1. Cualquier otra que no sea de la competencia exclusiva de la Asamblea Extraordinaria, de la Junta Directiva o de los miembros de esta última.
 2. Corresponde a la Asamblea General Extraordinaria:
    1. Nombramiento y revocación de los miembros de la Junta Directiva
    1. Modificación de Estatutos
@@ -94,6 +93,7 @@ Será necesario mayoría cualificada de los socios presentes o representados, qu
    1. Expulsión de socios, a propuesta de la Junta Directiva
    1. Constitución de Federaciones o integración de ellas
    1. Solicitud de Declaración de Utilidad Pública
+   1. Cualquier otra que no sea de la competencia exclusiva de la Asamblea Ordinaria, de la Junta Directiva o los miembros de esta última.
 
 #### Artículo 11 - Obligatoriedad de los acuerdos
 
@@ -173,7 +173,9 @@ Corresponde al Tesorero:
 
 #### Artículo 20 - Vocal. Competencias
 
-El vocal tendrá las obligaciones propias de su cargo como miembro de la Junta Directiva, así como las que nazcan de las delegaciones o comisiones de trabajo que la propia Junta le encomiende.
+Corresponde al Vocal recopilar y transmitir cualquier sugerencia, critica y propuesta de los socios a la Junta directiva, asi como cualquier otra función que el Presidente le encomiende.
+
+Ademas de mantener informados a los socios de las conversaciones y actividades que se llevan a cabo en la Junta Directiva.
 
 #### Artículo 21 - Requisitos
 
@@ -196,7 +198,7 @@ Los socios tendrán los siguientes derechos:
 1. Participar en las actividades de la Asociación y en los órganos de gobierno y representación, a ejercer derecho de voto, así como asistir a la Asamblea General, de acuerdo con los Estatutos.
 1. A ser informado acerca de la composición de los órganos de gobierno y representación de la Asociación, de su estado de cuentas y del desarrollo de su actividad.
 1. A ser oído con carácter previo a la adopción de medidas disciplinarias contra él o ella y a ser informado de los hechos que den lugar a tales medidas, debiendo ser motivado el acuerdo que, en su caso, imponga su sanción
-1. Además, los socios benefactores tendrán derecho a la reducción o exención de cuotas en las actividades así como a disposición libre del material asociativo
+1. Además, los socios fundadores y de número tendrán derecho a la reducción o exención de cuotas en las actividades así como a disposición libre del material asociativo
 1. A impugnar los acuerdos de los órganos de la Asociación que estime contrarios a la Ley o a los Estatutos
 1. Acceso a toda la documentación relacionada con el artículo 29 del presente Estatuto, a través de los órganos de representación, en los términos previstos en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
 
@@ -208,6 +210,7 @@ Los socios tendrán los siguientes deberes:
 1. Estar al corriente en el pago de las cuotas, derramas y otras aportaciones que, con arreglo a los Estatutos, puedan corresponder a cada socio
 1. Cumplir el resto de las obligaciones que resulten de las disposiciones estatuarias
 1. Acatar y cumplir los acuerdos válidamente adoptados por los órganos de gobierno y representación de la Asociación
+1. Respetar la integridad física y mental del resto de socios, asi como cuidar y velar por la conservación de los bienes muebles e inmuebles de la Asociación.
 
 #### Artículo 25.- Bajas
 
@@ -231,7 +234,7 @@ Las sanciones pueden comprender desde la suspensión temporal de sus derechos a 
 
 El patrimonio inicial o fondo social de la Asociación es de 0€
 
-Ingresos
+#### Articulo 28 - Ingresos
 
 Los recursos económicos previstos para el desarrollo de los fines y actividades de la Asociación serán los siguientes:
 
@@ -241,12 +244,12 @@ Los recursos económicos previstos para el desarrollo de los fines y actividades
 1. Subvenciones, ayudas y auxilios que reciba de la Administración estatal, regional, provincial o municipal, así como las que le concedan otras instituciones de carácter privado (fundaciones, otras asociaciones, etc.)
 1. Cualquier otro recurso lícito
 
-#### Artículo 28 - Cuotas
+#### Artículo 29 - Cuotas
 
 1. Las cuotas ordinarias o extraordinarias se establecerán por la Asamblea, a propuesta de la Junta Directiva y no son reintegrables en ningún caso.
 2. Para la admisión de nuevos socios podrá ser fijada por la Asamblea General, como aportación inicial, no reintegrable, una cuota de admisión
 
-#### Artículo 29 - Obligaciones documentales y contables
+#### Artículo 30 - Obligaciones documentales y contables
 
 1. La Asociación ha de disponer de una relación actualizada de sus socios, llevar una contabilidad que permita obtener la imagen fiel del patrimonio, del resultado y de la situación financiera de la entidad, así como las actividades realizadas, efectuar un inventario de sus bienes y recoger en un libro las actas de las reuniones de sus órganos de gobierno y representación. Deberán llevar su contabilidad conforme a las normas específicas que les resulten de aplicación.
 2. Las cuentas de la Asociación se aprobarán anualmente por la Asamblea General
@@ -254,7 +257,7 @@ Los recursos económicos previstos para el desarrollo de los fines y actividades
 
 ## TÍTULO VII: DISOLUCIÓN Y LIQUIDACIÓN DE LA ASOCIACIÓN
 
-#### Artículo 30 - Disolución
+#### Artículo 31 - Disolución
 
 La Asociación se disolverá:
 
@@ -262,18 +265,20 @@ La Asociación se disolverá:
 1. Por las causas determinadas en el art.39 del Código Civil
 1. Por sentencia judicial firme
 
-#### Artículo 31 - Liquidación
+#### Artículo 32 - Liquidación
 
 En caso de disolución, se nombrará una comisión liquidadora la cual, una vez extinguidas las deudas, y si existiese sobrante líquido, lo destinará para fines que no desvirtúen su naturaleza no lucrativa, concretamente a ASPANIAS Burgos.
 
 ## TÍTULO VIII: REFORMA DE LOS ESTATUTOS
 
-#### Artículo 32 - Reforma de los Estatutos
+#### Artículo 33 - Reforma de los Estatutos
 
 Las modificaciones de los presentes Estatutos serán de competencia de la Asamblea General Extraordinaria, adaptándose el acuerdo por mayoría cualificada de las personas presentes o representadas, que resultará cuando los votos afirmativos superen la mitad.
 Las modificaciones que se realicen se comunicarán al Registro de Asociaciones correspondiente.
 
-#### Artículo 33.- Colaboradores
+## TITULO IX: RÉGIMEN DE COLABORADORES
+
+#### Artículo 34 - Colaboradores
 
 Podrán pertenecer a la Asociación en calidad de Colaboradores, y sin que ello suponga tener la condición jurídica de socio, los asociados que, habiendo cumplido los 30 años, deseen continuar en la asociación y expresen su deseo por escrito.
 
@@ -305,11 +310,11 @@ Fdo.: Vocal - Almudena González González
 
 ## CERTIFICACIÓN
 
-Da EUGENIA MEDINA SOBRINO con N.I.F. XXXXXXXXX, en calidad de Secretaria de la entidad denominada ASOCIACIÓN CULTURAL POR LOS NUEVOS INTERESES LÚDICOS (ACNIL) con domicilio social en el Espacio Joven de Gamonal, local no15, C/ Luis Alberdi 22, 09007 Burgos (Burgos)
+Da EUGENIA MEDINA SOBRINO con N.I.F. XXXXXXXXX, en calidad de Secretaria de la entidad denominada ASOCIACIÓN CULTURAL POR LOS NUEVOS INTERESES LÚDICOS (ACNIL) con domicilio social en el Espacio Joven de Gamonal, local no __, C/ Luis Alberdi 22, 09007 Burgos (Burgos)
 
 CERTIFICA:
 
-Que los presentes Estatutos recogen todas las modificaciones acordadas en la Asamblea General Extraordinaria de Socios celebrada al efecto el día 24 DE NOVIEMBRE DE 2020, previa convocatoria hecha en forma estatuaria, estando 31 socios representados y con mayoría cualificada en la votación.
+Que los presentes Estatutos recogen todas las modificaciones acordadas en la Asamblea General Extraordinaria de Socios celebrada al efecto el día 24 DE NOVIEMBRE DE 2020, previa convocatoria hecha en forma estatuaria, estando __ socios representados y con mayoría cualificada en la votación.
 
 Fdo.: V° B° Presidenta Irene Pérez Ramírez
 Fdo.: Secretaria Eugenia Medina Sobrino
