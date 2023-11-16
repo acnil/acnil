@@ -43,7 +43,11 @@ Lo mas sencillo es que vengáis a un [código Pingüino o código Fénix](../pin
 
 ## ¿Cuándo puedo asociarme?
 
-No hay restricción a la hora de hacerte socio siempre y cuando entregues todo lo que hemos explicado antes. Serás socio desde el momento en el que hagas el ingreso y **hasta final de ese mismo año**. Eso sí, no pondrás disfrutar de los [privilegios](#cuales-son-los-privilegios-de-ser-socio) hasta que entregues todos los formularios y papeles a la persona procedente.
+No hay restricción a la hora de hacerte socio siempre y cuando entregues todo lo que hemos explicado antes. Serás socio desde el momento en el que hagas el ingreso y **hasta final de ese mismo año**. Eso sí, no pondrás disfrutar de los [privilegios](#cuáles-son-los-privilegios-de-ser-socio) hasta que entregues todos los formularios y papeles a la persona procedente.
+
+## ¿Donde puedo saber mas?
+
+Puedes consultar una copia de nuestros estatutos formales [aqui](../estatutos/)
 
 ## Locales
 
@@ -60,6 +64,5 @@ Se encuentra en el portal numero 8. Lo compartimos con la peña guitarrista. Es 
 Se encuentra en el mercado de Gamonal. El acceso está limitado por las horas de apertura del espacio joven. Es el lugar donde celebramos el [Código Pingüino](../pinguino).
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690112174588!6m8!1m7!1sCmk0A7rVP1wrAp07orXRmQ!2m2!1d42.35133982610823!2d-3.664901867938506!3f321.0026207722763!4f4.1623243583635485!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 
 [^1]: Un vez ingresado el dinero, no será devuelto salvo en situaciones excepcionales. Si tienes cualquier problema, ponte en contacto con nosotros a través de redes sociales.
