@@ -19,7 +19,7 @@ Aquí encontrarás mucha gente interesante con la que compartir tus aficiones.
 
 {{< cardlist >}}
 
-{{% card img="/images/bigbangburgos.jpg" more="/jornadas" %}}
+{{% card img="/images/bigbangburgos.jpeg" more="/jornadas" %}}
 
 ### Big Bang Burgos
 
@@ -27,7 +27,7 @@ Una vez al año organizamos el evento **Big Bang Burgos**. Un gran evento donde 
 
 {{% /card %}}
 
-{{% card img="/images/juegatron.jpg" more="/juegatron" %}}
+{{% card img="/images/juegatron.jpeg" more="/juegatron" %}}
 
 ### Juegatrón
 
@@ -35,7 +35,7 @@ Una vez al año organizamos el evento **Juegatrón**. Llevamos un montón de jue
 
 {{% /card %}}
 
-{{% card img="/images/codigo-pinguino.jpg" more="/pinguino" %}}
+{{% card img="/images/codigo.jpeg" more="/pinguino" %}}
 
 ### Código Pingüino y Código Fénix
 
@@ -43,7 +43,7 @@ El primer sábado y el tercer viernes de cada mes nos juntamos para jugar a jueg
 
 {{% /card %}}
 
-{{% card img="/images/tanabata.jpg" %}}
+{{% card img="/images/tanabata.jpeg" %}}
 
 ### Tanabata
 
