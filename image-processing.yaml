@@ -19,3 +19,8 @@ actions:
     destination: content/jornadas/2022-07-09/
     maxWidth: 1200
     quality: 80
+  - name: "activities"
+    source: "./static/images/*.png"
+    destination: static/images/
+    maxWidth: 1200
+    quality: 80
