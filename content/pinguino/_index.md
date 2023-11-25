@@ -31,4 +31,4 @@ Próximas fechas
 - 2 de septiembre (online)
 - 7 de octubre
 - 4 de noviembre
-- 2 de diciembre
+- ~~2 de diciembre~~ Cancelado por reunión asociativa
