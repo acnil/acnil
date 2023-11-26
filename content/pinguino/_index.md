@@ -7,29 +7,8 @@ images:
 
 El primer sábado y el tercer viernes de cada mes nos juntamos para jugar a juegos de mesa. **No es necesario ser socio para asistir**. ¡Ven a conocernos!
 
-## Código Pingüino
+Aquí podrás conocernos y pasar la tarde disfrutando de nuestra ludoteca. Además es el lugar ideal para conocer gente aficionada a los juegos de mesa.
 
-El código Pingüino se encuenra en el [local en el espacio joven de gamonal](http://localhost:1313/about#local-en-el-espacio-joven-de-gamonal)
+En este calendario puedes ver las fechas de los eventos. Es recomendable añadirlo a vuestro calendario y revisarlo con frecuencia, ya que es posible que algunos eventos se modifiquen la misma semana.
 
-Horario: de 18:00 a 21:00
-
-Próximas fechas 2023
-
-- 15 de septiembre
-- 20 de octubre
-- 17 de noviembre
-- 15 de diciembre
-
-## Código Fenix
-
-El código Fenix se encuentra en el [local en la llana de afuera](http://localhost:1313/about#local-en-la-llana-de-afuera)
-
-Horario: de 18:00 a .... lo que el cuerpo aguante.
-
-Próximas fechas
-
-- 2 de septiembre (online)
-- 7 de octubre
-- 4 de noviembre
-- ~~2 de diciembre~~ Cancelado por reunión asociativa
-- 6 de diciembre
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23EF6C00&ctz=Europe%2FMadrid&showNav=0&showPrint=0&showTabs=0&mode=AGENDA&showTz=0&hl=es&showCalendars=0&showDate=0&src=Njk3MWMyN2Y5ODJlMjllOWMxOTgyZDI3MGZlZTRlN2E3ZGI5NTQyODhmY2U4NjkzOTAzN2EwZWRiZmEwYzA2MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
