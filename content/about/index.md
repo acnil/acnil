@@ -35,7 +35,15 @@ Para ser socio se necesitan dos cosas:
 1. Rellenar la solicitud de socio.
 2. Pagar la cuota de socio.
 
-En [este link]({{% inscripcion %}}) tienes la solicitud de socio. Dentro de ella está el número de cuenta donde deberás hacer el ingreso[^1] (La Caixa). El ingreso para nuevos socios es de {{% inscripcion-summary %}}. Deberá ponerse de **asunto**: Nick de socio + Año actual. Ejemplo: Shybâ 2019
+Los **nuevos socios** tienen distintas cuotas iniciales dependiendo del momento del año en el que se apunten a la asociación.
+
+- Desde principio de año hasta el evento BigBangBurgos **30€** [Hoja de inscripción](./inscripcion.pdf)
+- Desde BigBangBurgos hasta Juegatron **20€** [Hoja de inscripción](./inscripcion-reducida.pdf)
+- Desde Juegatron hasta final de año **40€** (Incluye cuota del año siguiente) [Todavía no tenemos hoja... Pingüinos trabajando]
+
+En Enero, TODOS los socios han de renovar la cuota de socio por **25€** que deberán ser entregados antes de fin de mes o se perderán los privilegios.
+
+En caso de hacer el pago por transferencia, deberá ponerse de **asunto**: Nick de socio + Año actual. Ejemplo: Shyba 2023
 
 Una vez que tengáis el resguardo de pago, la solicitud de socio cumplimentada y una fotocopia de vuestro DNI, debéis entregársela a la secretaria de la asociación (o en su defecto a alguien de la junta directiva).
 
@@ -43,7 +51,7 @@ Lo mas sencillo es que vengáis a un [código Pingüino o código Fénix](../pin
 
 ## ¿Cuándo puedo asociarme?
 
-No hay restricción a la hora de hacerte socio siempre y cuando entregues todo lo que hemos explicado antes. Serás socio desde el momento en el que hagas el ingreso y **hasta final de ese mismo año**. Eso sí, no pondrás disfrutar de los [privilegios](#cuáles-son-los-privilegios-de-ser-socio) hasta que entregues todos los formularios y papeles a la persona procedente.
+No hay restricción a la hora de hacerte socio siempre y cuando entregues todo lo que hemos explicado antes. Serás socio desde el momento en el que hagas el ingreso y **hasta final de ese mismo año**. Eso sí, no pondrás disfrutar de los [privilegios](#cuáles-son-los-privilegios-de-ser-socio) hasta que entregues todos los formularios y papeles a la persona procedentes
 
 ## ¿Donde puedo saber mas?
 
