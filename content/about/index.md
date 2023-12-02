@@ -32,14 +32,14 @@ Puede ser socio cualquier persona mayor de 14 años. (Los menores de edad necesi
 
 Para ser socio se necesitan dos cosas:
 
-1. Rellenar la solicitud de socio.
+1. Rellenar la solicitud de socio. [Descargar](./inscripcion.pdf)
 2. Pagar la cuota de socio.
 
 Los **nuevos socios** tienen distintas cuotas iniciales dependiendo del momento del año en el que se apunten a la asociación.
 
-- Desde principio de año hasta el evento BigBangBurgos **30€** [Hoja de inscripción](./inscripcion.pdf)
-- Desde BigBangBurgos hasta Juegatron **20€** [Hoja de inscripción](./inscripcion-reducida.pdf)
-- Desde Juegatron hasta final de año **40€** (Incluye cuota del año siguiente) [Todavía no tenemos hoja... Pingüinos trabajando]
+- Desde principio de año hasta el evento BigBangBurgos **30€**
+- Desde BigBangBurgos hasta Juegatron **20€**
+- Desde Juegatron hasta final de año **35€** (Incluye cuota del año siguiente)
 
 En Enero, TODOS los socios han de renovar la cuota de socio por **25€** que deberán ser entregados antes de fin de mes o se perderán los privilegios.
 
