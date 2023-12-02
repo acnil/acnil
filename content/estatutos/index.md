@@ -180,9 +180,10 @@ Corresponde al Tesorero:
 
 #### Artículo 20 - Vocal. Competencias
 
-Corresponde al Vocal recopilar y transmitir cualquier sugerencia, critica y propuesta de los socios a la Junta directiva, asi como cualquier otra función que el Presidente le encomiende.
+Corresponde al Vocal:
 
-Ademas de mantener informados a los socios de las conversaciones y actividades que se llevan a cabo en la Junta Directiva.
+1. Recopilar y transmitir cualquier sugerencia, critica y propuesta de los socios a la Junta directiva
+1. Mantener informados a los socios de las conversaciones y actividades que se llevan a cabo en la Junta Directiva.
 
 #### Artículo 21 - Requisitos
 
