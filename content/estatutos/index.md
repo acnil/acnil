@@ -288,7 +288,7 @@ Las modificaciones que se realicen se comunicarán al Registro de Asociaciones c
 
 #### Artículo 34 - Colaboradores
 
-Podrán pertenecer a la Asociación en calidad de Colaboradores, y sin que ello suponga tener la condición jurídica de socio, los asociados que, habiendo cumplido los 30 años, deseen continuar en la asociación y expresen su deseo por escrito.
+Podrán pertenecer a la Asociación en calidad de Colaboradores, y sin que ello suponga tener la condición jurídica de socio, los asociados que deseen continuar en la asociación y expresen su deseo por escrito.
 
 Sus derechos serán:
 
