@@ -21,7 +21,7 @@ images:
 
 1. Son fines de esta Asociación:
    1. Dar a conocer la cultura oriental.
-   2. Promover el uso de nuevas tecnologías y juegos de mesa entre la juventud.
+   2. Promover el uso de nuevas tecnologías, juegos de mesa y juegos de rol entre la juventud.
    3. Dar a conocer la literatura de ficción y sus vertientes lúdicas.
 2. Para el cumplimiento de estos fines se realizarán las siguientes actividades:
    1. Reunión quincenal en la que se practicarán diversas actividades para lograr los fines antes expuestos.
@@ -61,12 +61,12 @@ La Asamblea General es el órgano supremo de gobierno de la Asociación y estar�
 
 Las reuniones de la Asamblea General serán ordinarias y extraordinarias.
 
-- La Asamblea General Ordinaria se celebrará necesariamente una vez al año, dentro de los cuatro meses siguientes al cierre del ejercicio.
+- La Asamblea General Ordinaria. Se celebrará al menos una vez al año, dentro de los cuatro meses siguientes al cierre del ejercicio.
 - Las Asambleas Generales Extraordinarias se celebrarán cuando las circunstancias lo aconsejen, a juicio del Presidente, cuando la Directiva lo recuerde o cuando lo ponga por escrito una décima parte de los socios.
 
 #### Artículo 8 - Convocatoria
 
-Las convocatorias de las Asambleas generales se realizarán por escrito expresando lugar, día y hora de la reunión, así como el orden del día con expresión concreta de los asuntos a tratar, Entre la convocatoria y el día señalado para la celebración de la Asamblea en primera convocatoria habrán de mediar al menos siete días, pudiendo así mismo hacerse constar si procediera la fecha y hora en la que se reunirá la Asamblea en segunda convocatoria, sin que entre una y otra pueda mediar un plazo inferior a una hora.
+Las convocatorias de las Asambleas generales se realizarán por escrito expresando lugar, día y hora de la reunión, así como el orden del día con expresión concreta de los asuntos a tratar, Entre la convocatoria y el día señalado para la celebración de la Asamblea en primera convocatoria habrán de mediar al menos quince días, pudiendo así mismo hacerse constar si procediera la fecha y hora en la que se reunirá la Asamblea en segunda convocatoria, sin que entre una y otra pueda mediar un plazo inferior a media hora.
 
 #### Artículo 9 - Quórum de asistencia y votaciones
 
@@ -92,7 +92,7 @@ Será necesario mayoría cualificada de los socios presentes o representados, qu
    1. Aprobar o rechazar las propuestas de la Junta Directiva en orden a las actividades de Asociación.
    1. Fijar cuantia y periodicidad de las cuotas ordinarias.
    1. Acordar la remuneración, en su caso, de los miembros de los órganos de representación. Requerirá el acuerdo de modificación de Estatutos y que conste en las cuentas anuales aprobadas por la Asamblea.
-   1. Cualquier otra que no sea de la competencia exclusiva de la Asamblea Extraordinaria, de la Junta Directiva o de los miembros de esta última.
+   1. Cualquier otra que no sea de la competencia exclusiva de la Asamblea Extraordinaria.
 2. Corresponde a la Asamblea General Extraordinaria:
    1. Nombramiento y revocación de los miembros de la Junta Directiva
    1. Modificación de Estatutos
@@ -100,7 +100,6 @@ Será necesario mayoría cualificada de los socios presentes o representados, qu
    1. Expulsión de socios, a propuesta de la Junta Directiva
    1. Constitución de Federaciones o integración de ellas
    1. Solicitud de Declaración de Utilidad Pública
-   1. Cualquier otra que no sea de la competencia exclusiva de la Asamblea Ordinaria, de la Junta Directiva o los miembros de esta última.
 
 #### Artículo 11 - Obligatoriedad de los acuerdos
 
@@ -184,6 +183,7 @@ Corresponde al Vocal:
 
 1. Recopilar y transmitir cualquier sugerencia, critica y propuesta de los socios a la Junta directiva
 1. Mantener informados a los socios de las conversaciones y actividades que se llevan a cabo en la Junta Directiva.
+1. Cumplir las delegaciones o comisiones de trabajo que la Junta le encomiende.
 
 #### Artículo 21 - Requisitos
 
