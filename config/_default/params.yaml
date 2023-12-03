@@ -15,7 +15,7 @@ test: false
 monoDarkIcon: true                     # show monochrome dark mode icon
 
 
-oidc:
-  clientID: 394665744425-m05sdc1tarsm5knfrcv5jnd33o18ish7.apps.googleusercontent.com
-  clientSecret: 
-  CryptoPassphrase: Not-Set 
+# oidc:
+  # clientID: 394665744425-m05sdc1tarsm5knfrcv5jnd33o18ish7.apps.googleusercontent.com
+  # clientSecret: 
+  # CryptoPassphrase: Not-Set 
