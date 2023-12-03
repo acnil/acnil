@@ -124,7 +124,7 @@ Podrán causar baja por:
 #### Artículo 13 - Elección de cargos
 
 1. Los cargos de la Junta Directiva tendrán una duración de 2 años, pudiendo ser reelegidos sus miembros al finalizar su mandato.
-1. La elección de efectuará por la Asamblea General Extraordinaria mediante votación.
+1. La elección se efectuará por la Asamblea General Extraordinaria mediante votación.
 1. Las vacantes que pudieran producirse en la Junta se cubrirán provisionalmente por designación de la Junta Directiva, hasta la celebración de la próxima Asamblea General Extraordinaria, que elegirán a los nuevos miembros o confirmará a los designados provisionalmente
 
 #### Artículo 14 - Sesiones
