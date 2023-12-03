@@ -21,3 +21,16 @@ enableRobotsTXT: true
 
 disableKinds: 
   - taxonomy
+
+outputs:
+  home: ["HTML", "htaccess"]
+
+outputFormats:
+  htaccess:
+    baseName:  ""
+    isPlainText:  true
+    mediaType: "text/htaccess"
+
+mediaTypes:
+  text/htaccess:
+    suffixes: htaccess

@@ -1,0 +1,137 @@
+# BEGIN LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+#<IfModule LiteSpeed>
+#RewriteEngine on
+#CacheLookup on
+#RewriteRule .* - [E=Cache-Control:no-autoflush]
+#RewriteRule \.litespeed_conf\.dat - [F,L]
+
+### marker CACHE RESOURCE start ###
+#RewriteRule wp-content/.*/[^/]*(responsive|css|js|dynamic|loader|fonts)\.php - [E=cache-control:max-age=3600]
+### marker CACHE RESOURCE end ###
+
+### marker FAVICON start ###
+#RewriteRule favicon\.ico$ - [E=cache-control:max-age=86400]
+### marker FAVICON end ###
+
+### marker DROPQS start ###
+#CacheKeyModify -qs:fbclid
+#CacheKeyModify -qs:gclid
+#CacheKeyModify -qs:utm*
+#CacheKeyModify -qs:_ga
+### marker DROPQS end ###
+
+#</IfModule>
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END LSCACHE
+# BEGIN NON_LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END NON_LSCACHE
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+#<IfModule mod_rewrite.c>
+#RewriteEngine On
+#RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+#RewriteBase /
+#RewriteRule ^index\.php$ - [L]
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule . /index.php [L]
+#</IfModule>
+
+# END WordPress
+#RewriteCond %{HTTP_HOST} ^acnil\.es$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.acnil\.es$
+#RewriteRule ^acnil\.es\/FORO$ "http\:\/\/acnil\.es\/foro" [R=301,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit
+
+# Backup Migration START
+#  <IfModule mod_rewrite.c>
+
+#    RewriteEngine On
+#    RewriteRule .* - [E=noconntimeout:1,E=noabort:1]
+
+#  </IfModule>
+#  <IfModule mod_env>
+
+#    SetEnv noabort 1
+
+#  </IfModule>
+# Backup Migration END
+
+#<Files 403.shtml>
+#order allow,deny
+#allow from all
+#</Files>
+
+deny from 5.188.210.21
+
+#RewriteCond %{HTTP_REFERER} !^http://acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://foro.acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://foro.acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://jornadasmangaburgos.acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://jornadasmangaburgos.acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://jornadasmangaburgos.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://jornadasmangaburgos.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://www.acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://www.acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://www.foro.acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://www.foro.acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://www.jornadasmangaburgos.acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://www.jornadasmangaburgos.acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://www.jornadasmangaburgos.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://www.jornadasmangaburgos.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://foro.acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://foro.acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://jornadasmangaburgos.acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://jornadasmangaburgos.acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://jornadasmangaburgos.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://jornadasmangaburgos.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://www.acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://www.acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://www.foro.acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://www.foro.acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://www.jornadasmangaburgos.acnil.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://www.jornadasmangaburgos.acnil.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://www.jornadasmangaburgos.es/.*$      [NC]
+#RewriteCond %{HTTP_REFERER} !^https://www.jornadasmangaburgos.es$      [NC]
+#RewriteCond %{HTTP_REFERER} !^http://debug.iframely.com/$      [NC]
+
+#RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+
+deny from 5.188.210.92
+deny from 5.188.210.93
+
+ErrorDocument 404 /404.html
+
+#<IfModule mod_headers.c>
+#    Header unset ETag
+#</IfModule>
+FileETag Size
+
+Header set Cache-Control "max-age=3600, public"
+ExpiresActive Off
+
+
+OIDCProviderMetadataURL https://accounts.google.com/.well-known/openid-configuration
+OIDCClientID {{ .Site.Params.oidc.clientID }}
+OIDCClientSecret {{ .Site.Params.oidc.clientSecret }}
+
+# OIDCRedirectURI is a vanity URL that must point to a path protected by this module but must NOT point to any content
+OIDCRedirectURI https://acnil.es/private/redirect_uri
+OIDCCryptoPassphrase {{ .Site.Params.oidc.clientSecret }}
+
+<Location /private/>
+   AuthType openid-connect
+   Require valid-user
+</Location>
