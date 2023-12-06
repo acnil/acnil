@@ -1,5 +1,5 @@
 ---
-title: Preguntas Frequentes
+title: Preguntas Frecuentes
 ---
 
 

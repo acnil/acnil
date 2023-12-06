@@ -1,8 +1,8 @@
-<nav class="links mx-auto flex h-3 max-w-3xl px-8 lg:items-center ">
+<nav class="links mx-auto flex max-w-3xl px-8 lg:items-center ">
 {{ $currentPage := . }}
 {{ with site.Menus.main }}
     {{ range . }}
-    <div class="marker lg:items-center flex{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} current-menu-item{{end}}">
+    <div class="marker lg:items-center flex{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} current-menu-item{{else}} menu-item{{end}}">
     <a
     class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal "
     href="{{ .URL | absURL }}"

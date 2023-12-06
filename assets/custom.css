@@ -43,11 +43,16 @@ footer {
     background-color: var(--dark-header);
 }
 
-.current-menu-item {
+
+.links .menu-item {
+    background-color: #00000022;
+}
+
+.links .current-menu-item {
     background-color: var(--content)
 }
 
-.dark .current-menu-item {
+.dark .links .current-menu-item {
     background-color: var(--dark-content)
 }
 
@@ -292,6 +297,9 @@ footer {
 .links .marker {
     padding-left: 1em;
     padding-right: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    margin-right: 0.2em;
     height: 100%;
     border-radius: 10px 10px 0px 0px;
 }
@@ -305,7 +313,9 @@ footer {
         height: 100%;
     }
 
+
     .links {
+        flex-wrap: wrap;
         overflow-x: scroll;
         padding-left: 0;
     }

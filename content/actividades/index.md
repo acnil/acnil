@@ -1,21 +1,6 @@
 ---
-title: Bienvenido a ACNIL
-description: Somos una asociación cultural de Burgos sin ánimo de lucro que trata de difundir los juegos de mesa, la cultura asiática, los juegos de rol y los videojuegos.
-images:
- - /images/acnilito.png
+title: Actividades
 ---
-
-{{< figure src="/images/acnilito.png" title="Acnilito" class="mx-auto logo" link="/" >}}
-
-Somos una asociación cultural de Burgos **sin ánimo de lucro** que trata de difundir los **juegos de mesa**, la **cultura asiática**, los **juegos de rol** y los **videojuegos**.
-
-Aquí encontrarás mucha gente interesante con la que compartir tus aficiones.
-
-<div class="flex justify-end px-5">
-<a class="tag tag-black"  href="about">Sobre nosotros</a>
-</div>
-
-## Actividades Principales
 
 {{< cardlist >}}
 
@@ -48,6 +33,14 @@ El primer sábado y el tercer viernes de cada mes nos juntamos para jugar a jueg
 ### Tanabata
 
 Nos juntamos en el veranos en fuentes blancas para seguir la tradición japonesa del Tanabata. Pasamos el día haciendo actividades y al finalizar colgamos nuestros Tanzaku (短冊) (trocitos de papel con deseos) en un árbol.
+
+{{% /card %}}
+
+{{% card img="/images/acnilito.png" %}}
+
+### Ocasiones especiales
+
+Si estas interesado en fomentar los juegos de mesa. Organizamos ludotecas con petición previa. Ponte en contacto con nosotros por redes sociales para saber mas.
 
 {{% /card %}}
 

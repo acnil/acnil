@@ -1,6 +1,6 @@
 main:
-  - name: Inicio
-    pageRef: /
+  - name: Actividades
+    pageRef: /actividades
     weight: 10
   - name: BigBangBurgos
     pageRef: /jornadas

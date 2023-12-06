@@ -14,6 +14,12 @@ Poco a poco fuimos ganando experiencia y organizando más actividades tanto para
 
 Hasta 2009 Burgos había permanecido dividida: muchos jóvenes con intereses comunes se juntaban en grupos reducidos y desconocían la existencia de más gente con intereses similares. Es por esto que nació ACNIL, como una vía para compartir, disfrutar y conocer nueva gente que aumente nuestro conocimiento.
 
+## ¿Como contacto con vosotros?
+
+Las redes sociales son el mejor método de comunicación. Arriba a la derecha tienes los link a Instagram y X. Aunque Instagram es nuestra preferencia.
+
+También tenemos un email acnil@acnil.es con el que puedes contactarnos.
+
 ## ¿Cuáles son los privilegios de ser socio?
 
 - Acceso a la ludoteca de ACNIL para poder llevarse juegos prestados.
