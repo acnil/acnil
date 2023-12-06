@@ -293,6 +293,7 @@ footer {
     padding-left: 1em;
     padding-right: 1em;
     height: 100%;
+    border-radius: 10px 10px 0px 0px;
 }
 
 @media (max-width: 768px) {
