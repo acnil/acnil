@@ -16,9 +16,7 @@ Hasta 2009 Burgos había permanecido dividida: muchos jóvenes con intereses com
 
 ## ¿Como contacto con vosotros?
 
-Las redes sociales son el mejor método de comunicación. Arriba a la derecha tienes los link a Instagram y X. Aunque Instagram es nuestra preferencia.
-
-También tenemos un email acnil@acnil.es con el que puedes contactarnos.
+Nuestro correo es acnil@acnil.es. Tambien puedes encontrarnos en redes sociales. Arriba a la derecha tienes los link a Instagram y ~~Twitter~~ X. Aunque Instagram es nuestra preferencia.
 
 ## ¿Cuáles son los privilegios de ser socio?
 
@@ -47,13 +45,15 @@ Los **nuevos socios** tienen distintas cuotas iniciales dependiendo del momento 
 - Desde BigBangBurgos hasta Juegatron **20€**
 - Desde Juegatron hasta final de año **35€** (Incluye cuota del año siguiente)
 
+Los **nuevos** socios también deberán adjuntar una fotocopia de su DNI para verificar su identidad.
+
 En Enero, TODOS los socios han de renovar la cuota de socio por **25€** que deberán ser entregados antes de fin de mes o se perderán los privilegios.
 
 En caso de hacer el pago por transferencia, deberá ponerse de **asunto**: Nick de socio + Año actual. Ejemplo: Shyba 2023
 
-Una vez que tengáis el resguardo de pago, la solicitud de socio cumplimentada y una fotocopia de vuestro DNI, debéis entregársela a la secretaria de la asociación (o en su defecto a alguien de la junta directiva).
+Una vez que tengáis el resguardo de pago, la solicitud de socio cumplimentada y una fotocopia de vuestro DNI, Enviad los documentos a acnil@acnil.es
 
-Lo mas sencillo es que vengáis a un [código Pingüino o código Fénix](../pinguino) para conocernos y os podamos guiar en el proceso de asociaros.
+Si tenéis dudas, Lo mas sencillo es que vengáis a un [código Pingüino o código Fénix](../pinguino) para conocernos y os podamos guiar en el proceso de asociaros.
 
 ## ¿Cuándo puedo asociarme?
 
