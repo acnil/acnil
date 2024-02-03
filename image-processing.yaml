@@ -1,4 +1,9 @@
 actions:
+  - name: "jornadas_VII"
+    source: ./static/all-images/Fotos/VII JMOAB/*
+    destination: content/jornadas/2018-07-14/images/
+    maxWidth: 1500
+    quality: 90
   - name: "jornadas_XI"
     source: ./static/all-images/Fotos/XI BBB/*
     destination: content/jornadas/2023-07-08/images/
