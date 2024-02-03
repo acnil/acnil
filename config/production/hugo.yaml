@@ -1,2 +1,2 @@
 baseURL: "https://acnil.es/"
-googleAnalytics: G-9GX878RSZ3
+# googleAnalytics: G-9GX878RSZ3 // Disabled until I can figure out how the fuck to add a cookie banner.

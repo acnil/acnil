@@ -42,3 +42,4 @@ Tenemos un zip con las imágenes en alta resolución que no se encuentran en est
 - [Debug cards](http://debug.iframely.com/?uri=https%3A%2F%2Fbigbangburgos.es%2Fjornadas%2F2022-07-09%2F)
 - https://serverfault.com/questions/24622/how-to-use-rsync-over-ftp
   - set ssl:check-hostname no
+- [Cookies](https://defency.eu/posts/2023/10/hugo.io-how-to-integrate-cookie-consent-for-google-analytics/)
