@@ -2,7 +2,7 @@
 title: Big Bang Burgos 2024
 date: 2024-02-26
 images:
- - /jornadas/2024-07-13/wip.jpg
+ - /jornadas/2024-07-13/landing.jpg
 description: "Big Bang Burgos XII "
 ---
 
@@ -10,4 +10,6 @@ description: "Big Bang Burgos XII "
  
 ## {{< countdown target="2024-07-13T10:00:00" >}}
 
-{{< figure src="wip.jpg" alt="Cartel de Big Bang Burgos 2023"  class="list-image" >}}
+{{< figure src="landing.jpg" alt="Landing de Big Bang Burgos 2024"  class="list-image" >}}
+
+{{< figure src="wip.jpg" alt="Penguin at work"  class="list-image" >}}
