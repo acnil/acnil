@@ -39,42 +39,36 @@ Para organizar el evento, pedimos colaboración a distintas editoriales. Normalm
 
 Esta es una lista de los que mas nos han gustado que podréis encontrar en el evento.
 
-
 {{< cardlist >}}
 {{% card img="./magic_maze.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/209778/magic-maze" %}}
 
 #### Magic Maze
 
-
 Magic Maze es un juego de mesa cooperativo en tiempo real. Los jugadores deben trabajar juntos para ayudar a cuatro héroes a robar equipo mágico de un centro comercial y luego escapar antes de que se acabe el tiempo. Lo que hace que Magic Maze sea único es que los jugadores no pueden comunicarse entre sí y cada jugador puede realizar ciertas acciones, pero no todas. ¡Es un juego frenético y divertido que pone a prueba tus habilidades de cooperación y comunicación no verbal!
+
+{{% /card %}}
+{{% card img="./un-dia-en-las-carreras.png" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
+
+#### Un Día en las Carreras
+
+En Un Día en las Carreras, tú y tus amigos se dirigen a las carreras para pasar un día animando, abucheando y apostando a tus caballos favoritos, cuyo destino depende de cada lanzamiento de los dados.
 
 
 {{% /card %}}
-{{% card img="./magic_maze.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/209778/magic-maze" %}}
+{{% card img="./hidden-leaders.png" class="more-space" more="https://boardgamegeek.com/boardgame/320718/hidden-leaders" %}}
 
-#### Magic Maze
+#### Hidden Leaders
 
+La isla de Oshra está en tumulto. Tras la muerte del Emperador, el conflicto entre las Tribus de la Colina y el Ejército Imperial se intensificó. Mientras que el Pueblo del Agua intenta mantener el equilibrio entre los viejos rivales, los No Muertos buscan escalar la guerra. Toda esperanza recae en los seis hijos del Emperador: ¿Quién de ellos reclamará el trono?
 
-Magic Maze es un juego de mesa cooperativo en tiempo real. Los jugadores deben trabajar juntos para ayudar a cuatro héroes a robar equipo mágico de un centro comercial y luego escapar antes de que se acabe el tiempo. Lo que hace que Magic Maze sea único es que los jugadores no pueden comunicarse entre sí y cada jugador puede realizar ciertas acciones, pero no todas. ¡Es un juego frenético y divertido que pone a prueba tus habilidades de cooperación y comunicación no verbal!
-
-
-{{% /card %}}
-{{% card img="./magic_maze.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/209778/magic-maze" %}}
-
-#### Magic Maze
-
-
-Magic Maze es un juego de mesa cooperativo en tiempo real. Los jugadores deben trabajar juntos para ayudar a cuatro héroes a robar equipo mágico de un centro comercial y luego escapar antes de que se acabe el tiempo. Lo que hace que Magic Maze sea único es que los jugadores no pueden comunicarse entre sí y cada jugador puede realizar ciertas acciones, pero no todas. ¡Es un juego frenético y divertido que pone a prueba tus habilidades de cooperación y comunicación no verbal!
-
-
+En Hidden Leaders, asumes el papel de uno de los seis líderes secretos, cada uno de ellos aliado con dos de las cuatro facciones/colores. Al jugar héroes en tu tablero, ya sea abierta o secretamente, influyes en el resultado del conflicto.
 {{% /card %}}
 
-{{% card img="./magic_maze.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/209778/magic-maze" %}}
+{{% card img="./viprip.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/371118/vip-rip" %}}
 
-#### Magic Maze
+#### VIP RIP
 
-
-Magic Maze es un juego de mesa cooperativo en tiempo real. Los jugadores deben trabajar juntos para ayudar a cuatro héroes a robar equipo mágico de un centro comercial y luego escapar antes de que se acabe el tiempo. Lo que hace que Magic Maze sea único es que los jugadores no pueden comunicarse entre sí y cada jugador puede realizar ciertas acciones, pero no todas. ¡Es un juego frenético y divertido que pone a prueba tus habilidades de cooperación y comunicación no verbal!
+VIP RIP es un juego party de celebridades y frases lapidarias. Asumirás el papel de Aurora la Enterradora, una mujer glamurosa que sólo entierra celebridades. Para ganar, enlaza refranes y dichos populares con difuntos famosos, reales o del mundo de la ficción, y consigue que el resto descubra tus asociaciones.
 
 
 {{% /card %}}
