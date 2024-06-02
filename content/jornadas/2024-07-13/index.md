@@ -4,6 +4,24 @@ date: 2024-02-26
 images:
  - /jornadas/2024-07-13/landing.jpg
 description: "13 y 14 de Julio en Forum Evolución. Otro año mas de el mejor evento de ocio alternativo en Burgos"
+custom_css: |-
+    body {
+        background-color: #5C4033;
+        background-image: url('/images/textures/image.png'), radial-gradient(circle at top, #b5b5b5, #5C4033);
+        background-blend-mode: soft-light;
+    }
+
+    :is(.dark body){
+        background-color: #3b2921;
+        background-image: url('/images/textures/image.png'), radial-gradient(circle at top, #7b7878, #281c16);
+        background-blend-mode: soft-light;
+    }
+
+
+    main{
+        background-image: url('/images/textures/image.png'), radial-gradient(circle at top, #ffb9b9, #ff7676);
+        background-blend-mode: overlay;
+    }
 ---
 
 

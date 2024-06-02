@@ -83,4 +83,8 @@
   {{ template "_internal/twitter_cards.html" . }}
   <!---->
 
+  <style>
+  {{ .Params.custom_css | safeCSS }}
+  </style>
+
 </head>
