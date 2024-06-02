@@ -1,13 +1,13 @@
 ---
-title: Big Bang Burgos 2024
+title: Big Bang Burgos XII 2024
 date: 2024-02-26
 images:
  - /jornadas/2024-07-13/landing.jpg
-description: "Big Bang Burgos XII "
+description: "13 y 14 de Julio en Forum Evolución. Otro año mas de el mejor evento de ocio alternativo en Burgos"
 ---
 
 
-{{< figure src="landing.jpg" alt="Landing de Big Bang Burgos 2024"  class="list-image" >}}
+{{< figure src="landing.jpg" alt="Landing de Big Bang Burgos XII 2024"  class="list-image" >}}
 
 ¡Volvemos una vez mas a organizar Big Bang Burgos! Esta vez con inspiración en la mitología y folclore ibérico.
 
@@ -15,7 +15,7 @@ description: "Big Bang Burgos XII "
 
 ## {{< countdown target="2024-07-13T10:00:00" >}}
 
-- :calendar: Sábado y Domingo, 13 y 14 de Julio de 2023
+- :calendar: Sábado y Domingo, 13 y 14 de Julio de 2024
 - :clock: Horario: de 10 a 14 h. y de 16:00 a 21:00 h.
 - :free: Entradas 6€/dia
 - 📍 [Forum Evolución](https://maps.app.goo.gl/s9eRKKqBKMyqGdMQA)
