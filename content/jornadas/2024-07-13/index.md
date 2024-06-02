@@ -23,6 +23,11 @@ description: "Big Bang Burgos XII "
 
 ## Actividades
 
+<iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
+<iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pubhtml?gid=1377301289&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 - [Juegos de mesa](#juegos-de-mesa)
 - [Rol](#rol)
 - [Videojuegos](#videojuegos)
