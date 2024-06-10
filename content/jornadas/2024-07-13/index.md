@@ -29,7 +29,7 @@ custom_css: |-
 
 ¡Volvemos una vez mas a organizar Big Bang Burgos! Esta vez con inspiración en la mitología y folclore ibérico.
 
-## Donde y cuando
+## Dónde y Cuándo
 
 ## {{< countdown target="2024-07-13T10:00:00" >}}
 
