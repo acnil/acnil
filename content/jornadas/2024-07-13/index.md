@@ -116,8 +116,26 @@ En Hidden Leaders, asumes el papel de uno de los seis líderes secretos, cada un
 
 VIP RIP es un juego party de celebridades y frases lapidarias. Asumirás el papel de Aurora la Enterradora, una mujer glamurosa que sólo entierra celebridades. Para ganar, enlaza refranes y dichos populares con difuntos famosos, reales o del mundo de la ficción, y consigue que el resto descubra tus asociaciones.
 
+{{% /card %}}
+
+{{% card img="./boomie-busters.png" class="more-space" more="https://boardgamegeek.com/boardgame/399917/boomie-busters" %}}
+
+#### Boomie Busters
+
+Sabemos que no habéis podido resistiros a estas adorables criaturas, pero ¿seréis capaces de coleccionarlos a todos? Boomie Busters es un juego competitivo y familiar de cartas en el que tendréis que conseguir las colecciones de boomies más valiosas. Para ello, deberéis usar todas vuestras herramientas y emplear sabiamente vuestros kilos de viscosete.
 
 {{% /card %}}
+
+{{% card img="./fortisimo.png" class="more-space" %}}
+
+#### Fortisimo
+
+Construye y organiza tu castillo colocando murallas en orden ascendente. Necesitarás una buena estrategia y un poco de memoria. ¡Un juego para toda la familia que ya ha conquistado a cientos de miles jugadores en todo el mundo!
+
+Un juego para trabajar la memoria y la atención visual.
+
+{{% /card %}}
+
 
 {{< /cardlist >}}
 
