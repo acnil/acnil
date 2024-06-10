@@ -2,7 +2,7 @@
 title: Big Bang Burgos XII 2024
 date: 2024-02-26
 images:
- - /jornadas/2024-07-13/landing.jpg
+ - /jornadas/2024-07-13/cartel.jpg
 description: "13 y 14 de Julio en Forum Evolución. Otro año mas de el mejor evento de ocio alternativo en Burgos"
 custom_css: |-
     body {
@@ -25,7 +25,7 @@ custom_css: |-
 ---
 
 
-{{< figure src="landing.jpg" alt="Landing de Big Bang Burgos XII 2024"  class="list-image" >}}
+{{< figure src="cartel.jpg" alt="Cartel de Big Bang Burgos XII 2024"  class="list-image" >}}
 
 ¡Volvemos una vez mas a organizar Big Bang Burgos! Esta vez con inspiración en la mitología y folclore ibérico.
 
@@ -39,7 +39,7 @@ custom_css: |-
 - 📍 [Forum Evolución](https://maps.app.goo.gl/s9eRKKqBKMyqGdMQA)
 - Todos los públicos a partir de 7 años. (Es necesaria la supervisión de un adulto)
 
-## Actividades
+## Horarios
 
 [Descargar Horario en PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pub?output=pdf)
 
@@ -47,13 +47,35 @@ custom_css: |-
 
 <iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pubhtml?gid=1377301289&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-- [Juegos de mesa](#juegos-de-mesa)
-- [Rol](#rol)
-- [Videojuegos](#videojuegos)
-- [Invitados](#invitados)
-- [Talleres](#talleres)
-- [Charlas](#charlas)
+## Actividades
+
 - [Escenario](#escenario)
+- [Invitados](#invitados)
+- [Charlas](#charlas)
+- [Talleres](#talleres)
+- [Rol](#rol)
+- [Juegos de mesa](#juegos-de-mesa)
+- [Videojuegos](#videojuegos)
+
+### Escenario
+
+:construction: ¡Estamos levantando el telón para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
+
+### Invitados
+
+:construction: ¡Estamos esperando a que nuestros invitados lleguen para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
+
+### Charlas
+
+:construction: ¡Estamos afinando nuestras voces para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
+
+### Talleres
+
+:construction: ¡Estamos afilando nuestras herramientas para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
+
+### Rol
+
+:construction: ¡Estamos lanzando los dados para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
 
 ### Juegos de mesa
 
@@ -99,26 +121,6 @@ VIP RIP es un juego party de celebridades y frases lapidarias. Asumirás el pape
 
 {{< /cardlist >}}
 
-### Rol
-
-:construction: ¡Estamos lanzando los dados para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
-
 ### Videojuegos
 
 :construction: ¡Estamos pasando al siguiente nivel en la construcción de esta sección! ¡Vuelve pronto para ver las actualizaciones!
-
-### Invitados
-
-:construction: ¡Estamos esperando a que nuestros invitados lleguen para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
-
-### Talleres
-
-:construction: ¡Estamos afilando nuestras herramientas para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
-
-### Charlas
-
-:construction: ¡Estamos afinando nuestras voces para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
-
-### Escenario
-
-:construction: ¡Estamos levantando el telón para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
