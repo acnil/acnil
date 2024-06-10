@@ -27,13 +27,13 @@ custom_css: |-
 
 {{< figure src="cartel.jpg" alt="Cartel de Big Bang Burgos XII 2024"  class="list-image" >}}
 
-¡Volvemos una vez mas a organizar Big Bang Burgos! Esta vez con inspiración en la mitología y folclore ibérico.
+¡Volvemos una vez más a organizar Big Bang Burgos! Esta vez con inspiración en la mitología y folclore ibérico.
 
 ## Dónde y Cuándo
 
 ## {{< countdown target="2024-07-13T10:00:00" >}}
 
-- :calendar: Sábado y Domingo, 13 y 14 de Julio de 2024
+- :calendar: Sábado y domingo, 13 y 14 de Julio de 2024
 - :clock: Horario: de 10 a 14 h. y de 16:00 a 21:00 h.
 - :free: Entradas 6€/dia
 - 📍 [Forum Evolución](https://maps.app.goo.gl/s9eRKKqBKMyqGdMQA)
@@ -81,9 +81,9 @@ custom_css: |-
 
 Como todos los años, vamos a traer con nosotros una gran parte de nuestra ludoteca para ponerla a vuestra disposición durante el evento en las mesas de juego libre. Nuestros voluntarios estarán disponibles para hacer recomendaciones de juegos y explicaros las reglas si lo necesitáis.
 
-Para organizar el evento, pedimos colaboración a distintas editoriales. Normalmente colaboran mandándonos juegos de forma gratuita a cambio de hacer demostraciones de estos juegos durante el evento. Como asociación **no tenemos interés económico ni favorecemos a editoriales por la simple aportación de juegos.** Sin embargo, la realidad es que nos han mandado juegos muy divertidos que nos encantan y estaremos encantados de demostrar.
+Para organizar el evento, pedimos colaboración a distintas editoriales. Normalmente colaboran mandándonos juegos de forma gratuita a cambio de hacer demostraciones de estos juegos durante el evento. Como asociación **no tenemos interés económico ni favorecemos a editoriales por la simple aportación de juegos.** Sin embargo, la realidad es que nos han mandado juegos muy divertidos y estaremos encantados de demostrar.
 
-Esta es una lista de los que mas nos han gustado que podréis encontrar en el evento.
+Esta es una lista de los que más nos han gustado que podréis encontrar en el evento.
 
 {{< cardlist >}}
 {{% card img="./magic_maze.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/209778/magic-maze" %}}
