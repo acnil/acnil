@@ -22,6 +22,19 @@ custom_css: |-
         background-image: url('./texture.png'), radial-gradient(circle at top, #ffb9b9, #ff7676);
         background-blend-mode: overlay;
     }
+
+    section > h1,
+    section > h2,
+    section > h3,
+    section > h4 {
+        box-shadow: 2px 2px 4px #000000;
+        background-color: rgba(155, 155, 155, 0.2);
+    }
+
+    section a {
+        font-weight: 600 !important;
+    }
+
 ---
 
 
@@ -41,11 +54,14 @@ custom_css: |-
 
 ## Horarios
 
+:construction: ¡Todavía estamos buscando la forma de hacer todo lo que queremos hacer en tan poco tiempo!
+<!-- 
+
 [Descargar Horario en PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pub?output=pdf)
 
 <iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-<iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pubhtml?gid=1377301289&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pubhtml?gid=1377301289&amp;single=true&amp;widget=true&amp;headers=false"></iframe> -->
 
 ## Actividades
 
@@ -55,6 +71,8 @@ custom_css: |-
 - [Talleres](#talleres)
 - [Rol](#rol)
 - [Juegos de mesa](#juegos-de-mesa)
+  - [Patrocinadores](#patrocinadores)
+  - [Torneos](#torneos)
 - [Videojuegos](#videojuegos)
 
 ### Escenario
@@ -80,6 +98,8 @@ custom_css: |-
 ### Juegos de mesa
 
 Como todos los años, vamos a traer con nosotros una gran parte de nuestra ludoteca para ponerla a vuestra disposición durante el evento en las mesas de juego libre. Nuestros voluntarios estarán disponibles para hacer recomendaciones de juegos y explicaros las reglas si lo necesitáis.
+
+#### Patrocinadores
 
 Para organizar el evento, pedimos colaboración a distintas editoriales. Normalmente colaboran mandándonos juegos de forma gratuita a cambio de hacer demostraciones de estos juegos durante el evento. Como asociación **no tenemos interés económico ni favorecemos a editoriales por la simple aportación de juegos.** Sin embargo, la realidad es que nos han mandado juegos muy divertidos y estaremos encantados de demostrar.
 
@@ -136,6 +156,66 @@ Un juego para trabajar la memoria y la atención visual.
 
 {{% /card %}}
 
+{{< /cardlist >}}
+
+#### Torneos
+
+Los torneos son partidas organizadas en las que el ganador se lleva... ¡Un premio!
+
+Para apuntarte solo has de acercarte al mostrador donde prestamos los juegos de mesa y decirnos en que torneo quieres participar
+
+Normas generales
+
+- Se han de conocer las reglas del juego para apuntarse.
+- Se ha de estar a la hora en el lugar indicado.
+- Hay que respetar a los oponentes en todo momento.
+- Los voluntarios de Acnil tienen la última palabra en caso de disputa.
+- No nos es posible garantizar un arbitro presente durante toda la partida. Por lo que esperamos honestidad por parte de los participantes.
+
+Al final los torneos existen para pasarlo bien y el premio es solo un incentivo para la gente que le gusta competir.
+
+{{< cardlist >}}
+{{% card img="./challengers.png" class="more-space" more="https://boardgamegeek.com/boardgame/359970/challengers " %}}
+
+#### Challengers!
+
+- :calendar: Domingo, 14 de Julio de 2024
+- 📝 Domingo antes del torneo
+- :clock: Horario: de 11:30 a 12:30 h (Puede alargarse si hay mucha gente)
+- 📍 Zona de juegos de mesa
+- 👤 de 4 a 16 participantes
+- :warning: En caso de jugadores impares, se jugará con el robot
+- ℹ️ En caso de más de 8, se jugará con el torneo de verano.
+
+{{% /card %}}
+
+{{% card img="./welcome-to.png" class="more-space" more="https://boardgamegeek.com/boardgame/233867/welcome-to" %}}
+
+#### Welcome hacia el perfecto hogar
+
+- :calendar: Domingo, 14 de Julio de 2024
+- 📝 Domingo antes del torneo
+- :clock: Horario: de 12:30 a 13:30 h.
+- 📍 Zona de juegos de mesa
+- 👤 de 4 a 99 participantes
+
+{{% /card %}}
+
+{{% card img="./oceanos.png" class="more-space" more="https://boardgamegeek.com/boardgame/367220/sea-salt-and-paper" %}}
+
+#### Oceanos de papel
+
+:construction:
+
+{{% /card %}}
+
+{{% card img="./un-dia-en-las-carreras.png" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
+
+#### Un día en las carreras
+
+:construction:
+
+{{% /card %}}
 
 {{< /cardlist >}}
 
