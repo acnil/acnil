@@ -1,6 +1,6 @@
 <div class="card">
     <div class="card__header">
-        <img src="{{.Get "img" }}" alt="card__image" class="card__image">
+        <img src="{{.Get "img" }}" alt="card__image" class="card__image {{.Get "class" }}" >
     </div>
     <div class="card__body">
         {{ .Inner }}

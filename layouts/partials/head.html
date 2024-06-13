@@ -31,8 +31,12 @@
   {{ $custom := resources.Get "custom.css" }}
   <!---->
 
-  {{ $css := slice $main $custom | resources.Concat "main.css" | minify }}
+  {{ $css := slice $main $custom | resources.Concat "main.css" | minify | resources.Fingerprint "sha512" }}
+
+
+
   <link rel="preload stylesheet" as="style" href="{{ $css.Permalink }}" />
+
 
 
   <!-- Preload -->
@@ -78,5 +82,9 @@
   <!---->
   {{ template "_internal/twitter_cards.html" . }}
   <!---->
+
+  <style>
+  {{ .Params.custom_css | safeCSS }}
+  </style>
 
 </head>

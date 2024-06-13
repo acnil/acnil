@@ -324,3 +324,16 @@ footer {
 .countdown {
     text-align: center;
 }
+
+
+
+.more-space {
+    height: auto
+}
+
+.event-schedule {
+    margin-left: 0;
+    margin-right: 0;
+    min-width: 100%;
+    min-height: 38em;
+}
