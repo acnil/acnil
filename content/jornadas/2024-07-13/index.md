@@ -81,7 +81,46 @@ custom_css: |-
 
 ### Invitados
 
-:construction: ¡Estamos esperando a que nuestros invitados lleguen para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
+{{< cardlist >}}
+
+{{% card img="./invitados/RRSS-clara-dies.jpg" class="more-space"  %}}
+
+### Clara Dies Valls (Valencia, 1996)
+
+Ilustradora, concept artist e investigadora no académica de folklore. Licenciada en Bellas Artes por la Universitat Politècnica de València en 2018, también ha realizado estudios de diseño de
+producción para cine en la University for the Creative Arts de Surrey y un máster en Concept Art en la Escola de Cinema de Barcelona, además de formarse en ilustración científica.
+Trabaja como ilustradora desde 2017, autoeditando desde 2020. En 2021 publica _Bestiario de Tierra y Tint_a, un libro ilustrado de mitología española vista desde la diversidad lingüística, que es nominado a un Premio Ignotus a Mejor Antología. En 2023 publica Breve Viaje por la España de las Brujas junto a Javier Prado, primero en autoedición y después con la editorial Sugaar, haciendo un enfoque paralelo de historia y folklore. En 2024, coordina, edita e ilustra la antología de cuentos de hadas queer _Salir del Camino_. Actualmente trabaja en más  proyectos que horas tiene el día.
+
+{{% /card %}}
+
+{{% card img="./invitados/RRSS-Shiroychigo.jpg" class="more-space"  %}}
+
+### Shiroychigo
+
+Es una cosplayer y cosmaker asturiana que lleva más de 10 años haciendo Cosplay. Ha participado en numerosos concursos y ha ganado premios tanto de pasarela como de actuación, como por ejemplo la suplencia de la preliminar española de ICL Dúo 2023 o la Mejor Cosplay de la Ultralan Valladolid 2022 o Mejor Cosmaker de la pasarela del Mangafest 2022. Además, es una gran aficionada a la fotografía, siendo su especialización el autorretrato. También es  modelo de algunas conocidas tiendas de Cosplay, para las que realiza reviews y sesiones de fotos.
+
+{{% /card %}}
+
+{{% card img="./invitados/RRSS-Shiroki.jpg" class="more-space"  %}}
+
+### Shiroki
+
+lleva más de 10 años en el mundo del cosplay. Como costurera profesional, le encanta pulir al máximo los detalles de sus trajes, añadiéndoles mimo y detalles que llaman la atención por su toque personal.
+
+Ganadora de varios premios en distintos concursos, ha sido invitada tanto a eventos de España como internacionales. También ha trabajado para empresas de videojuegos, como Riot Games y Blizzard, eventos de eSports y otras empresas como creadora de contenido. 
+
+{{% /card %}}
+
+{{% card img="./invitados/RRSS-Sara.jpg" class="more-space"  %}}
+
+### Sara Gómez
+
+Es actriz de doblaje y burgalesa de adopción. En el 2018 entró por primera vez en una sala de doblaje y desde entonces no puede vivir sin la luz roja de grabación. Disfruta prestando su voz a innumerables personajes de ficción en la pequeña y gran pantalla, como son la simpática Sra. Chen de Venom; Cassandra, de La Leyenda de Vox Macchina; Jean Grey en X-Men 97; Ryan, el mismísimo hijo de Patriota en The Boys; Ost Hourai, en The Rising of Shield Hero, o Linus, de Snoopy, entre muchos otros.
+
+
+{{% /card %}}
+{{< /cardlist >}}
+
 
 ### Charlas
 
