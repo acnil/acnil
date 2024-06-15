@@ -145,22 +145,21 @@ Para organizar el evento, pedimos colaboración a distintas editoriales. Normalm
 Esta es una lista de los que más nos han gustado que podréis encontrar en el evento.
 
 {{< cardlist >}}
-{{% card img="./magic_maze.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/209778/magic-maze" %}}
+{{% card img="./patrocinadores/magic_maze.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/209778/magic-maze" %}}
 
 #### Magic Maze
 
 Magic Maze es un juego de mesa cooperativo en tiempo real. Los jugadores deben trabajar juntos para ayudar a cuatro héroes a robar equipo mágico de un centro comercial y luego escapar antes de que se acabe el tiempo. Lo que hace que Magic Maze sea único es que los jugadores no pueden comunicarse entre sí y cada jugador puede realizar ciertas acciones, pero no todas. ¡Es un juego frenético y divertido que pone a prueba tus habilidades de cooperación y comunicación no verbal!
 
 {{% /card %}}
-{{% card img="./un-dia-en-las-carreras.png" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
+{{% card img="./torneos/un-dia-en-las-carreras.png" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
 
 #### Un Día en las Carreras
 
 En Un Día en las Carreras, tú y tus amigos se dirigen a las carreras para pasar un día animando, abucheando y apostando a tus caballos favoritos, cuyo destino depende de cada lanzamiento de los dados.
 
-
 {{% /card %}}
-{{% card img="./hidden-leaders.png" class="more-space" more="https://boardgamegeek.com/boardgame/320718/hidden-leaders" %}}
+{{% card img="./patrocinadores/hidden-leaders.png" class="more-space" more="https://boardgamegeek.com/boardgame/320718/hidden-leaders" %}}
 
 #### Hidden Leaders
 
@@ -169,7 +168,7 @@ La isla de Oshra está en tumulto. Tras la muerte del Emperador, el conflicto en
 En Hidden Leaders, asumes el papel de uno de los seis líderes secretos, cada uno de ellos aliado con dos de las cuatro facciones/colores. Al jugar héroes en tu tablero, ya sea abierta o secretamente, influyes en el resultado del conflicto.
 {{% /card %}}
 
-{{% card img="./viprip.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/371118/vip-rip" %}}
+{{% card img="./patrocinadores/viprip.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/371118/vip-rip" %}}
 
 #### VIP RIP
 
@@ -177,7 +176,7 @@ VIP RIP es un juego party de celebridades y frases lapidarias. Asumirás el pape
 
 {{% /card %}}
 
-{{% card img="./boomie-busters.png" class="more-space" more="https://boardgamegeek.com/boardgame/399917/boomie-busters" %}}
+{{% card img="./patrocinadores/boomie-busters.png" class="more-space" more="https://boardgamegeek.com/boardgame/399917/boomie-busters" %}}
 
 #### Boomie Busters
 
@@ -214,41 +213,45 @@ Normas generales
 Al final los torneos existen para pasarlo bien y el premio es solo un incentivo para la gente que le gusta competir.
 
 {{< cardlist >}}
-{{% card img="./challengers.png" class="more-space" more="https://boardgamegeek.com/boardgame/359970/challengers " %}}
+{{% card img="./torneos/challengers.png" class="more-space" more="https://boardgamegeek.com/boardgame/359970/challengers " %}}
 
 #### Challengers!
 
 - :calendar: Domingo, 14 de Julio de 2024
-- 📝 Domingo antes del torneo
+- 📝 Inscripciones Domingo antes del torneo
 - :clock: Horario: de 11:30 a 12:30 h (Puede alargarse si hay mucha gente)
 - 📍 Zona de juegos de mesa
-- 👤 de 4 a 16 participantes
+- 👤 De 4 a 16 participantes
 - :warning: En caso de jugadores impares, se jugará con el robot
 - ℹ️ En caso de más de 8, se jugará con el torneo de verano.
 
 {{% /card %}}
 
-{{% card img="./welcome-to.png" class="more-space" more="https://boardgamegeek.com/boardgame/233867/welcome-to" %}}
+{{% card img="./torneos/welcome-to.png" class="more-space" more="https://boardgamegeek.com/boardgame/233867/welcome-to" %}}
 
 #### Welcome hacia el perfecto hogar
 
 - :calendar: Domingo, 14 de Julio de 2024
-- 📝 Domingo antes del torneo
+- 📝 Inscripciones Domingo antes del torneo
 - :clock: Horario: de 12:30 a 13:30 h.
 - 📍 Zona de juegos de mesa
-- 👤 de 4 a 99 participantes
+- 👤 De 4 a 16 participantes
 
 {{% /card %}}
 
-{{% card img="./oceanos.png" class="more-space" more="https://boardgamegeek.com/boardgame/367220/sea-salt-and-paper" %}}
+{{% card img="./torneos/oceanos.png" class="more-space" more="https://boardgamegeek.com/boardgame/367220/sea-salt-and-paper" %}}
 
-#### Oceanos de papel
+#### Océanos de papel
 
-:construction:
+- :calendar: Domingo, 14 de Julio de 2024
+- 📝 Inscripciones Domingo antes del torneo
+- :clock: Horario: de 17:00 a 18:00 h.
+- 📍 Zona de juegos de mesa
+- 👤 De 4 a 8 participantes
 
 {{% /card %}}
 
-{{% card img="./un-dia-en-las-carreras.png" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
+{{% card img="./torneos/un-dia-en-las-carreras.png" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
 
 #### Un día en las carreras
 
