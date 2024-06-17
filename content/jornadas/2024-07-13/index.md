@@ -183,7 +183,7 @@ Sabemos que no habéis podido resistiros a estas adorables criaturas, pero ¿ser
 
 {{% /card %}}
 
-{{% card img="./fortisimo.png" class="more-space" %}}
+{{% card img="./patrocinadores/fortisimo.png" class="more-space" %}}
 
 #### Fortisimo
 
