@@ -87,9 +87,8 @@ custom_css: |-
 
 ### Clara Dies Valls (Valencia, 1996)
 
-Ilustradora, concept artist e investigadora no académica de folklore. Licenciada en Bellas Artes por la Universitat Politècnica de València en 2018, también ha realizado estudios de diseño de
-producción para cine en la University for the Creative Arts de Surrey y un máster en Concept Art en la Escola de Cinema de Barcelona, además de formarse en ilustración científica.
-Trabaja como ilustradora desde 2017, autoeditando desde 2020. En 2021 publica _Bestiario de Tierra y Tint_a, un libro ilustrado de mitología española vista desde la diversidad lingüística, que es nominado a un Premio Ignotus a Mejor Antología. En 2023 publica Breve Viaje por la España de las Brujas junto a Javier Prado, primero en autoedición y después con la editorial Sugaar, haciendo un enfoque paralelo de historia y folklore. En 2024, coordina, edita e ilustra la antología de cuentos de hadas queer _Salir del Camino_. Actualmente trabaja en más  proyectos que horas tiene el día.
+Ilustradora, concept artist e investigadora no académica de folklore. Licenciada en Bellas Artes por la Universitat Politécnica de Valencia en 2018, también ha realizado estudios de diseño de producción para cine en la University for the Creative Arts de Surrey y un máster en Concept Art en la Escola de Cinema de Barcelona, además de formarse en ilustración científica.
+Trabaja como ilustradora desde 2010. En 2021 publica “Bestiario de Tierra y Tinta”, nominado a un Premio Ignotus a Mejor Antología. En 2023 publica “Breve Viaje por la España de las Brujas” junto a Javier Prado. En 2024, coordina, edita e ilustra la antología de cuentos de hadas queer “Salir del Camino”. Actualmente trabaja en más  proyectos que horas tiene el día.
 
 {{% /card %}}
 
