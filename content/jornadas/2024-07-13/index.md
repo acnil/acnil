@@ -18,11 +18,6 @@ custom_css: |-
     }
 
 
-    main{
-        background-image: url('./texture.png'), radial-gradient(circle at top, #ffb9b9, #ff7676);
-        background-blend-mode: overlay;
-    }
-
     section > h1,
     section > h2,
     section > h3,
