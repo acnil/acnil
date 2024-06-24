@@ -22,9 +22,12 @@
 
 {{- if .Resources.GetMatch "*.jpg" -}}
 {{$poster := .Resources.GetMatch "*.jpg"}}
-<a class="poster" href="{{ .RelPermalink }}">
-  <img  href="{{ .RelPermalink }}" src="{{$poster.RelPermalink}}"/>
-</a>
+<div class="poster">
+  <a  href="{{ .RelPermalink }}">
+    <img  href="{{ .RelPermalink }}" src="{{$poster.RelPermalink}}"/>
+    <a class="tag tag-black" href="{{ .RelPermalink }}">Ver detalles</a>
+  </a>
+</div>
 {{- else -}}
   {{ errorf "Failed to render page preview becase couldn't find a jpg image in resources" . }}
 {{ end }}

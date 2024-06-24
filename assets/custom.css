@@ -99,6 +99,7 @@ footer {
     border-radius: 1em;
     background: var(--card-bg);
     transition: transform 100ms linear;
+    position: relative;
 }
 
 .poster img {
@@ -111,6 +112,14 @@ footer {
 
 .dark .poster {
     background: var(--dark-card-bg);
+}
+
+/* Button on top of poster images*/
+
+.poster .tag{
+position: absolute;
+bottom: 5px;
+right: 5px;
 }
 
 .card {
