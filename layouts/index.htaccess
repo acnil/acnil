@@ -117,7 +117,7 @@ ErrorDocument 404 /404.html
 #<IfModule mod_headers.c>
 #    Header unset ETag
 #</IfModule>
-FileETag Digest Size
+FileETag All
 
 Header set Cache-Control "max-age=3600, public, must-revalidate"
 ExpiresActive Off
