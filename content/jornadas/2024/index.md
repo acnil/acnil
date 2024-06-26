@@ -59,6 +59,7 @@ custom_css: |-
 ## Actividades
 
 - [Escenario](#escenario)
+  - [Actividades](#actividades)
   - [Concursos](#concursos)
     - [CoverDance](#cover-dance)
     - [Karaoke](#karaoke)
@@ -74,9 +75,41 @@ custom_css: |-
 
 ## Escenario
 
-### Concursos
+## Actividades
+
+{{< cardlist >}}
+
+{{% card img="./escenario/pasarela cosplay.jpg" class="more-space"  %}}
+
+### Pasarela cosplay
+
+¿Tienes un cosplay que quieres enseñar a todo el mundo? ¿sabes posar como una super modelo? ¡Este es tu concurso! El sábado tendremos nuestra famosa pasarela cosplayer a la que no podéis faltar. ¡Venga! POSE, POSE, POSE, POSE
+
+{{% /card %}}
+
+{{% card img="./escenario/trivials.jpg" class="more-space"  %}}
+
+### Trivial K-pop
+
+Demuestra que el kpop no es solo un tipo de música sino una manera de vivir. Junta un grupo de elegidos y demostrad que tenéis los conocimientos necesarios para ser quienes ganen nuestro trivial kpop.
+
+{{% /card %}}
+
+{{% card img="./escenario/trivials.jpg" class="more-space" %}}
+
+### Trivial Friky
+
+¿Cuánto sabes del mundo friky? Demostrad que vuestro grupo es el que más sabe de videojuegos, juegos de mesa, anime, manga, literatura, cultura japonesa y coreana... Vamos, que sois los más frikys del evento ¿Podréis hacerlo?
+
+{{% /card %}}
+
+{{< /cardlist >}}
+
+## Concursos
 
 ### Cover Dance
+
+En solitario, en grupo o.. ¿por qué no ambos? uno de los concursos con más afluencia y con más motivación por parte del público. Demuestra tus dotes de baile sobre el escenario ¡ADELANTE!
 
 Inscripción:
 
@@ -104,6 +137,8 @@ Jurado y premios:
 
 ### Karaoke
 
+Afina tus cuerdas vocales y prepárate para luchar como una idol por el primer puesto de nuestro concurso. Quizás no te lanzaremos a la fama, pero un premio en efectivo y nuestra admiración tampoco está mal...
+
 Inscripción:
 
 - El concurso tendrá lugar el día 14 de julio a las 16:30 horas.
@@ -126,6 +161,8 @@ Jurado y premios:
 - El premio a la mejor actuación consistirá en un vale de 50€ para gastar en los stands del evento. El jurado se reserva el derecho a entregar además una mención especial valorada en 25€ para gastar en los stands del evento.
 
 ### Cosplay
+
+Si no solo quieres enseñar tu cosplay, sino que quieres encarnar al personaje en cuestión... Atención porque este es tu concurso. Tanto si vienes con la actuación preparada como si no, esperamos verte en personaje todo el tiempo.
 
 Inscripción:
 
