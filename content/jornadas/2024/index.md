@@ -68,9 +68,11 @@ custom_css: |-
   - [Torneos](#torneos)
 - [Videojuegos](#videojuegos)
 
-### Escenario
+## Escenario
 
-:construction: ¡Estamos levantando el telón para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
+### Concursos
+
+#### Cover Dance
 
 ### Invitados
 
@@ -114,23 +116,23 @@ Es actriz de doblaje y burgalesa de adopción. En el 2018 entró por primera vez
 {{< /cardlist >}}
 
 
-### Charlas
+## Charlas
 
 :construction: ¡Estamos afinando nuestras voces para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
 
-### Talleres
+## Talleres
 
 :construction: ¡Estamos afilando nuestras herramientas para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
 
-### Rol
+## Rol
 
 :construction: ¡Estamos lanzando los dados para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
 
-### Juegos de mesa
+## Juegos de mesa
 
 Como todos los años, vamos a traer con nosotros una gran parte de nuestra ludoteca para ponerla a vuestra disposición durante el evento en las mesas de juego libre. Nuestros voluntarios estarán disponibles para hacer recomendaciones de juegos y explicaros las reglas si lo necesitáis.
 
-#### Patrocinadores
+### Patrocinadores
 
 Para organizar el evento, pedimos colaboración a distintas editoriales. Normalmente colaboran mandándonos juegos de forma gratuita a cambio de hacer demostraciones de estos juegos durante el evento. Como asociación **no tenemos interés económico ni favorecemos a editoriales por la simple aportación de juegos.** Sin embargo, la realidad es que nos han mandado juegos muy divertidos y estaremos encantados de demostrar.
 
@@ -139,21 +141,21 @@ Esta es una lista de los que más nos han gustado que podréis encontrar en el e
 {{< cardlist >}}
 {{% card img="./patrocinadores/magic_maze.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/209778/magic-maze" %}}
 
-#### Magic Maze
+### Magic Maze
 
 Magic Maze es un juego de mesa cooperativo en tiempo real. Los jugadores deben trabajar juntos para ayudar a cuatro héroes a robar equipo mágico de un centro comercial y luego escapar antes de que se acabe el tiempo. Lo que hace que Magic Maze sea único es que los jugadores no pueden comunicarse entre sí y cada jugador puede realizar ciertas acciones, pero no todas. ¡Es un juego frenético y divertido que pone a prueba tus habilidades de cooperación y comunicación no verbal!
 
 {{% /card %}}
 {{% card img="./torneos/un-dia-en-las-carreras.png" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
 
-#### Un Día en las Carreras
+### Un Día en las Carreras
 
 En Un Día en las Carreras, tú y tus amigos se dirigen a las carreras para pasar un día animando, abucheando y apostando a tus caballos favoritos, cuyo destino depende de cada lanzamiento de los dados.
 
 {{% /card %}}
 {{% card img="./patrocinadores/hidden-leaders.png" class="more-space" more="https://boardgamegeek.com/boardgame/320718/hidden-leaders" %}}
 
-#### Hidden Leaders
+### Hidden Leaders
 
 La isla de Oshra está en tumulto. Tras la muerte del Emperador, el conflicto entre las Tribus de la Colina y el Ejército Imperial se intensificó. Mientras que el Pueblo del Agua intenta mantener el equilibrio entre los viejos rivales, los No Muertos buscan escalar la guerra. Toda esperanza recae en los seis hijos del Emperador: ¿Quién de ellos reclamará el trono?
 
@@ -162,7 +164,7 @@ En Hidden Leaders, asumes el papel de uno de los seis líderes secretos, cada un
 
 {{% card img="./patrocinadores/viprip.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/371118/vip-rip" %}}
 
-#### VIP RIP
+### VIP RIP
 
 VIP RIP es un juego party de celebridades y frases lapidarias. Asumirás el papel de Aurora la Enterradora, una mujer glamurosa que sólo entierra celebridades. Para ganar, enlaza refranes y dichos populares con difuntos famosos, reales o del mundo de la ficción, y consigue que el resto descubra tus asociaciones.
 
@@ -170,7 +172,7 @@ VIP RIP es un juego party de celebridades y frases lapidarias. Asumirás el pape
 
 {{% card img="./patrocinadores/boomie-busters.png" class="more-space" more="https://boardgamegeek.com/boardgame/399917/boomie-busters" %}}
 
-#### Boomie Busters
+### Boomie Busters
 
 Sabemos que no habéis podido resistiros a estas adorables criaturas, pero ¿seréis capaces de coleccionarlos a todos? Boomie Busters es un juego competitivo y familiar de cartas en el que tendréis que conseguir las colecciones de boomies más valiosas. Para ello, deberéis usar todas vuestras herramientas y emplear sabiamente vuestros kilos de viscosete.
 
@@ -178,7 +180,7 @@ Sabemos que no habéis podido resistiros a estas adorables criaturas, pero ¿ser
 
 {{% card img="./patrocinadores/fortisimo.png" class="more-space" %}}
 
-#### Fortisimo
+### Fortisimo
 
 Construye y organiza tu castillo colocando murallas en orden ascendente. Necesitarás una buena estrategia y un poco de memoria. ¡Un juego para toda la familia que ya ha conquistado a cientos de miles jugadores en todo el mundo!
 
@@ -188,7 +190,7 @@ Un juego para trabajar la memoria y la atención visual.
 
 {{< /cardlist >}}
 
-#### Torneos
+### Torneos
 
 Los torneos son partidas organizadas en las que el ganador se lleva... ¡Un premio!
 
@@ -207,7 +209,7 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 {{< cardlist >}}
 {{% card img="./torneos/challengers.png" class="more-space" more="https://boardgamegeek.com/boardgame/359970/challengers " %}}
 
-#### Challengers!
+### Challengers!
 
 - :calendar: Domingo, 14 de Julio de 2024
 - 📝 Inscripciones Domingo antes del torneo
@@ -221,7 +223,7 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 {{% card img="./torneos/welcome-to.png" class="more-space" more="https://boardgamegeek.com/boardgame/233867/welcome-to" %}}
 
-#### Welcome hacia el perfecto hogar
+### Welcome hacia el perfecto hogar
 
 - :calendar: Domingo, 14 de Julio de 2024
 - 📝 Inscripciones Domingo antes del torneo
@@ -233,7 +235,7 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 {{% card img="./torneos/oceanos.png" class="more-space" more="https://boardgamegeek.com/boardgame/367220/sea-salt-and-paper" %}}
 
-#### Océanos de papel
+### Océanos de papel
 
 - :calendar: Domingo, 14 de Julio de 2024
 - 📝 Inscripciones Domingo antes del torneo
@@ -245,7 +247,7 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 {{% card img="./torneos/un-dia-en-las-carreras.png" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
 
-#### Un día en las carreras
+### Un día en las carreras
 
 :construction:
 
@@ -253,6 +255,6 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 {{< /cardlist >}}
 
-### Videojuegos
+## Videojuegos
 
 :construction: ¡Estamos pasando al siguiente nivel en la construcción de esta sección! ¡Vuelve pronto para ver las actualizaciones!
