@@ -30,6 +30,13 @@ custom_css: |-
         font-weight: 600 !important;
     }
 
+    .floaty-button {
+    position: fixed;
+    bottom: 20px; /* Adjust this value to change the vertical position */
+    left: 20px;   /* Adjust this value to change the horizontal position */
+    }
+
+
 ---
 
 
@@ -109,6 +116,8 @@ Demuestra que el kpop no es solo un tipo de música sino una manera de vivir. Ju
 
 ### Cover Dance
 
+![coverDance](./escenario/cover%20dance.jpg)
+
 En solitario, en grupo o.. ¿por qué no ambos? uno de los concursos con más afluencia y con más motivación por parte del público. Demuestra tus dotes de baile sobre el escenario ¡ADELANTE!
 
 Inscripción:
@@ -137,6 +146,8 @@ Jurado y premios:
 
 ### Karaoke
 
+![karaoke](./escenario/karaoke.jpg)
+
 Afina tus cuerdas vocales y prepárate para luchar como una idol por el primer puesto de nuestro concurso. Quizás no te lanzaremos a la fama, pero un premio en efectivo y nuestra admiración tampoco está mal...
 
 Inscripción:
@@ -161,6 +172,8 @@ Jurado y premios:
 - El premio a la mejor actuación consistirá en un vale de 50€ para gastar en los stands del evento. El jurado se reserva el derecho a entregar además una mención especial valorada en 25€ para gastar en los stands del evento.
 
 ### Cosplay
+
+![cosplay](./escenario/cosplay.jpg)
 
 Si no solo quieres enseñar tu cosplay, sino que quieres encarnar al personaje en cuestión... Atención porque este es tu concurso. Tanto si vienes con la actuación preparada como si no, esperamos verte en personaje todo el tiempo.
 
@@ -382,3 +395,5 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 ## Videojuegos
 
 :construction: ¡Estamos pasando al siguiente nivel en la construcción de esta sección! ¡Vuelve pronto para ver las actualizaciones!
+
+<a class="floaty-button tag tag-red" href="#actividades">Volver al indice</a>
