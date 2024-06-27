@@ -186,7 +186,71 @@ Es actriz de doblaje y burgalesa de adopción. En el 2018 entró por primera vez
 
 ## Talleres
 
-:construction: ¡Estamos afilando nuestras herramientas para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
+{{< cardlist >}}
+
+{{% card img="./talleres/origami.png" class="more-space" %}}
+
+### 🎨 Taller de Origami
+
+- **🕒 Duración:** Hora y media
+- **👥 Asistentes:** Máximo 10
+- **👤 Todos los públicos y edades**
+
+Explora el arte japonés de la papiroflexia en este taller accesible para todos los públicos y edades. Bajo la guía experta, descubre cómo transformar simples hojas de papel en obras de arte tridimensionales. No se requieren habilidades previas, ¡solo ganas de aprender y divertirse!
+
+
+{{% /card %}}
+
+{{% card img="./talleres/bon-odori.png" class="more-space" %}}
+
+### 💃 Taller de BON-ODORI
+
+- **🕒 Duración:** Hora y media
+- **👥 Asistentes:** Máximo 10
+- **👤 Todos los públicos y edades**
+
+Aprende y practica el baile tradicional japonés de verano, BON-ODORI. Los movimientos son sencillos y repetitivos, ideales para disfrutar en las fiestas estivales.
+
+{{% /card %}}
+
+{{% card img="./talleres/caligrafia.png" class="more-space" %}}
+
+### 🖋️ Taller de Caligrafía 1
+
+- **🕒 Duración:** Una hora y media
+- **👥 Asistentes:** Máximo 6
+- **👤 Edad:** Mayores de 12
+
+En el Taller de Caligrafía 1, impartido por Masako Taniguchi, explorarás los principios fundamentales de la caligrafía japonesa. Este taller está diseñado para principiantes que desean aprender el arte y la técnica detrás de los trazos elegantes y expresivos. A través de ejercicios prácticos y la guía experta de Masako, los participantes experimentarán con diferentes tipos de pinceles y tinta sobre papel de calidad. Descubre la belleza y precisión de la caligrafía japonesa mientras desarrollas tu propio estilo en un ambiente tranquilo y centrado en el aprendizaje.
+
+{{% /card %}}
+
+{{% card img="./talleres/caligrafia.png" class="more-space" %}}
+
+### 🖋️ Taller de Caligrafía 2
+
+- **🕒 Duración:** Una hora y media
+- **👥 Asistentes:** Máximo 6
+- **👤 Edad:** Mayores de 12
+
+Continúa tu exploración en el arte de la caligrafía japonesa con Masako Taniguchi en el Taller de Caligrafía 2. Aunque se da prioridad a los asistentes del primer taller, este segundo taller también está abierto a nuevos participantes interesados en aprender técnicas avanzadas y refinadas.
+
+{{% /card %}}
+
+{{% card img="./talleres/decoracion-madera.png" class="more-space" %}}
+
+### 🌳 Taller de Decoración en Madera
+
+- **🕒 Duración:** Hora y media
+- **👥 Asistentes:** Máximo 10
+- **👤 Todos los públicos y edades**
+
+Aprende técnicas para transferir imágenes de animes y mangas icónicos a madera en este taller creativo. Personaliza decoraciones únicas con tu creatividad y materiales simples.
+
+{{% /card %}}
+
+
+{{< /cardlist >}}
 
 ## Rol
 
