@@ -1,6 +1,8 @@
 ---
 title: Fallen - la maldición de las sombras
 description: Juego de rol histórico y sobrenatural ambientado entre 1600 y 1850 en Europa y las trece colonias americanas.
+images:
+  - /jornadas/2024/rol/fallen.jpg
 ---
 
 ![Fallen](../fallen.jpg)

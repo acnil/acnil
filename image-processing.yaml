@@ -1,32 +1,32 @@
 actions:
   - name: "jornadas_VII"
     source: ./static/all-images/Fotos/VII JMOAB/*
-    destination: content/jornadas/2018-07-14/images/
+    destination: content/jornadas/2018/images/
     maxWidth: 1500
     quality: 90
   - name: "jornadas_XI"
     source: ./static/all-images/Fotos/XI BBB/*
-    destination: content/jornadas/2023-07-08/images/
+    destination: content/jornadas/2023/images/
     maxWidth: 1500
     quality: 90
   - name: "jornadas_X"
     source: ./static/all-images/Fotos/X JMOAB/*
-    destination: content/jornadas/2022-07-09/images/
+    destination: content/jornadas/2022/images/
     maxWidth: 1500
     quality: 90
   - name: "cartel_XI"
     source: "https://scontent.fmad17-1.fna.fbcdn.net/v/t39.30808-6/345632323_767012181546344_371135896606283408_n.jpg?_nc_cat=102&cb=99be929b-59f725be&ccb=1-7&_nc_sid=e3f864&_nc_ohc=6nLYQeGRmiEAX-TBH7u&_nc_ht=scontent.fmad17-1.fna&oh=00_AfBDgZR3PQ-rTq58uYFXfIkSm62m6GISqUph9vhCmX_4xA&oe=64D2D4D1"
-    destination: content/jornadas/2023-07-08/
+    destination: content/jornadas/2023/
     maxWidth: 1200
     quality: 80
   - name: "cartel_X"
     source: "https://instagram.fmad17-1.fna.fbcdn.net/v/t51.2885-15/278783369_710459776650365_1235278596615015936_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fmad17-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=9PdH1GTN-uEAX8TH_Yp&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MjgyMDQ5ODAzOTQ4NTQ4MTAzMw%3D%3D.2-ccb7-5&oh=00_AfCA89SgYQZqiik9-uBcqxMWWyYbWNplSDMgGDON-aq1Pw&oe=64D48C8C&_nc_sid=b41fef"
-    destination: content/jornadas/2022-07-09/
+    destination: content/jornadas/2022/
     maxWidth: 1200
     quality: 80
   - name: "horario_X"
     source: "https://instagram.fmad17-1.fna.fbcdn.net/v/t51.2885-15/291986901_877242433666280_5510861518510029532_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fmad17-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=fQt4GDSqgkYAX9pXQSm&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjg3NTAwNzU1NTk1NDI2OTA1NA%3D%3D.2-ccb7-5&oh=00_AfAhWVKgzG5LFvRO_I6NyfSWW9u4oFxZHfuZImgmjFGEeA&oe=64D4BD45&_nc_sid=b41fef"
-    destination: content/jornadas/2022-07-09/
+    destination: content/jornadas/2022/
     maxWidth: 1200
     quality: 80
   - name: "activities"

@@ -1,6 +1,9 @@
 ---
 title: Dungeons and Dragons - A la caza de la oveja salvaje
 description: Juego de rol de fantasía épica donde los jugadores exploran mazmorras y enfrentan criaturas míticas.
+images:
+  - /jornadas/2024/rol/dnd-la-caza.jpg
+
 ---
 
 ![Dungeons and Dragons](../dnd-la-caza.jpg)

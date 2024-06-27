@@ -1,7 +1,10 @@
 ---
 title: Dungeons and Dragons - El Descanso del vidente
 description: Aventura de fantasía épica donde los jugadores investigan un mausoleo a petición de un antiguo familiar.
+images:
+  - /jornadas/2024/rol/dnd-vidente.jpg
 ---
+
 
 ![Dungeons and Dragons](../dnd-vidente.jpg)
 

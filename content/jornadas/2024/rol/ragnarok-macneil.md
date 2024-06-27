@@ -1,6 +1,9 @@
 ---
 title: Ragnarok d20 - La Maldición de los MacNeil
 description: Juego de terror e investigación en las Highlands escocesas, enfrentando antiguas maldiciones y horrores ancestrales.
+images:
+  - /jornadas/2024/rol/ragnarok-macneil.jpg
+
 ---
 
 ![Ragnarok d20 - La Maldición de los MacNeil](../ragnarok-macneil.jpg)

@@ -1,6 +1,9 @@
 ---
 title: Candela Obscura - Memento Mori
 description: Juego de rol de investigación sobrenatural donde los jugadores deben resolver misterios paranormales.
+images:
+  - /jornadas/2024/rol/candela-obscura.jpg
+
 ---
 
 ![Candela Obscura](../candela-obscura.jpg)

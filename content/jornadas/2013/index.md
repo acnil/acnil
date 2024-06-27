@@ -2,7 +2,7 @@
 title: Jornadas 2013
 date: 2013-07-06
 images:
- - /jornadas/2012-07-06/cartel.jpg
+ - /jornadas/2012/cartel.jpg
 description: Jornadas del 2013
 ---
 

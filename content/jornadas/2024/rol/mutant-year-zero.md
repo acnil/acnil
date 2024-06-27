@@ -1,6 +1,9 @@
 ---
 title: Mutant Year Zero - Camino al Edén
 description: Juego post-apocalíptico donde los jugadores buscan respuestas sobre el origen de sus poderes en un mundo devastado.
+images:
+  - /jornadas/2024/rol/mutant-year-zero.jpg
+
 ---
 
 ![Mutant Year Zero](../mutant-year-zero.jpg)

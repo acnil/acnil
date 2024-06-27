@@ -1,6 +1,9 @@
 ---
 title: Forbidden Lands - Óxido y astillas
 description: Juego de rol que combina la supervivencia y la exploración en un mundo lleno de criaturas temibles y enigmas antiguos.
+images:
+  - /jornadas/2024/rol/forbidden-lands.jpg
+
 ---
 
 ![Forbidden Lands](../forbidden-lands.jpg)

@@ -1,6 +1,9 @@
 ---
 title: NSd20 - Sombras sobre Ashville
 description: Juego de rol de investigación y misterio donde un grupo de agentes federales investiga extrañas muertes en un pueblo.
+images:
+  - /jornadas/2024/rol/nsd20.jpg
+
 ---
 
 ![NSd20 - Sombras sobre Ashville](../nsd20.jpg)

@@ -2,7 +2,7 @@
 title: Big Bang Burgos 2023
 date: 2023-07-08
 images:
- - /jornadas/2023-07-08/cartel_XI.jpg
+ - /jornadas/2023/cartel_XI.jpg
 description: "Big Bang Burgos XI edición. ¡Villanos! Un héroe te sacrificaría para salvar el mundo, un villano sacrificaría el mundo para salvarte"
 ---
 

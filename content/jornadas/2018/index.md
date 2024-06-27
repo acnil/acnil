@@ -2,7 +2,7 @@
 title: Jornadas 2018
 date: 2018-07-14
 images:
- - /jornadas/2018-07-14/cartel.jpg
+ - /jornadas/2018/cartel.jpg
 description: Jornadas del 2018
 ---
 

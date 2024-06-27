@@ -1,6 +1,8 @@
 ---
 title: Ragnarok d20 - Deuda de Sangre
 description: Juego de terror, ocultismo e investigación ambientado en un mundo moderno con criaturas de diversas mitologías.
+images:
+ - /jornadas/2024/rol/ragnarok-deuda.jpg
 ---
 
 ![Ragnarok d20 - Deuda de Sangre](../ragnarok-deuda.jpg)

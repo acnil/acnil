@@ -2,7 +2,7 @@
 title: Big Bang Burgos XII 2024
 date: 2024-02-26
 images:
- - /jornadas/2024-07-13/cartel.jpg
+ - /jornadas/2024/cartel.jpg
 description: "13 y 14 de Julio en Forum Evolución. Otro año mas de el mejor evento de ocio alternativo en Burgos"
 cascade:
   layout: single

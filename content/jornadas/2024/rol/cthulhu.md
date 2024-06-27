@@ -1,6 +1,9 @@
 ---
 title: La llamada de Cthulhu - Escrito en piedra
 description: Juego de rol basado en el universo de H. P. Lovecraft, donde los jugadores enfrentan horrores cósmicos en la Barcelona de 1926.
+images:
+  - /jornadas/2024/rol/cthulhu.jpg
+
 ---
 
 ![La llamada de Cthulhu](../cthulhu.jpg)
