@@ -4,6 +4,9 @@ date: 2024-02-26
 images:
  - /jornadas/2024-07-13/cartel.jpg
 description: "13 y 14 de Julio en Forum Evolución. Otro año mas de el mejor evento de ocio alternativo en Burgos"
+cascade:
+  layout: single
+  type: _default
 custom_css: |-
     body {
         background-color: #5C4033;
@@ -56,13 +59,12 @@ custom_css: |-
 
 ## Horarios
 
-<a class="tag tag-red" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pub?output=pdf">Descarga Horario en PDF</a>
+<a class="tag tag-red" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdt4Qcy3KaQo7ilKIwN9aQZF_BrydUfFIpTe5Aqe978FBi0U_ZEC4bfNcxQl3EX2Mso6RZD95-T5fJ/pub?output=pdf">Descarga Horario en PDF</a>
 
 
-<iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdt4Qcy3KaQo7ilKIwN9aQZF_BrydUfFIpTe5Aqe978FBi0U_ZEC4bfNcxQl3EX2Mso6RZD95-T5fJ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-<iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRK45bBjGU4LtftHjBROT5Od9L6E1RGp4-2LGK01zp4HsRmKDT6VQoCCgT79ZiDdNb7nQUe_QkLFS14/pubhtml?gid=1377301289&amp;single=true&amp;widget=true&amp;headers=false"></iframe> 
-
+<iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdt4Qcy3KaQo7ilKIwN9aQZF_BrydUfFIpTe5Aqe978FBi0U_ZEC4bfNcxQl3EX2Mso6RZD95-T5fJ/pubhtml?gid=1377301289&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 ## Actividades
 
 - [Escenario](#escenario)
@@ -110,106 +112,37 @@ Demuestra que el kpop no es solo un tipo de música sino una manera de vivir. Ju
 
 {{% /card %}}
 
-{{< /cardlist >}}
-
-## Concursos
+{{% card img="./escenario/cover dance.jpg" class="more-space" %}}
 
 ### Cover Dance
 
-![coverDance](./escenario/cover%20dance.jpg)
-
 En solitario, en grupo o.. ¿por qué no ambos? uno de los concursos con más afluencia y con más motivación por parte del público. Demuestra tus dotes de baile sobre el escenario ¡ADELANTE!
 
-Inscripción:
+<a class="tag tag-black" href='{{< relref "./escenario/bases-coverdance" >}}'>ver bases</a>
 
-- El concurso tendrá lugar el día 13 de Julio a las 18:30 horas.
-- La inscripción se realizará en el Punto de Información desde el inicio del horario de apertura el día 13 de julio hasta media hora antes del inicio del concurso.
-- Será necesario apuntar el nombre y apellidos del participante, así como un pseudónimo. En el caso de los grupos, elegir a un representante y un nombre de grupo.
-- El número de plazas será acorde al tiempo disponible para la actividad, pudiendo alargarse o acortarse según lo considere oportuno la organización.
+{{% /card %}}
 
-Características:
-
-- Podrán participar tanto de forma individual como en grupo con un máximo de 10 componentes (puede hacerse alguna excepción si la organización lo
--prueba).
-- Deberán aportar, un pendrive con el audio en formato MP3 cuando lo requiera la organización (por favor, aseguraos que esté libre de virus).
-- También se podrán recibir entradas por correo electrónico enviando la canción a acnil@acnil.es poniendo como asunto “Concurso Cover Dance” junto con el nombre o Nick.
-- Bajo ningún concepto recibiremos canciones directamente desde dispositivos móviles.
-- La canción debe de durar lo mismo que la actuación. No prepararemos canciones para empezar en medio de la pista de audio o que acaben antes del final del mismo.
-- Se pondrá el audio entregado sin ninguna manipulación por parte de la organización. Si el audio no es el correcto o tuviera algún defecto, no se podrá optar a repetir la actuación.
-- La actuación no podrá superar los 5 minutos.
-- No se permite el esparcimiento de líquidos, ni el lenguaje obsceno u ofensivo, así como también quedan prohibidos los desnudos.
-
-Jurado y premios:
-
-- El jurado lo compondrán 2 personas donde al menos habrá un miembro de ACNIL y un invitado a determinar. Valorarán la calidad de la actuación, la coordinación y la originalidad.
-- El premio a la mejor actuación consistirá en un vale de 70€ para gastar en los stands del evento. El jurado se reserva el derecho a entregar además una mención especial valorada en 30€ para gastar en los stands del evento.
+{{% card img="./escenario/karaoke.jpg" class="more-space" %}}
 
 ### Karaoke
 
-![karaoke](./escenario/karaoke.jpg)
-
 Afina tus cuerdas vocales y prepárate para luchar como una idol por el primer puesto de nuestro concurso. Quizás no te lanzaremos a la fama, pero un premio en efectivo y nuestra admiración tampoco está mal...
 
-Inscripción:
+<a class="tag tag-black" href='{{< relref "./escenario/bases-karaoke" >}}'>ver bases</a>
 
-- El concurso tendrá lugar el día 14 de julio a las 16:30 horas.
-- La inscripción se realizará en el Punto de Información desde el inicio del horario de apertura el día 13 de julio hasta media hora antes del inicio del concurso.
-- Podrán participar de forma individual o grupal con un máximo de 6 miembros.  Los participantes deberán indicar su nombre y apellidos, así como un pseudónimo o nombre grupal y la canción que interpretarán.
-- El número de plazas será acorde al tiempo disponible para la actividad, pudiendo alargarse o acortarse en función del criterio de la organización.
+{{% /card %}}
 
-Características:
-
-- No existe un límite de tiempo específico para la canción, no obstante, la organización se reserva el derecho de acortarlas en función del tiempo y el número de participantes.
-- Deberán aportar un pendrive con el audio en formato MP3 cuando lo requiera la organización (por favor, aseguraos que esté libre de virus). Serán mejor valorados aquellos audios que correspondan a instrumentales, no filtros (es decir, que no se oiga la voz original por detrás).
-- También se podrán recibir entradas por correo electrónico enviando la canción a acnil@acnil.es poniendo como asunto “Concurso Karaoke” junto con el nombre o Nick.
-- Bajo ningún concepto recibiremos canciones directamente desde dispositivos móviles.
-- La canción debe de durar lo mismo que la actuación. No prepararemos canciones para empezar en medio de la pista de audio.
-- Se pondrá el audio entregado sin ninguna manipulación por parte de la organización. Si el audio no es el correcto o tuviera algún defecto, no se podrá optar a repetir la actuación.
-
-Jurado y premios:
-
-- El jurado lo compondrán 2 personas entre las que al menos habrá un miembro de ACNIL y un invitado especial a determinar. Las canciones en japonés o coreano recibirán mayor puntuación que en inglés o español y se valorará también la pronunciación y puesta en escena.
-- El premio a la mejor actuación consistirá en un vale de 50€ para gastar en los stands del evento. El jurado se reserva el derecho a entregar además una mención especial valorada en 25€ para gastar en los stands del evento.
+{{% card img="./escenario/cosplay.jpg" class="more-space" %}}
 
 ### Cosplay
 
-![cosplay](./escenario/cosplay.jpg)
-
 Si no solo quieres enseñar tu cosplay, sino que quieres encarnar al personaje en cuestión... Atención porque este es tu concurso. Tanto si vienes con la actuación preparada como si no, esperamos verte en personaje todo el tiempo.
 
-Inscripción:
+<a class="tag tag-black" href='{{< relref "./escenario/bases-cosplay" >}}'>ver bases</a>
 
-- El concurso tendrá lugar el día 14 de julio a las 18:00 horas.
-- La inscripción se realizará en el Punto de Información desde el inicio del horario de apertura el día 13 de julio hasta media hora antes del inicio del concurso.
-- Será necesario apuntar el nombre y apellidos del participante, así como un pseudónimo. En el caso de los grupos, elegir a un representante y un nombre de grupo.
-- El número de plazas será acorde al tiempo disponible para la actividad, pudiendo alargarse o acortarse según lo considere oportuno la organización.
+{{% /card %}}
 
-Características:
-
-- Podrán participar tanto de forma individual como en grupo con un máximo de 5 componentes (puede hacerse alguna excepción si la organización lo aprueba).
-- Habrá dos modalidades de concurso:
-  - Actuación:
-    - Los cosplayers podrán llevar preparado una actuación en referencia a su personaje.
-    - Deberán aportar un pendrive con el audio en formato MP3 cuando lo requiera la organización (por favor, aseguraos que esté libre de virus).
-    - También se podrán recibir entradas por correo electrónico enviando la canción a acnil@acnil.es poniendo como asunto “Concurso Karaoke” junto con el nombre o Nick.
-    - Bajo ningún concepto recibiremos canciones directamente desde dispositivos móviles.
-    - La canción debe de durar lo mismo que la actuación. No prepararemos canciones para empezar en medio de la pista de audio.
-    - Se pondrá el audio entregado sin ninguna manipulación por parte de la organización. Si el audio no es el correcto o tuviera algún defecto, no se podrá optar a repetir la actuación.
-  - Batalla:
-    - A los cosplayers se les entregará una situación que deberán interpretar encima del escenario como si fueran el personaje del que van caracterizados.
-    - Las situaciones serán creadas por los miembros de la asociación y serán entregados al azar a cada participante unos minutos antes de que vayan a subir al escenario.
-    - Los cosplayer podrán usar micrófono o no para sus situaciones.
-    - De la misma forma podrán pedir ayuda a los presentadores para hacer de maniquís en la escena o pedir el uso de algún elemento sencillo de atrezzo (una silla, papeles, un bolígrafo, etc...)
-- Se premiará tanto la calidad de los cosplays como la actuación en cualquiera de las dos modalidades.
-- La actuación no podrá superar los 5 minutos.
-- No se permite el esparcimiento de líquidos, ni el lenguaje obsceno u ofensivo, así como también quedan prohibidos los desnudos.
-- Los disfraces deberán basarse en personajes de manga, anime, videojuegos, ficción o televisión. Los trajes comprados recibirán una menor puntuación por parte del jurado.
-- El jurado hará una revisión de los trajes en los momentos previos a la actuación.
-
-Jurado y Premios:
-
-- El jurado lo compondrán 3 personas: Un miembro de ACNIL y las dos invitadas cosplayer.
-- El premio al conjunto de mejor cosplay y actuación consistirá en un vale de 70€ para gastar en los stands del evento. El jurado se reserva el derecho a entregar además una mención especial valorada en 30€ para gastar en los stands del evento.
+{{< /cardlist >}}
 
 ### Invitados
 
