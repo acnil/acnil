@@ -11,7 +11,7 @@ description: Juego de terror e investigación en las Highlands escocesas, enfren
 
 ### Descripción
 
-Ragnarok d20 - La Maldición de los MacNeil es un juego de rol de terror e investigación ambientado en las Highlands escocesas. Los jugadores se encuentran con antiguas maldiciones y horrores ancestrales mientras exploran una vetusta morada que guarda secretos mortales.
+Se trata de un juego de terror, ocultismo e investigación. Se ambienta en un mundo moderno (S X.X.)  en el que el mal existe realmente en la tierra, además bajo todas las formas descritas por las diferentes mitologías de la larga historia humana: ángeles y demonios, muertos vivientes, hombres lobo, fantasmas, vampiros, brujas, monstruos de toda clase. La semilla de este mal se plantó con el meteorito que acabó con los dinosaurios y se ha ido gestando hasta nuestros tiempos, una criatura que se prepara para reinar sobre todas las formas de vida y desatar lo que se conoce como “ragnarök”.
 
 ### Resumen
 

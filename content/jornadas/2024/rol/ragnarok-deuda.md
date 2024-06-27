@@ -11,8 +11,8 @@ description: Juego de terror, ocultismo e investigación ambientado en un mundo 
 
 ### Descripción
 
-Ragnarok d20 - Deuda de Sangre es un juego de rol ambientado en un mundo moderno infestado de criaturas de diversas mitologías. Los jugadores se enfrentan a un concurso enigmático llamado "Mysterium", donde deben resolver pruebas misteriosas para ganar un premio en metálico. La aventura final los lleva a Rusia, donde enfrentarán su última y más peligrosa prueba.
+Se trata de un juego de terror, ocultismo e investigación. Se ambienta en un mundo moderno (S X.X.)  en el que el mal existe realmente en la tierra, además bajo todas las formas descritas por las diferentes mitologías de la larga historia humana: ángeles y demonios, muertos vivientes, hombres lobo, fantasmas, vampiros, brujas, monstruos de toda clase. La semilla de este mal se plantó con el meteorito que acabó con los dinosaurios y se ha ido gestando hasta nuestros tiempos, una criatura que se prepara para reinar sobre todas las formas de vida y desatar lo que se conoce como “ragnarök”.
 
 ### Resumen
 
-Llevas semanas resolviendo enigmas propuestos por una misteriosa organización que promete un premio en metálico de 2.000.000$ a quien resuelva la prueba final. Eres finalista de "Mysterium", un concurso tan desafiante como misterioso. Para la prueba final, debes volar a Rusia y enfrentarte a la última prueba que te separa del premio. ¿Te atreves a seguir?
+Llevas semanas resolviendo enigmas propuestos por una misteriosa organización que promete un premio en metálico de 2.000.000$ a quien resuelva la prueba final. Eres finalista de "Mysterium" el gran enigma de la década, un concurso tan desafiante como misterioso. Para la prueba final, debes volar a Rusia y enfrentarte a la última prueba que te separa del premio. ¿Te atreves a seguir?

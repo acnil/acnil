@@ -11,8 +11,8 @@ description: Juego de rol de investigación y misterio donde un grupo de agentes
 
 ### Descripción
 
-NSd20 - Sombras sobre Ashville es un juego de rol donde los jugadores encarnan a agentes federales que deben investigar muertes misteriosas en un pequeño pueblo de América. La historia se centra en desentrañar un patrón de asesinatos que recuerda a un infame criminal del pasado.
+La mecánica básica del juego es la clásica d20: Dado + MODificadores contra DIFificultad. Un sistema básico y sencillo al servicio de una aventura que no dejará indiferente a ninguno de los/as jugadores/as.
 
 ### Resumen
 
-Un grupo de agentes federales, liderados por el hombre que capturó al famoso asesino Arthur D. Lewis, es enviado a Ashville para investigar una serie de muertes que imitan los métodos del asesino de la Polaroid. Su misión: detener al imitador y restaurar la paz en la comunidad antes de que el miedo se apodere por completo.
+Un grupo de agentes federales debe investigar las extrañas muertes ocurridas recientemente en un pequeño pueblo del corazón de la América más profunda. Alguién está asesinando a sus víctimas siguiendo el mismo patrón que Arthur D. Lewis, el famoso asesino de la Polaroid que mantuvo en jaque al FBI durante tres años. Cuatro agentes, encabezados por el hombre que participó en la detención de Lewis, son enviados a Ashville, lugar de los hechos, para detener al imitador, y poner fin al temor de los habitantes del pueblo.
