@@ -190,7 +190,110 @@ Es actriz de doblaje y burgalesa de adopción. En el 2018 entró por primera vez
 
 ## Rol
 
-:construction: ¡Estamos lanzando los dados para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
+{{< cardlist >}}
+
+{{% card img="./rol/ragnarok-deuda.jpg" class="more-space" %}}
+
+### 🌑 Ragnarok d20 – deuda de sangre
+**Horario:** sábado de 10:15 a 13:30
+**Jugadores:** 3 a 4
+
+Se trata de un juego de terror, ocultismo e investigación ambientado en un mundo moderno con criaturas de diversas mitologías.
+
+{{% /card %}}
+
+{{% card img="./rol/dnd-la-caza.jpg" class="more-space" %}}
+
+### 🐉 Dungeons and Dragons – A la caza de la oveja salvaje
+**Horario:** sábado de 10:15 a 13:30
+**Jugadores:** 2 a 5
+
+Juego de fantasía épica donde los jugadores asumen roles de héroes exploradores de mazmorras.
+
+{{% /card %}}
+
+{{% card img="./rol/fallen.jpg" class="more-space" %}}
+
+### 🦇 Fallen – la maldición de las sombras
+**Horario:** sábado de 16:30 a 20:15
+**Jugadores:** 3 a 4
+
+Juego de rol histórico y sobrenatural ambientado entre 1600 y 1850 en Europa y las trece colonias americanas.
+
+{{% /card %}}
+
+{{% card img="./rol/candela-obscura.jpg" class="more-space" %}}
+
+### 🔍 Candela Obscura – Memento Mori
+**Horario:** sábado de 16:30 a 20:15
+**Jugadores:** 3 a 4
+
+Juego de investigación donde los jugadores pertenecen a una sociedad secreta que protege contra amenazas sobrenaturales.
+
+{{% /card %}}
+
+{{% card img="./rol/forbidden-lands.jpg" class="more-space" %}}
+
+### 🗡️ Forbidden Lands – Óxido y astillas
+**Horario:** sábado de 16:30 a 20:15
+**Jugadores:** 3 a 4
+
+Juego que combina la supervivencia y la exploración en un mundo lleno de criaturas temibles y enigmas antiguos.
+
+{{% /card %}}
+
+{{% card img="./rol/nsd20.jpg" class="more-space" %}}
+
+### 🌆 NSd20 – Sombras sobre Ashville
+**Horario:** domingo de 10:15 a 13:30
+**Jugadores:** 3 a 4
+
+Juego de investigación y misterio donde un grupo de agentes federales investiga extrañas muertes en un pueblo.
+
+{{% /card %}}
+
+{{% card img="./rol/ragnarok-macneil.jpg" class="more-space" %}}
+
+### 🏴‍☠️ Ragnarok d20 – La maldición de los MacNeil
+**Horario:** domingo de 10:15 a 13:30
+**Jugadores:** 3 a 4
+
+Juego de terror e investigación en las Highlands escocesas, enfrentando antiguas maldiciones y horrores ancestrales.
+
+{{% /card %}}
+
+{{% card img="./rol/cthulhu.jpg" class="more-space" %}}
+
+### 🦑 La llamada de Cthulhu – Escrito en piedra
+**Horario:** domingo de 16:30 a 20:15
+**Jugadores:** 3 a 4
+
+Juego de rol basado en el universo de H. P. Lovecraft, donde los jugadores enfrentan horrores cósmicos en la Barcelona de 1926.
+
+{{% /card %}}
+
+{{% card img="./rol/dnd-vidente.jpg" class="more-space" %}}
+
+### 🌲 Dungeons and Dragons – El Descanso del vidente
+**Horario:** domingo de 16:30 a 20:15
+**Jugadores:** 2 a 5
+
+Aventura de fantasía épica donde los jugadores investigan un mausoleo a petición de un antiguo familiar.
+
+{{% /card %}}
+
+{{% card img="./rol/mutant-year-zero.jpg" class="more-space" %}}
+
+### 🌍 Mutant Year Zero – Camino al Edén
+**Horario:** domingo de 16:30 a 20:15
+**Jugadores:** 3 a 4
+
+Juego post-apocalíptico donde los jugadores buscan respuestas sobre el origen de sus poderes en un mundo devastado.
+
+{{% /card %}}
+
+{{< /cardlist >}}
+
 
 ## Juegos de mesa
 
