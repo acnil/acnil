@@ -346,3 +346,18 @@ right: 5px;
     min-width: 100%;
     min-height: 38em;
 }
+
+/* Improve bullet lists on small display*/
+@media (max-width: 768px) {
+    .prose :where(ul):not(:where([class~="not-prose"] *)) {
+        list-style-type: disc;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        padding-left: .625em;
+    }
+
+    .prose :where(li):not(:where([class~="not-prose"] *)) {
+        margin-top: 0.3em;
+        margin-bottom: 0.3em;
+    }
+}
