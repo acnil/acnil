@@ -192,7 +192,7 @@ Es actriz de doblaje y burgalesa de adopción. En el 2018 entró por primera vez
 
 ### 🎨 Taller de Origami
 
-- **🕒 Duración:** Hora y media
+- **🕒 Duración:** 1 Hora
 - **👥 Asistentes:** Máximo 10
 - **👤 Todos los públicos y edades**
 
@@ -205,7 +205,7 @@ Explora el arte japonés de la papiroflexia en este taller accesible para todos 
 
 ### 🌳 Taller de Decoración en Madera
 
-- **🕒 Duración:** Hora y media
+- **🕒 Duración:** 1 Hora
 - **👥 Asistentes:** Máximo 10
 - **👤 Todos los públicos y edades**
 
@@ -218,7 +218,7 @@ Aprende técnicas para transferir imágenes de animes y mangas icónicos a mader
 
 ### 💃 Taller de BON-ODORI
 
-- **🕒 Duración:** Hora y media
+- **🕒 Duración:** 1 Hora
 - **👥 Asistentes:** Máximo 10
 - **👤 Todos los públicos y edades**
 
@@ -230,7 +230,7 @@ Aprende y practica el baile tradicional japonés de verano, BON-ODORI. Los movim
 
 ### 🖋️ Taller de Caligrafía 1
 
-- **🕒 Duración:** Una hora y media
+- **🕒 Duración:** 1 Hora
 - **👥 Asistentes:** Máximo 6
 - **👤 Edad:** Mayores de 12
 
@@ -242,7 +242,7 @@ En el Taller de Caligrafía 1, impartido por Masako Taniguchi, explorarás los p
 
 ### 🖋️ Taller de Caligrafía 2
 
-- **🕒 Duración:** Una hora y media
+- **🕒 Duración:** 1 Hora
 - **👥 Asistentes:** Máximo 6
 - **👤 Edad:** Mayores de 12
 
