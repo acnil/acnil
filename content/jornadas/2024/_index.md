@@ -194,9 +194,10 @@ Es actriz de doblaje y burgalesa de adopción. En el 2018 entró por primera vez
 
 {{% card img="rol/ragnarok-deuda.jpg" class="more-space" more="rol/ragnarok-deuda" %}}
 
-### 🌑 Ragnarok d20 – deuda de sangre
-**Horario:** sábado de 10:15 a 13:30  
-**Jugadores:** 3 a 4
+#### 🌑 Ragnarok d20 – deuda de sangre
+- **⚠️ Edad recomendada:** +18 años
+- **🕥 Horario:** sábado de 10:15 a 13:30  
+- **👥 Jugadores:** 3 a 4
 
 Se trata de un juego de terror, ocultismo e investigación ambientado en un mundo moderno con criaturas de diversas mitologías.
 
@@ -204,9 +205,10 @@ Se trata de un juego de terror, ocultismo e investigación ambientado en un mund
 
 {{% card img="rol/dnd-la-caza.jpg" class="more-space" more="rol/dnd-la-caza" %}}
 
-### 🐉 Dungeons and Dragons – A la caza de la oveja salvaje
-**Horario:** sábado de 10:15 a 13:30  
-**Jugadores:** 2 a 5
+#### 🐉 Dungeons and Dragons – A la caza de la oveja salvaje
+- **⚠️ Edad recomendada:** +12 años
+- **🕥 Horario:** sábado de 10:15 a 13:30  
+- **👥 Jugadores:** 2 a 5
 
 Juego de fantasía épica donde los jugadores asumen roles de héroes exploradores de mazmorras.
 
@@ -214,9 +216,10 @@ Juego de fantasía épica donde los jugadores asumen roles de héroes explorador
 
 {{% card img="rol/fallen.jpg" class="more-space" more="rol/fallen" %}}
 
-### 🦇 Fallen – la maldición de las sombras
-**Horario:** sábado de 16:30 a 20:15  
-**Jugadores:** 3 a 4
+#### 🦇 Fallen – la maldición de las sombras
+- **⚠️ Edad recomendada:** +14 años
+- **🕥 Horario:** sábado de 16:30 a 20:15  
+- **👥 Jugadores:** 3 a 4
 
 Juego de rol histórico y sobrenatural ambientado entre 1600 y 1850 en Europa y las trece colonias americanas.
 
@@ -224,9 +227,10 @@ Juego de rol histórico y sobrenatural ambientado entre 1600 y 1850 en Europa y 
 
 {{% card img="rol/candela-obscura.jpg" class="more-space" more="rol/candela-obscura" %}}
 
-### 🔍 Candela Obscura – Memento Mori
-**Horario:** sábado de 16:30 a 20:15  
-**Jugadores:** 3 a 4
+#### 🔍 Candela Obscura – Memento Mori
+- **⚠️ Edad recomendada:** +16 años
+- **🕥 Horario:** sábado de 16:30 a 20:15  
+- **👥 Jugadores:** 3 a 4
 
 Juego de investigación donde los jugadores pertenecen a una sociedad secreta que protege contra amenazas sobrenaturales.
 
@@ -234,9 +238,10 @@ Juego de investigación donde los jugadores pertenecen a una sociedad secreta qu
 
 {{% card img="rol/forbidden-lands.jpg" class="more-space" more="rol/forbidden-lands" %}}
 
-### 🗡️ Forbidden Lands – Óxido y astillas
-**Horario:** sábado de 16:30 a 20:15  
-**Jugadores:** 3 a 4
+#### 🗡️ Forbidden Lands – Óxido y astillas
+- **⚠️ Edad recomendada:** +18 años
+- **🕥 Horario:** sábado de 16:30 a 20:15  
+- **👥 Jugadores:** 3 a 4
 
 Juego que combina la supervivencia y la exploración en un mundo lleno de criaturas temibles y enigmas antiguos.
 
@@ -244,9 +249,10 @@ Juego que combina la supervivencia y la exploración en un mundo lleno de criatu
 
 {{% card img="rol/nsd20.jpg" class="more-space" more="rol/nsd20" %}}
 
-### 🌆 NSd20 – Sombras sobre Ashville
-**Horario:** domingo de 10:15 a 13:30  
-**Jugadores:** 3 a 4
+#### 🌆 NSd20 – Sombras sobre Ashville
+- **⚠️ Edad recomendada:** +18 años
+- **🕥 Horario:** domingo de 10:15 a 13:30  
+- **👥 Jugadores:** 3 a 4
 
 Juego de investigación y misterio donde un grupo de agentes federales investiga extrañas muertes en un pueblo.
 
@@ -254,9 +260,10 @@ Juego de investigación y misterio donde un grupo de agentes federales investiga
 
 {{% card img="rol/ragnarok-macneil.jpg" class="more-space" more="rol/ragnarok-macneil" %}}
 
-### 🏴‍☠️ Ragnarok d20 – La maldición de los MacNeil
-**Horario:** domingo de 10:15 a 13:30  
-**Jugadores:** 3 a 4
+#### 🏴‍☠️ Ragnarok d20 – La maldición de los MacNeil
+- **⚠️ Edad recomendada:** +16 años
+- **🕥 Horario:** domingo de 10:15 a 13:30  
+- **👥 Jugadores:** 3 a 4
 
 Juego de terror e investigación en las Highlands escocesas, enfrentando antiguas maldiciones y horrores ancestrales.
 
@@ -264,9 +271,10 @@ Juego de terror e investigación en las Highlands escocesas, enfrentando antigua
 
 {{% card img="rol/cthulhu.jpg" class="more-space" more="rol/cthulhu" %}}
 
-### 🦑 La llamada de Cthulhu – Escrito en piedra
-**Horario:** domingo de 16:30 a 20:15  
-**Jugadores:** 3 a 4
+#### 🦑 La llamada de Cthulhu – Escrito en piedra
+- **⚠️ Edad recomendada:** +18 años
+- **🕥 Horario:** domingo de 16:30 a 20:15  
+- **👥 Jugadores:** 3 a 4
 
 Juego de rol basado en el universo de H. P. Lovecraft, donde los jugadores enfrentan horrores cósmicos en la Barcelona de 1926.
 
@@ -274,9 +282,10 @@ Juego de rol basado en el universo de H. P. Lovecraft, donde los jugadores enfre
 
 {{% card img="rol/dnd-vidente.jpg" class="more-space" more="rol/dnd-vidente" %}}
 
-### 🌲 Dungeons and Dragons – El Descanso del vidente
-**Horario:** domingo de 16:30 a 20:15  
-**Jugadores:** 2 a 5
+#### 🌲 Dungeons and Dragons – El Descanso del vidente
+- **⚠️ Edad recomendada:** +14 años
+- **🕥 Horario:** domingo de 16:30 a 20:15  
+- **👥 Jugadores:** 2 a 5
 
 Aventura de fantasía épica donde los jugadores investigan un mausoleo a petición de un antiguo familiar.
 
@@ -284,9 +293,10 @@ Aventura de fantasía épica donde los jugadores investigan un mausoleo a petici
 
 {{% card img="rol/mutant-year-zero.jpg" class="more-space" more="rol/mutant-year-zero" %}}
 
-### 🌍 Mutant Year Zero – Camino al Edén
-**Horario:** domingo de 16:30 a 20:15  
-**Jugadores:** 3 a 4
+#### 🌍 Mutant Year Zero – Camino al Edén
+- **⚠️ Edad recomendada:** +16 años
+- **🕥 Horario:** domingo de 16:30 a 20:15  
+- **👥 Jugadores:** 3 a 4
 
 Juego post-apocalíptico donde los jugadores buscan respuestas sobre el origen de sus poderes en un mundo devastado.
 
