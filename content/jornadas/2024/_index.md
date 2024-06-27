@@ -90,7 +90,7 @@ custom_css: |-
 
 {{% /card %}}
 
-{{% card img="./escenario/trivials.jpg" class="more-space"  %}}
+{{% card img="./escenario/trivials.png" class="more-space"  %}}
 
 ### 🧠 Trivial K-pop
 
@@ -98,7 +98,7 @@ Demuestra que el kpop no es solo un tipo de música sino una manera de vivir. Ju
 
 {{% /card %}}
 
-{{% card img="./escenario/trivials.jpg" class="more-space" %}}
+{{% card img="./escenario/trivials.png" class="more-space" %}}
 
 ### 🎮 Trivial Friky
 
