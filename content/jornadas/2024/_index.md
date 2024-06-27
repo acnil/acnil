@@ -201,7 +201,20 @@ Explora el arte japonés de la papiroflexia en este taller accesible para todos 
 
 {{% /card %}}
 
-{{% card img="./talleres/bon-odori.png" class="more-space" %}}
+{{% card img="./talleres/decoracion-madera.png" class="more-space" %}}
+
+### 🌳 Taller de Decoración en Madera
+
+- **🕒 Duración:** Hora y media
+- **👥 Asistentes:** Máximo 10
+- **👤 Todos los públicos y edades**
+
+Aprende técnicas para transferir imágenes de animes y mangas icónicos a madera en este taller creativo. Personaliza decoraciones únicas con tu creatividad y materiales simples.
+
+{{% /card %}}
+
+
+<!-- {{% card img="./talleres/bon-odori.png" class="more-space" %}}
 
 ### 💃 Taller de BON-ODORI
 
@@ -211,7 +224,7 @@ Explora el arte japonés de la papiroflexia en este taller accesible para todos 
 
 Aprende y practica el baile tradicional japonés de verano, BON-ODORI. Los movimientos son sencillos y repetitivos, ideales para disfrutar en las fiestas estivales.
 
-{{% /card %}}
+{{% /card %}} -->
 
 {{% card img="./talleres/caligrafia.png" class="more-space" %}}
 
@@ -234,18 +247,6 @@ En el Taller de Caligrafía 1, impartido por Masako Taniguchi, explorarás los p
 - **👤 Edad:** Mayores de 12
 
 Continúa tu exploración en el arte de la caligrafía japonesa con Masako Taniguchi en el Taller de Caligrafía 2. Aunque se da prioridad a los asistentes del primer taller, este segundo taller también está abierto a nuevos participantes interesados en aprender técnicas avanzadas y refinadas.
-
-{{% /card %}}
-
-{{% card img="./talleres/decoracion-madera.png" class="more-space" %}}
-
-### 🌳 Taller de Decoración en Madera
-
-- **🕒 Duración:** Hora y media
-- **👥 Asistentes:** Máximo 10
-- **👤 Todos los públicos y edades**
-
-Aprende técnicas para transferir imágenes de animes y mangas icónicos a madera en este taller creativo. Personaliza decoraciones únicas con tu creatividad y materiales simples.
 
 {{% /card %}}
 
