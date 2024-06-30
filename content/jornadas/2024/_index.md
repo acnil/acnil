@@ -188,7 +188,7 @@ Es actriz de doblaje y burgalesa de adopción. En el 2018 entró por primera vez
 
 {{< cardlist >}}
 
-{{% card img="./talleres/origami.png" class="more-space" %}}
+{{% card img="./talleres/origami.jpeg" class="more-space" %}}
 
 ### 🎨 Taller de Origami
 
@@ -201,7 +201,7 @@ Explora el arte japonés de la papiroflexia en este taller accesible para todos 
 
 {{% /card %}}
 
-{{% card img="./talleres/decoracion-madera.png" class="more-space" %}}
+{{% card img="./talleres/decoracion-madera.jpeg" class="more-space" %}}
 
 ### 🌳 Taller de Decoración en Madera
 
@@ -226,7 +226,7 @@ Aprende y practica el baile tradicional japonés de verano, BON-ODORI. Los movim
 
 {{% /card %}} -->
 
-{{% card img="./talleres/caligrafia.png" class="more-space" %}}
+{{% card img="./talleres/caligrafia.jpeg" class="more-space" %}}
 
 ### 🖋️ Taller de Caligrafía 1
 
@@ -238,7 +238,7 @@ En el Taller de Caligrafía 1, impartido por Masako Taniguchi, explorarás los p
 
 {{% /card %}}
 
-{{% card img="./talleres/caligrafia.png" class="more-space" %}}
+{{% card img="./talleres/caligrafia-2.jpeg" class="more-space" %}}
 
 ### 🖋️ Taller de Caligrafía 2
 
@@ -247,6 +247,30 @@ En el Taller de Caligrafía 1, impartido por Masako Taniguchi, explorarás los p
 - **👤 Edad:** Mayores de 12
 
 Continúa tu exploración en el arte de la caligrafía japonesa con Masako Taniguchi en el Taller de Caligrafía 2. Aunque se da prioridad a los asistentes del primer taller, este segundo taller también está abierto a nuevos participantes interesados en aprender técnicas avanzadas y refinadas.
+
+{{% /card %}}
+
+{{% card img="./talleres/dibujo.jpeg" class="more-space" %}}
+
+### ✏️ Taller de Dibujo: Retratos
+
+- **🕒 Duración:** 1 Hora
+- **👥 Asistentes:** Máximo 8
+- **👤 Todos los públicos y edades**
+
+Taller de dibujo, elaboración de retratos: disfrutad de una clase de la mano del Estudio Ruiz, academia de arte de Burgos, en el que nos darán una introducción al dibujo de retratos junto a un ejercicio práctico.
+
+{{% /card %}}
+
+{{% card img="./talleres/dibujo.jpeg" class="more-space" %}}
+
+### 🎨 Taller de Dibujo: Mezcla de colores
+
+- **🕒 Duración:** 1 Hora
+- **👥 Asistentes:** Máximo 8
+- **👤 Todos los públicos y edades**
+
+Taller de dibujo, mezcla de colores: de nuevo de la mano del Estudio Ruiz, en este taller compartirán con nosotros algunos trucos y ejercicios prácticos para la elaboración del color en la pintura.
 
 {{% /card %}}
 
