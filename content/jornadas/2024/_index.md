@@ -186,6 +186,9 @@ Es actriz de doblaje y burgalesa de adopción. En el 2018 entró por primera vez
 
 ## Talleres
 
+Sumérgete en una variedad de talleres diseñados para despertar tu creatividad y aprender nuevas habilidades. Desde el arte de la papiroflexia y la caligrafía japonesa, hasta técnicas de dibujo y decoración en madera, nuestros talleres están dirigidos por expertos y son accesibles para todos los públicos y edades. ¡Ven y participa en una experiencia enriquecedora y divertida!
+
+
 {{< cardlist >}}
 
 {{% card img="./talleres/origami.jpeg" class="more-space" %}}
