@@ -182,7 +182,55 @@ Es actriz de doblaje y burgalesa de adopción. En el 2018 entró por primera vez
 
 ## Charlas
 
-:construction: ¡Estamos afinando nuestras voces para construir esta sección! ¡Vuelve pronto para ver las actualizaciones!
+Acompáñanos en estas interesantes charlas donde expertos compartirán sus conocimientos y experiencias sobre una variedad de temas. Desde la evolución del folclore ibérico en la ficción hasta consejos prácticos para el cosplay y el mundo del doblaje. Estas charlas están diseñadas para inspirar y educar a todos los asistentes.
+
+{{< cardlist >}}
+
+{{% card img="./charlas/RRSS-charla-clara.jpg" class="more-space" %}}
+
+### 👻 Clara: “Terror al terruño”
+
+- **🕒 Duración:** 1 Hora
+- **👥 Asistentes:** Máximo 30
+
+Un repaso a la (aparente) falta de ficción ambientada en el folclore ibérico y cómo esta está cambiando en los últimos años. Clara nos guiará a través de la evolución de este género y nos mostrará ejemplos contemporáneos que están ganando popularidad.
+
+{{% /card %}}
+
+{{% card img="./charlas/RRSS-charla-shiroychigo.jpg" class="more-space" %}}
+
+### 💄 Shiroychigo: “Caracterización: pelucas y maquillaje”
+
+- **🕒 Duración:** 1 Hora
+- **👥 Asistentes:** Máximo 30
+
+¿Quieres estilizar tus pelucas y no sabes por dónde empezar? ¿Buscas ese toque especial en tu caracterización? Shiroychigo nos dará algunos tips de estilización de pelucas y de maquillaje, donde conseguirlos y algún que otro truquillo que seguro que no conoces.
+
+{{% /card %}}
+
+{{% card img="./charlas/RRSS-charla-shiroki.jpg" class="more-space" %}}
+
+### 🧵 Shiroki: “Iniciando al cosplay: Coge una aguja sin miedo a pincharte"
+
+- **🕒 Duración:** 1 Hora
+- **👥 Asistentes:** Máximo 30
+
+Tanto si quieres iniciarte al cosplay queriendo hacerte tus propios trajes o comprando alguno prefabricado, esta charla te ayudará a empezar con ello. Desde elegir las telas a como ajustar un traje comprado que no nos quede bien.
+
+{{% /card %}}
+
+{{% card img="./charlas/RRSS-charla-sara.jpg" class="more-space" %}}
+
+### 🎙️ Sara: “Charla a la luz de la roja”
+
+- **🕒 Duración:** 1 Hora
+- **👥 Asistentes:** Máximo 30
+
+Pásate a conocer a Sara Gómez, actriz de doblaje en activo, y averigua qué implica dedicarse al mundo de la voz y todo lo que sucede en una sala de doblaje antes, durante y después de que se encienda la luz roja de grabación.
+
+{{% /card %}}
+
+{{< /cardlist >}}
 
 ## Talleres
 
