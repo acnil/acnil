@@ -574,6 +574,66 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 ## Videojuegos
 
-:construction: ¡Estamos pasando al siguiente nivel en la construcción de esta sección! ¡Vuelve pronto para ver las actualizaciones!
+{{< cardlist >}}
+{{% card img="./videojuegos/mario-kart.jpg" class="more-space" %}}
+
+### 🏎️ Torneo de Videojuegos: Mario Kart
+
+- **🕒 Duración:** 2 Horas
+- **👥 Asistentes:** Máximo 20
+- **👤 Todos los públicos y edades**
+
+¡Prepárate para la emoción y la velocidad en nuestro Torneo de Mario Kart! Compite contra otros jugadores en carreras llenas de adrenalina y demuestra tus habilidades al volante. Tanto si eres un veterano de Mario Kart como si es tu primera vez, este torneo está abierto para todos. Habrá premios para los ganadores y mucha diversión para todos los participantes. ¡No te lo pierdas!
+
+{{% /card %}}
+{{% card img="./videojuegos/prince-of-persia.jpg" class="more-space" %}}
+
+### 🏃‍♂️ Torneo de Videojuegos: Prince of Persia Speed Run
+
+- **🕒 Duración:** 2 Horas
+- **👥 Asistentes:** Máximo 20
+- **👤 Todos los públicos y edades**
+
+¿Eres rápido y preciso? Demuestra tus habilidades en nuestro Torneo de Speed Run de Prince of Persia. Compite para completar el juego en el menor tiempo posible, enfrentándote a desafíos y obstáculos con destreza y agilidad. Tanto si eres un experto en speed runs como si es tu primera vez, este torneo está abierto para todos los jugadores. ¡Hay premios para los más veloces y diversión garantizada para todos los participantes! ¡No te lo pierdas!
+
+{{% /card %}}
+
+{{% card img="./videojuegos/street-fighter.jpg" class="more-space" %}}
+
+### 🥋 Torneo de Videojuegos: Street Fighter
+
+- **🕒 Duración:** 2 Horas
+- **👥 Asistentes:** Máximo 20
+- **👤 Todos los públicos y edades**
+
+¡Lucha por la gloria en nuestro Torneo de Street Fighter! Enfréntate a otros jugadores en combates emocionantes y demuestra tus habilidades en uno de los juegos de lucha más icónicos. Tanto si eres un veterano de Street Fighter como si es tu primera vez, este torneo está abierto para todos los luchadores. Habrá premios para los ganadores y mucha diversión para todos los participantes. ¡No te lo pierdas!
+
+{{% /card %}}
+
+{{% card img="./videojuegos/tekken.jpg" class="more-space" %}}
+
+### 🥊 Torneo de Videojuegos: Tekken
+
+- **🕒 Duración:** 2 Horas
+- **👥 Asistentes:** Máximo 20
+- **👤 Todos los públicos y edades**
+
+¡Desata tu poder en nuestro Torneo de Tekken! Enfréntate a otros jugadores en batallas intensas y demuestra tu dominio en uno de los juegos de lucha más populares. Tanto si eres un experto en Tekken como si es tu primera vez, este torneo está abierto para todos los luchadores. Habrá premios para los ganadores y mucha diversión para todos los participantes. ¡No te lo pierdas!
+
+{{% /card %}}
+
+{{% card img="./videojuegos/windjammers.jpg" class="more-space" %}}
+
+### 🥏 Torneo de Videojuegos: Windjammers
+
+- **🕒 Duración:** 2 Horas
+- **👥 Asistentes:** Máximo 20
+- **👤 Todos los públicos y edades**
+
+¡Prepárate para la acción rápida y frenética en nuestro Torneo de Windjammers! Compite contra otros jugadores en este clásico juego de discos voladores y demuestra tu habilidad y reflejos. Tanto si eres un veterano de Windjammers como si es tu primera vez, este torneo está abierto para todos. Habrá premios para los ganadores y mucha diversión para todos los participantes. ¡No te lo pierdas!
+
+{{% /card %}}
+
+{{< /cardlist >}}
 
 <a class="floaty-button tag tag-red" href="#actividades">Volver al indice</a>
