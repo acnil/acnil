@@ -532,7 +532,7 @@ Un juego para trabajar la memoria y la atención visual.
 
 - :clock: Horario: Sábado de 16:30 a 20:00 h
 - 📍 Zona de juegos de mesa
-- 👤 De 4 a 16 participantes
+- 👤 4 participantes
 
 Acércate y aprende a jugar. Y si no tienes tu propio mazo, no te preocupes, nosotros te dejamos uno. ¡Que la fuerza te acompañe!
 
