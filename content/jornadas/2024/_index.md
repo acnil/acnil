@@ -333,6 +333,18 @@ Taller de dibujo, mezcla de colores: de nuevo de la mano del Estudio Ruiz, en es
 
 {{< cardlist >}}
 
+{{% card img="rol/cthulhu-paso.jpg" class="more-space" more="rol/cthulhu-paso" %}}
+
+#### 🦑 La llamada de Cthulhu - Un pequeño paso
+
+- **⚠️ Edad recomendada:** +18 años
+- **Horario:** 🕟 Sabado de 10:15 a 14:00
+- **Jugadores:** 🎲 3 a 4 jugadores
+
+Juego de rol basado en la obra de H. P. Lovecraft, en el que personas corrientes se enfrentan a las espantosas fuerzas de los Mitos de Cthulhu.
+
+{{% /card %}}
+
 {{% card img="rol/ragnarok-deuda.jpg" class="more-space" more="rol/ragnarok-deuda" %}}
 
 #### 🌑 Ragnarok d20 – deuda de sangre
