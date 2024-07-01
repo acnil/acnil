@@ -265,8 +265,7 @@ Aprende técnicas para transferir imágenes de animes y mangas icónicos a mader
 
 {{% /card %}}
 
-
-<!-- {{% card img="./talleres/bon-odori.png" class="more-space" %}}
+{{% card img="./talleres/bon-odori.jpeg" class="more-space" %}}
 
 ### 💃 Taller de BON-ODORI
 
@@ -276,7 +275,7 @@ Aprende técnicas para transferir imágenes de animes y mangas icónicos a mader
 
 Aprende y practica el baile tradicional japonés de verano, BON-ODORI. Los movimientos son sencillos y repetitivos, ideales para disfrutar en las fiestas estivales.
 
-{{% /card %}} -->
+{{% /card %}}
 
 {{% card img="./talleres/caligrafia.jpeg" class="more-space" %}}
 
@@ -302,7 +301,7 @@ Continúa tu exploración en el arte de la caligrafía japonesa con Masako Tanig
 
 {{% /card %}}
 
-{{% card img="./talleres/dibujo.jpeg" class="more-space" %}}
+{{% card img="./talleres/retratos.jpeg" class="more-space" %}}
 
 ### ✏️ Taller de Dibujo: Retratos
 
@@ -323,6 +322,17 @@ Taller de dibujo, elaboración de retratos: disfrutad de una clase de la mano de
 - **👤 Todos los públicos y edades**
 
 Taller de dibujo, mezcla de colores: de nuevo de la mano del Estudio Ruiz, en este taller compartirán con nosotros algunos trucos y ejercicios prácticos para la elaboración del color en la pintura.
+
+{{% /card %}}
+{{% card img="./talleres/viaje.jpeg" class="more-space" %}}
+
+### 🧳 Cursillo de japonés para viajar Japón
+
+- **🕒 Duración:** 1 Hora
+- **👥 Asistentes:** Máximo 8
+- **👤 Todos los públicos y edades**
+
+¿Quieres visitar Japón? Aprovecha para aprender con nuestra colaboradora Masako lo necesario para sobrevivir el día a día.
 
 {{% /card %}}
 
