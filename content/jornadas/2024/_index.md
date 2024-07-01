@@ -529,9 +529,8 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 ### 🥇 Challengers!
 
-- :calendar: Domingo, 14 de Julio de 2024
 - 📝 Inscripciones Domingo antes del torneo
-- :clock: Horario: de 11:30 a 12:30 h (Puede alargarse si hay mucha gente)
+- :clock: Horario: Domingo de 11:30 a 12:30 h (Puede alargarse si hay mucha gente)
 - 📍 Zona de juegos de mesa
 - 👤 De 4 a 16 participantes
 - :warning: En caso de jugadores impares, se jugará con el robot
@@ -543,9 +542,8 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 ### 🏡 Welcome hacia el perfecto hogar
 
-- :calendar: Domingo, 14 de Julio de 2024
 - 📝 Inscripciones Domingo antes del torneo
-- :clock: Horario: de 12:30 a 13:30 h.
+- :clock: Horario: Domingo de 12:30 a 13:30 h.
 - 📍 Zona de juegos de mesa
 - 👤 De 4 a 16 participantes
 
@@ -555,9 +553,8 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 ### 🌊 Océanos de papel
 
-- :calendar: Domingo, 14 de Julio de 2024
 - 📝 Inscripciones Domingo antes del torneo
-- :clock: Horario: de 17:00 a 18:00 h.
+- :clock: Horario: Domingo de 17:00 a 18:00 h.
 - 📍 Zona de juegos de mesa
 - 👤 De 4 a 8 participantes
 
@@ -567,7 +564,10 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 ### 🐴 Un día en las carreras
 
-:construction:
+- 📝 Inscripciones Sábado antes del torneo
+- :clock: Horario: Sábado de 12:00 a 13:00 h.
+- 📍 Zona de juegos de mesa
+- 👤 De 4 a 9 participantes
 
 {{% /card %}}
 
@@ -587,7 +587,6 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 ¿Eres rápido y preciso? Demuestra tus habilidades en nuestro Torneo de Speed Run de Prince of Persia. Compite para completar el juego en el menor tiempo posible, enfrentándote a desafíos y obstáculos con destreza y agilidad. Tanto si eres un experto en speed runs como si es tu primera vez, este torneo está abierto para todos los jugadores. ¡Hay premios para los más veloces y diversión garantizada para todos los participantes! ¡No te lo pierdas!
 
 {{% /card %}}
-
 
 {{% card img="./videojuegos/windjammers.jpg" class="more-space" %}}
 
