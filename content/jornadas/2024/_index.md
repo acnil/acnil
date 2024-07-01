@@ -336,7 +336,6 @@ Taller de dibujo, mezcla de colores: de nuevo de la mano del Estudio Ruiz, en es
 
 {{% /card %}}
 
-
 {{< /cardlist >}}
 
 ## Rol
@@ -525,6 +524,17 @@ Sabemos que no habéis podido resistiros a estas adorables criaturas, pero ¿ser
 Construye y organiza tu castillo colocando murallas en orden ascendente. Necesitarás una buena estrategia y un poco de memoria. ¡Un juego para toda la familia que ya ha conquistado a cientos de miles jugadores en todo el mundo!
 
 Un juego para trabajar la memoria y la atención visual.
+
+{{% /card %}}
+{{% card img="./patrocinadores/starwars.png" class="more-space" %}}
+
+### 🌟 Star Wars - Unlimited
+
+- :clock: Horario: Sábado de 16:30 a 20:00 h
+- 📍 Zona de juegos de mesa
+- 👤 De 4 a 16 participantes
+
+Acércate y aprende a jugar. Y si no tienes tu propio mazo, no te preocupes, nosotros te dejamos uno. ¡Que la fuerza te acompañe!
 
 {{% /card %}}
 
