@@ -483,14 +483,14 @@ Ya sea por colaboradores o simplemente porque nos gusta el juego, os dejamos por
 Magic Maze es un juego de mesa cooperativo en tiempo real. Los jugadores deben trabajar juntos para ayudar a cuatro héroes a robar equipo mágico de un centro comercial y luego escapar antes de que se acabe el tiempo. Lo que hace que Magic Maze sea único es que los jugadores no pueden comunicarse entre sí y cada jugador puede realizar ciertas acciones, pero no todas. ¡Es un juego frenético y divertido que pone a prueba tus habilidades de cooperación y comunicación no verbal!
 
 {{% /card %}}
-{{% card img="./torneos/un-dia-en-las-carreras.png" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
+{{% card img="./torneos/un-dia-en-las-carreras.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
 
 ### 🐎 Un Día en las Carreras
 
 En Un Día en las Carreras, tú y tus amigos se dirigen a las carreras para pasar un día animando, abucheando y apostando a tus caballos favoritos, cuyo destino depende de cada lanzamiento de los dados.
 
 {{% /card %}}
-{{% card img="./patrocinadores/hidden-leaders.png" class="more-space" more="https://boardgamegeek.com/boardgame/320718/hidden-leaders" %}}
+{{% card img="./patrocinadores/hidden-leaders.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/320718/hidden-leaders" %}}
 
 ### 🕵️ Hidden Leaders
 
@@ -507,7 +507,7 @@ VIP RIP es un juego party de celebridades y frases lapidarias. Asumirás el pape
 
 {{% /card %}}
 
-{{% card img="./patrocinadores/boomie-busters.png" class="more-space" more="https://boardgamegeek.com/boardgame/399917/boomie-busters" %}}
+{{% card img="./patrocinadores/boomie-busters.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/399917/boomie-busters" %}}
 
 ### 💥 Boomie Busters
 
@@ -515,7 +515,7 @@ Sabemos que no habéis podido resistiros a estas adorables criaturas, pero ¿ser
 
 {{% /card %}}
 
-{{% card img="./patrocinadores/fortisimo.png" class="more-space" %}}
+{{% card img="./patrocinadores/fortisimo.jpg" class="more-space" %}}
 
 ### 🏰 Fortisimo
 
@@ -524,7 +524,7 @@ Construye y organiza tu castillo colocando murallas en orden ascendente. Necesit
 Un juego para trabajar la memoria y la atención visual.
 
 {{% /card %}}
-{{% card img="./patrocinadores/starwars.png" class="more-space" %}}
+{{% card img="./patrocinadores/starwars.jpg" class="more-space" %}}
 
 ### 🌟 Star Wars - Unlimited
 
