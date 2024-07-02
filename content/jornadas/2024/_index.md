@@ -534,6 +534,8 @@ Un juego para trabajar la memoria y la atención visual.
 - 📍 Zona de juegos de mesa
 - 👤 4 participantes
 
+Dos amigos se ofrecen a traer este juego al evento.
+
 Acércate y aprende a jugar. Y si no tienes tu propio mazo, no te preocupes, nosotros te dejamos uno. ¡Que la fuerza te acompañe!
 
 {{% /card %}}
@@ -557,7 +559,7 @@ Para apuntarte solo has de acercarte al mostrador donde prestamos los juegos de 
 Al final los torneos existen para pasarlo bien y el premio es solo un incentivo para la gente que le gusta competir.
 
 {{< cardlist >}}
-{{% card img="./torneos/challengers.png" class="more-space" more="https://boardgamegeek.com/boardgame/359970/challengers " %}}
+{{% card img="./torneos/challengers.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/359970/challengers " %}}
 
 ### 🥇 Challengers!
 
@@ -569,8 +571,7 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 - ℹ️ En caso de más de 8, se jugará con el torneo de verano.
 
 {{% /card %}}
-
-{{% card img="./torneos/welcome-to.png" class="more-space" more="https://boardgamegeek.com/boardgame/233867/welcome-to" %}}
+{{% card img="./torneos/welcome.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/233867/welcome-to" %}}
 
 ### 🏡 Welcome hacia el perfecto hogar
 
@@ -581,7 +582,7 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 {{% /card %}}
 
-{{% card img="./torneos/oceanos.png" class="more-space" more="https://boardgamegeek.com/boardgame/367220/sea-salt-and-paper" %}}
+{{% card img="./torneos/oceanos.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/367220/sea-salt-and-paper" %}}
 
 ### 🌊 Océanos de papel
 
@@ -592,7 +593,7 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 {{% /card %}}
 
-{{% card img="./torneos/un-dia-en-las-carreras.png" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
+{{% card img="./torneos/un-dia-en-las-carreras.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
 
 ### 🐴 Un día en las carreras
 
