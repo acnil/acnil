@@ -679,6 +679,6 @@ También una especial mención a los patrocinadores del evento que nos ayudan co
 
 {{< gallery match="patr_*.png"  rowHeight="100" margins="5" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
-Para organizar el evento, pedimos colaboración a distintas editoriales. Normalmente colaboran mandándonos juegos de forma gratuita a cambio de hacer demostraciones de estos juegos durante el evento. Como asociación sin animo de lucro **no tenemos interés económico ni favorecemos a editoriales por la simple aportación de juegos.** Sin embargo, la realidad es que nos han mandado juegos muy divertidos y estaremos encantados de demostrar.
+Queremos agradecer a todas las tiendas y editoriales que nos ayudan con jornadas. Gracias a las editoriales tendremos bastantes novedades que nos han enviado para poder mostraros. Pero no os preocupéis porque también llevaremos más de 100 juegos de muchas editoriales de nuestra ludoteca asociativa. No tendréis manera de aburriros.
 
 <a class="floaty-button tag tag-red" href="#actividades">Volver al indice</a>
