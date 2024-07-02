@@ -74,9 +74,10 @@ custom_css: |-
 - [Talleres](#talleres)
 - [Rol](#rol)
 - [Juegos de mesa](#juegos-de-mesa)
-  - [Patrocinadores](#-patrocinadores)
+  - [Novedades](#-novedades)
   - [Torneos](#-torneos)
 - [Videojuegos](#videojuegos)
+- [Colaboradores y Patrocinadores](#colaboradores-y-patrocinadores)
 
 ## Escenario
 
@@ -466,16 +467,13 @@ Juego post-apocalíptico donde los jugadores buscan respuestas sobre el origen d
 
 {{< /cardlist >}}
 
-
 ## Juegos de mesa
 
 Como todos los años, vamos a traer con nosotros una gran parte de nuestra ludoteca para ponerla a vuestra disposición durante el evento en las mesas de juego libre. Nuestros voluntarios estarán disponibles para hacer recomendaciones de juegos y explicaros las reglas si lo necesitáis.
 
-### 🎲 Patrocinadores
+### 🎲 Novedades
 
-Para organizar el evento, pedimos colaboración a distintas editoriales. Normalmente colaboran mandándonos juegos de forma gratuita a cambio de hacer demostraciones de estos juegos durante el evento. Como asociación **no tenemos interés económico ni favorecemos a editoriales por la simple aportación de juegos.** Sin embargo, la realidad es que nos han mandado juegos muy divertidos y estaremos encantados de demostrar.
-
-Esta es una lista de los que más nos han gustado que podréis encontrar en el evento.
+Ya sea por colaboradores o simplemente porque nos gusta el juego, os dejamos por aquí algunos de los juegos que hemos añadido a nuestra ludoteca este año.
 
 {{< cardlist >}}
 {{% card img="./patrocinadores/magic_maze.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/209778/magic-maze" %}}
@@ -670,5 +668,17 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 {{% /card %}}
 {{< /cardlist >}}
+
+### Colaboradores y Patrocinadores
+
+Este evento no sería posible sin la colaboración y trabajo de todos los socios de ACNIL, ademas de toda la gente de otras asociaciones que nos ayudan en el evento.
+
+{{< gallery match="col_*.png"  rowHeight="150" margins="5" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
+También una especial mención a los patrocinadores del evento que nos ayudan con material.
+
+{{< gallery match="patr_*.png"  rowHeight="100" margins="5" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
+Para organizar el evento, pedimos colaboración a distintas editoriales. Normalmente colaboran mandándonos juegos de forma gratuita a cambio de hacer demostraciones de estos juegos durante el evento. Como asociación sin animo de lucro **no tenemos interés económico ni favorecemos a editoriales por la simple aportación de juegos.** Sin embargo, la realidad es que nos han mandado juegos muy divertidos y estaremos encantados de demostrar.
 
 <a class="floaty-button tag tag-red" href="#actividades">Volver al indice</a>
