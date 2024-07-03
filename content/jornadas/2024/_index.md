@@ -266,18 +266,6 @@ Aprende técnicas para transferir imágenes de animes y mangas icónicos a mader
 
 {{% /card %}}
 
-{{% card img="./talleres/bon-odori.jpeg" class="more-space" %}}
-
-### 💃 Taller de BON-ODORI
-
-- **🕒 Duración:** 1 Hora
-- **👥 Asistentes:** Máximo 10
-- **👤 Todos los públicos y edades**
-
-Aprende y practica el baile tradicional japonés de verano, BON-ODORI. Los movimientos son sencillos y repetitivos, ideales para disfrutar en las fiestas estivales.
-
-{{% /card %}}
-
 {{% card img="./talleres/caligrafia.jpeg" class="more-space" %}}
 
 ### 🖋️ Taller de Caligrafía 1
@@ -673,11 +661,11 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 
 Este evento no sería posible sin la colaboración y trabajo de todos los socios de ACNIL, ademas de toda la gente de otras asociaciones que nos ayudan en el evento.
 
-{{< gallery match="col_*.png"  rowHeight="150" margins="5" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="col_*"  rowHeight="120" margins="5" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
 También una especial mención a los patrocinadores del evento que nos ayudan con material.
 
-{{< gallery match="patr_*.png"  rowHeight="100" margins="5" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="patr_*"  rowHeight="100" margins="5" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
 
 Queremos agradecer a todas las tiendas y editoriales que nos ayudan con jornadas. Gracias a las editoriales tendremos bastantes novedades que nos han enviado para poder mostraros. Pero no os preocupéis porque también llevaremos más de 100 juegos de muchas editoriales de nuestra ludoteca asociativa. No tendréis manera de aburriros.
 
