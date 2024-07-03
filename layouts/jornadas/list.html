@@ -15,6 +15,9 @@
 {{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
 {{ end }}
 
+<!-- Make sure pages are ordered by date -->
+{{ $pages := sort $pages "Date" "desc"}}
+
 <!-- Articles -->
 {{ $paginator := .Paginate $pages }} 
 <div class="container">
