@@ -2,7 +2,7 @@
 title: Bases Cover Dance
 ---
 
-![coverdance](../cover%20dance.jpg)
+{{< figure src="../cover%20dance.jpg" class="mx-auto logo"  >}}
 
 Inscripción:
 

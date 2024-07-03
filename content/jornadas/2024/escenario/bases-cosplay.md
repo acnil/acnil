@@ -2,7 +2,7 @@
 title: Bases Cosplay
 ---
 
-![cosplay](../cosplay.jpg)
+{{< figure src="../cosplay.jpg" class="mx-auto logo"  >}}
 
 Si no solo quieres enseñar tu cosplay, sino que quieres encarnar al personaje en cuestión... Atención porque este es tu concurso. Tanto si vienes con la actuación preparada como si no, esperamos verte en personaje todo el tiempo.
 

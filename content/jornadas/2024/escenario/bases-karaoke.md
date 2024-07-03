@@ -2,7 +2,7 @@
 title: Bases Karaoke
 ---
 
-![karaoke](../karaoke.jpg)
+{{< figure src="../karaoke.jpg" class="mx-auto logo"  >}}
 
 Inscripción:
 
