@@ -471,7 +471,7 @@ Ya sea por colaboradores o simplemente porque nos gusta el juego, os dejamos por
 Magic Maze es un juego de mesa cooperativo en tiempo real. Los jugadores deben trabajar juntos para ayudar a cuatro héroes a robar equipo mágico de un centro comercial y luego escapar antes de que se acabe el tiempo. Lo que hace que Magic Maze sea único es que los jugadores no pueden comunicarse entre sí y cada jugador puede realizar ciertas acciones, pero no todas. ¡Es un juego frenético y divertido que pone a prueba tus habilidades de cooperación y comunicación no verbal!
 
 {{% /card %}}
-{{% card img="./torneos/un-dia-en-las-carreras.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
+{{% card img="./patrocinadores/un-dia-en-las-carreras.jpg" class="more-space" more="https://boardgamegeek.com/boardgame/351040/ready-set-bet" %}}
 
 ### 🐎 Un Día en las Carreras
 
