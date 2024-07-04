@@ -586,7 +586,7 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 - 📝 Inscripciones Sábado antes del torneo
 - :clock: Horario: Sábado de 12:00 a 13:00 h.
 - 📍 Zona de juegos de mesa
-- 👤 De 4 a 8 participantes
+- 👤 De 4 a 16 participantes
 
 {{% /card %}}
 
