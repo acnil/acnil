@@ -38,6 +38,8 @@
   <link rel="preload stylesheet" as="style" href="{{ $css.Permalink }}" />
 
 
+  {{ $stickyHeader := resources.Get "sticky-header.js" }}
+<script type="text/javascript" src="{{ $stickyHeader.Permalink }}"></script>
 
   <!-- Preload -->
   {{ $dark_icon := "theme.png" }} {{ if site.Params.monoDarkIcon }} {{$dark_icon = "theme.svg" }} {{ end }}

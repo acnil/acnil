@@ -366,3 +366,14 @@ right: 5px;
 :target {
     scroll-margin-top: 60px;
 }
+
+.sticky-section {
+  position: fixed;
+  top: 48px;
+  width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky-section + .content {
+  padding-top: 48px;
+}

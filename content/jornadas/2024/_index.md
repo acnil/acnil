@@ -49,7 +49,7 @@ custom_css: |-
 
 ## Dónde y Cuándo
 
-## {{< countdown target="2024-07-13T10:00:00" >}}
+### {{< countdown target="2024-07-13T10:00:00" >}}
 
 - :calendar: Sábado y domingo, 13 y 14 de Julio de 2024
 - :clock: Horario: de 10 a 14 h. y de 16:00 a 21:00 h.
@@ -652,7 +652,7 @@ Al final los torneos existen para pasarlo bien y el premio es solo un incentivo 
 {{% /card %}}
 {{< /cardlist >}}
 
-### Colaboradores y Patrocinadores
+## Colaboradores y Patrocinadores
 
 Este evento no sería posible sin la colaboración y trabajo de todos los socios de ACNIL, ademas de toda la gente de otras asociaciones que nos ayudan en el evento.
 
