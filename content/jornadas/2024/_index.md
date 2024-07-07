@@ -59,12 +59,17 @@ custom_css: |-
 
 ## Horarios
 
-<a class="tag tag-red" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdt4Qcy3KaQo7ilKIwN9aQZF_BrydUfFIpTe5Aqe978FBi0U_ZEC4bfNcxQl3EX2Mso6RZD95-T5fJ/pub?output=pdf">Descarga Horario en PDF</a>
+<a href="./horario_sabado.jpeg">
 
+![horario sabado](./horario_sabado.jpeg)
 
-<iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdt4Qcy3KaQo7ilKIwN9aQZF_BrydUfFIpTe5Aqe978FBi0U_ZEC4bfNcxQl3EX2Mso6RZD95-T5fJ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</a>
 
-<iframe class="event-schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdt4Qcy3KaQo7ilKIwN9aQZF_BrydUfFIpTe5Aqe978FBi0U_ZEC4bfNcxQl3EX2Mso6RZD95-T5fJ/pubhtml?gid=1377301289&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<a href="./horario_domingo.jpeg">
+
+![horario domingo](./horario_domingo.jpeg)
+
+</a>
 
 ## Actividades
 
@@ -88,6 +93,8 @@ custom_css: |-
 ### 👗 Pasarela cosplay
 
 ¿Tienes un cosplay que quieres enseñar a todo el mundo? ¿sabes posar como una super modelo? ¡Este es tu concurso! El sábado tendremos nuestra famosa pasarela cosplayer a la que no podéis faltar. ¡Venga! POSE, POSE, POSE, POSE
+
+<a class="tag tag-black" href='{{< relref "./escenario/bases-pasarela-cosplay" >}}'>ver bases</a>
 
 {{% /card %}}
 
