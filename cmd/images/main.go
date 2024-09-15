@@ -53,7 +53,7 @@ func main() {
 	queue := make(chan ProcessImageAction, nWorkers)
 
 	ctx, done := context.WithCancel(context.Background())
-	log.Println("detected %d cpu", nWorkers)
+	log.Printf("detected %d cpu", nWorkers)
 	for i := 0; i < nWorkers; i++ {
 		go StartWorker(ctx, queue)
 	}
@@ -61,7 +61,7 @@ func main() {
 	for _, action := range config.Actions {
 		result := ProcessAction(ctx, queue, action)
 		if result.Error != nil {
-			log.Print("Error processinga action %s, %s", action.Name, result.Error)
+			log.Printf("Error processing a action %s, %s", action.Name, result.Error)
 			continue
 		}
 
@@ -221,7 +221,9 @@ func ProcessAction(ctx context.Context, queue chan<- ProcessImageAction, action 
 			errors.Errors = append(errors.Errors, ctx.Err())
 		}
 	}
-	result.Error = &errors
+	if errors.Len() > 0 {
+		result.Error = &errors
+	}
 
 	sort.Slice(result.Originals, func(i, j int) bool { return result.Originals[i].Path < result.Originals[j].Path })
 	sort.Slice(result.Destinations, func(i, j int) bool { return result.Destinations[i].Path < result.Destinations[j].Path })
@@ -264,7 +266,7 @@ func ProcessImage(action Action, destinationName string, sourceImage string) Pro
 
 	sourceDecoded, _, err := image.Decode(sourceImageFile)
 	if err != nil {
-		return ProcessImageActionResult{original, destination, fmt.Errorf("Failed to decode image, %w", err)}
+		return ProcessImageActionResult{original, destination, fmt.Errorf("Failed to decode image %s, %w", sourceImage, err)}
 	}
 
 	original.X = sourceDecoded.Bounds().Dx()

@@ -49,13 +49,20 @@ custom_css: |-
 
 ## Dónde y Cuándo
 
-### {{< countdown target="2024-07-13T10:00:00" >}}
-
 - :calendar: Sábado y domingo, 13 y 14 de Julio de 2024
 - :clock: Horario: de 10 a 14 h. y de 16:00 a 21:00 h.
 - :free: Entradas 6€/dia
 - 📍 [Forum Evolución](https://maps.app.goo.gl/s9eRKKqBKMyqGdMQA)
 - Todos los públicos a partir de 7 años. (Es necesaria la supervisión de un adulto)
+
+## Fotos
+
+### Sabado
+
+{{< gallery match="bbb2024-sabado*"  rowHeight="120" margins="5" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
+### Domingo
+{{< gallery match="bbb2024-domingo*"  rowHeight="120" margins="5" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## Horarios
 
