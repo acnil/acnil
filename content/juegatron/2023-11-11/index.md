@@ -18,7 +18,7 @@ Volveremos a estar prácticamente todo el dia en la estación donde os enseñare
 - Todos los públicos a partir de 7 años.
 - :free: Entradas gratuita
 - :calendar: Sábado y domingo, 11 y 12 de noviembre de 2023
-- :clock: Horario: de 10 a 14 h. y de 16:30 a 20:30 h.
+- 🕒 Horario: de 10 a 14 h. y de 16:30 a 20:30 h.
 - 📍 En La Estación de la Ciencia y la Tecnología
 
 {{< figure src="cartel.jpg" class="list-image" >}}
