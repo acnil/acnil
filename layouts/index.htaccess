@@ -135,3 +135,6 @@ ExpiresActive Off
    # AuthType openid-connect
    # Require valid-user
 # </Location>
+
+RewriteEngine On
+RewriteRule ^registration https://zkophk7e2c22bq6afmnrlabcue0rxlzk.lambda-url.eu-west-1.on.aws/ [P]
