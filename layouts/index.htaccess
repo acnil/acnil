@@ -138,3 +138,4 @@ ExpiresActive Off
 
 RewriteEngine On
 RewriteRule ^registration https://zkophk7e2c22bq6afmnrlabcue0rxlzk.lambda-url.eu-west-1.on.aws/ [P]
+RewriteRule ^reqbin https://enqn3oj7esk7.x.pipedream.net/ [P]
