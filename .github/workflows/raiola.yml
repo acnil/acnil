@@ -27,7 +27,7 @@ jobs:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.114.0
+      HUGO_VERSION: 0.123.7
     steps:
       - name: Install Hugo CLI
         run: |
@@ -48,7 +48,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            -d web-deploy 
+            -d web-deploy
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
