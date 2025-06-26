@@ -17,7 +17,8 @@ cascade:
 ## Dónde y Cuándo
 
 - 📅 Sábado y domingo, 26 y 27 de Julio de 2025
-- 🕒 Horario: de 10 a 14 h. y de 16:00 a 21:00 h.
+- 🕒 Horario: de 10:00 a 14:00 y de 16:00 a 21:00 h.
 - 🆓 Entradas 6€/dia
 - 📍 [Forum Evolución](https://maps.app.goo.gl/s9eRKKqBKMyqGdMQA)
 - Todos los públicos a partir de 7 años. (Es necesaria la supervisión de un adulto)
+
