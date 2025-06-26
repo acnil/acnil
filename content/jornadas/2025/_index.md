@@ -1,0 +1,23 @@
+---
+title: Big Bang Burgos XIII 2025
+date: 2025-06-26
+images:
+ - /jornadas/2025/0_cartel.jpg
+description: "26 y 27 de Julio en Forum Evolución. Otro año mas de el mejor evento de ocio alternativo en Burgos"
+cascade:
+  layout: single
+  type: _default
+---
+
+
+{{< figure src="0_cartel.jpg" alt="Cartel de Big Bang Burgos XIII 2025"  class="list-image" >}}
+
+¡Volvemos una vez más a organizar Big Bang Burgos! Esta vez con inspiración en la mitología y folclore ibérico.
+
+## Dónde y Cuándo
+
+- :calendar: Sábado y domingo, 26 y 27 de Julio de 2025
+- :clock: Horario: de 10 a 14 h. y de 16:00 a 21:00 h.
+- :free: Entradas 6€/dia
+- 📍 [Forum Evolución](https://maps.app.goo.gl/s9eRKKqBKMyqGdMQA)
+- Todos los públicos a partir de 7 años. (Es necesaria la supervisión de un adulto)
