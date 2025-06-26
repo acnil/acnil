@@ -12,7 +12,7 @@ cascade:
 
 {{< figure src="0_cartel.jpg" alt="Cartel de Big Bang Burgos XIII 2025"  class="list-image" >}}
 
-¡Volvemos una vez más a organizar Big Bang Burgos! Esta vez con inspiración en la mitología y folclore ibérico.
+!Prepárate para la mayor aventura friki del año! Big Bang Burgos XIII te espera con todo el ocio alternativo"
 
 ## Dónde y Cuándo
 
