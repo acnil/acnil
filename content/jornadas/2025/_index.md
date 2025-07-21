@@ -22,3 +22,16 @@ cascade:
 - 📍 [Forum Evolución](https://maps.app.goo.gl/s9eRKKqBKMyqGdMQA)
 - Todos los públicos a partir de 7 años. (Es necesaria la supervisión de un adulto)
 
+## Horarios
+
+<a href="./horario_sabado.jpeg">
+
+![horario sabado](./horario_sabado.jpeg)
+
+</a>
+
+<a href="./horario_domingo.jpeg">
+
+![horario domingo](./horario_domingo.jpeg)
+
+</a>
