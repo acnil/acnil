@@ -27,6 +27,11 @@ cascade:
 <a href="./horario_sabado.jpeg">
 
 ![horario sabado](./horario_sabado.jpeg)
+
+</a>
+
+<a href="./horario_sabado_2.jpeg">
+
 ![horario sabado 2](./horario_sabado_2.jpeg)
 
 </a>
@@ -34,6 +39,11 @@ cascade:
 <a href="./horario_domingo.jpeg">
 
 ![horario domingo](./horario_domingo.jpeg)
+
+</a>
+
+<a href="./horario_domingo_2.jpeg">
+
 ![horario domingo 2](./horario_domingo_2.jpeg)
 
 </a>
