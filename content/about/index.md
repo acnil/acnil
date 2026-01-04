@@ -16,7 +16,7 @@ Hasta 2009 Burgos había permanecido dividida: muchos jóvenes con intereses com
 
 ## ¿Como contacto con vosotros?
 
-Nuestro correo es acnil@acnil.es. Tambien puedes encontrarnos en redes sociales. Arriba a la derecha tienes los link a Instagram y ~~Twitter~~ X. Aunque Instagram es nuestra preferencia.
+Nuestro correo es asociacionacnil@gmail.com. También puedes encontrarnos en redes sociales. Arriba a la derecha tienes los link a Instagram y ~~Twitter~~ X. Aunque Instagram es nuestra preferencia.
 
 ## ¿Cuáles son los privilegios de ser socio?
 
@@ -36,7 +36,9 @@ Puede ser socio cualquier persona mayor de 14 años. (Los menores de edad necesi
 
 Para ser socio se necesitan dos cosas:
 
-1. Rellenar la solicitud de socio. [Descargar](./inscripcion.pdf)
+1. Rellenar la solicitud de socio.
+   - [PDF](./inscripcion.pdf)
+   - [Google Doc](https://docs.google.com/document/d/17EJnNRj26pSVtlnTKxvhh3YIaXH9IciLaIOnJfdRZ6I/edit?usp=sharing)
 2. Pagar la cuota de socio.
 
 Los **nuevos socios** tienen distintas cuotas iniciales dependiendo del momento del año en el que se apunten a la asociación.
@@ -49,9 +51,9 @@ Los **nuevos** socios también deberán adjuntar una fotocopia de su DNI para ve
 
 En Enero, TODOS los socios han de renovar la cuota de socio por **25€** que deberán ser entregados antes de fin de mes o se perderán los privilegios.
 
-En caso de hacer el pago por transferencia, deberá ponerse de **asunto**: Nick de socio + Año actual. Ejemplo: Shyba 2023
+En caso de hacer el pago por transferencia, deberá ponerse de **asunto**: DNI + Año actual. Ejemplo: 12345678X 2023
 
-Una vez que tengáis el resguardo de pago, la solicitud de socio cumplimentada y una fotocopia de vuestro DNI, Enviad los documentos a acnil@acnil.es
+Una vez que tengáis el resguardo de pago, la solicitud de socio cumplimentada y una fotocopia de vuestro DNI, Enviad los documentos a asociacionacnil@gmail.com
 
 Si tenéis dudas, Lo mas sencillo es que vengáis a un [código Pingüino o código Fénix](../pinguino) para conocernos y os podamos guiar en el proceso de asociaros.
 
