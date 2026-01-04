@@ -2,378 +2,378 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
 
-
 html {
-    --bg: hsl(36, 86%, 51%);
-    --bg-end: hsl(36, 100%, 70%);
+  --bg: hsl(36, 86%, 51%);
+  --bg-end: hsl(36, 100%, 70%);
 
-    --dark-bg: hsl(36, 0%, 10%);
-    --dark-bg-end: hsl(36, 46%, 31%);
+  --dark-bg: hsl(36, 0%, 10%);
+  --dark-bg-end: hsl(36, 46%, 31%);
 
-    --dark-card-bg: hsl(36, 46%, 15%);
-    --card-bg: hsl(36, 15%, 90%);
+  --dark-card-bg: hsl(36, 46%, 15%);
+  --card-bg: hsl(36, 15%, 90%);
 
-    --content: hsl(36, 46%, 85%);
-    --dark-content: hsl(36, 26%, 9%);
+  --content: hsl(36, 46%, 85%);
+  --dark-content: hsl(36, 26%, 9%);
 
-    --header: hsl(138, 0%, 95%);
-    --header: hsl(30, 80%, 50%);
-    --dark-header: hsl(138, 0%, 5%);
+  --header: hsl(138, 0%, 95%);
+  --header: hsl(30, 80%, 50%);
+  --dark-header: hsl(138, 0%, 5%);
 
-    --border: hsl(25, 100%, 50%);
+  --border: hsl(25, 100%, 50%);
 }
 
 main {
-    border-left: 0.14rem solid var(--border);
+  border-left: 0.14rem solid var(--border);
 }
 
 :is(header, .links) {
-    background-color: var(--header);
-    border-left: 0.35rem solid var(--border);
+  background-color: var(--header);
+  border-left: 0.35rem solid var(--border);
 }
 
 footer {
-    background-color: var(--header);
-    border-left: 0.14rem solid var(--border);
+  background-color: var(--header);
+  border-left: 0.14rem solid var(--border);
 
-    max-height: 3em;
+  max-height: 3em;
 }
 
 .dark :is(header, .links, footer) {
-    background-color: var(--dark-header);
+  background-color: var(--dark-header);
 }
 
-
 .links .menu-item {
-    background-color: #00000022;
+  background-color: #00000022;
 }
 
 .links .current-menu-item {
-    background-color: var(--content)
+  background-color: var(--content);
 }
 
 .dark .links .current-menu-item {
-    background-color: var(--dark-content)
+  background-color: var(--dark-content);
 }
 
-
 .sticky-header {
-    position: sticky;
-    top: 0;
-    z-index: 1;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 
 .nav-wrapper nav {
-    margin-left: 0.3em;
+  margin-left: 0.3em;
 }
 
 .logo img {
-    border-radius: 1em;
-    margin-left: auto;
-    margin-right: auto;
+  border-radius: 1em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .logo {
-    max-width: 18em;
-    text-align: center;
+  max-width: 18em;
+  text-align: center;
 }
-
 
 .container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    max-width: 1200px;
-    gap: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1200px;
+  gap: 0.5rem;
 }
 
-
-
 .poster {
-    width: calc(50% - 0.5em);
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    box-shadow: 0 .1rem 1rem rgba(0, 0, 0, 0.1);
-    border-radius: 1em;
-    background: var(--card-bg);
-    transition: transform 100ms linear;
-    position: relative;
+  width: calc(50% - 0.5em);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.1);
+  border-radius: 1em;
+  background: var(--card-bg);
+  transition: transform 100ms linear;
+  position: relative;
 }
 
 .poster img {
-    margin: auto;
+  margin: auto;
 }
 
 .poster:hover {
-    transform: scale(1.04);
+  transform: scale(1.04);
 }
 
 .dark .poster {
-    background: var(--dark-card-bg);
+  background: var(--dark-card-bg);
 }
 
 /* Button on top of poster images*/
 
-.poster .tag{
-position: absolute;
-bottom: 5px;
-right: 5px;
+.poster .tag {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
 }
 
 .card {
-    width: calc(50% - 0.5em);
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    box-shadow: 0 .1rem 1rem rgba(0, 0, 0, 0.1);
-    border-radius: 1em;
-    background: var(--card-bg);
+  width: calc(50% - 0.5em);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.1);
+  border-radius: 1em;
+  background: var(--card-bg);
 }
 
 .dark .card {
-    background: var(--dark-card-bg);
+  background: var(--dark-card-bg);
 }
 
 .card__image {
-    max-width: 100%;
-    display: block;
-    object-fit: cover;
-    object-position: top;
-    margin: 0px;
-    padding: 0px;
-    width: 100%;
-    height: 10em;
+  max-width: 100%;
+  display: block;
+  object-fit: cover;
+  object-position: top;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 10em;
 }
 
-
 .card__body {
-    padding: 1rem;
-    display: flex;
-    flex-direction: column;
-    gap: .5rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
 .card__body p {
-    margin: 0;
+  margin: 0;
 }
 
 .card .card__body :is(h1, h3, h3, h4) {
-    margin-top: 0em;
-    margin-bottom: 0.1em;
+  margin-top: 0em;
+  margin-bottom: 0.1em;
 }
 
-
 .tag {
-    align-self: flex-start;
-    padding: .25em .75em;
-    border-radius: 1em;
+  align-self: flex-start;
+  padding: 0.25em 0.75em;
+  border-radius: 1em;
 
-    transition: 0.3s;
-    text-decoration: none;
+  transition: 0.3s;
+  text-decoration: none;
 }
 
 .tag:hover {
-    filter: brightness(150%);
+  filter: brightness(150%);
 }
 
-.tag+.tag {
-    margin-left: .5em;
+.tag + .tag {
+  margin-left: 0.5em;
 }
-
 
 .tag-black {
-    background: rgba(0, 0, 0, 0.8);
-    color: #fafafa;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fafafa;
 }
 
 .tag-blue {
-    background: #56CCF2;
-    background: linear-gradient(to bottom, #2F80ED, #56CCF2);
-    color: #fafafa;
+  background: #56ccf2;
+  background: linear-gradient(to bottom, #2f80ed, #56ccf2);
+  color: #fafafa;
 }
 
 .tag-brown {
-    background: #D1913C;
-    background: linear-gradient(to bottom, #FFD194, #D1913C);
-    color: #fafafa;
+  background: #d1913c;
+  background: linear-gradient(to bottom, #ffd194, #d1913c);
+  color: #fafafa;
 }
 
 .tag-red {
-    background: #cb2d3e;
-    background: linear-gradient(to bottom, #ef473a, #cb2d3e);
-    color: #fafafa;
+  background: #cb2d3e;
+  background: linear-gradient(to bottom, #ef473a, #cb2d3e);
+  color: #fafafa;
 }
 
 .card__body h4 {
-    font-size: 1.5rem;
-    text-transform: capitalize;
+  font-size: 1.5rem;
+  text-transform: capitalize;
 }
 
 .card__footer {
-    flex-direction: row-reverse;
-    display: flex;
-    padding: 1rem;
-    margin-top: auto;
+  flex-direction: row-reverse;
+  display: flex;
+  padding: 1rem;
+  margin-top: auto;
 }
 
 .user {
-    display: flex;
-    gap: .5rem;
+  display: flex;
+  gap: 0.5rem;
 }
 
 .user__image {
-    border-radius: 50%;
+  border-radius: 50%;
 }
 
-.user__info>small {
-    color: #666;
+.user__info > small {
+  color: #666;
 }
-
 
 @media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .card {
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+    width: 100%;
+  }
 
-    /* For mobile phones: */
-    .card {
-        margin-left: -1.5rem;
-        margin-right: -1.5rem;
-        width: 100%;
-    }
-
-    .poster {
-        margin-left: -1.5rem;
-        margin-right: -1.5rem;
-        width: 100%;
-    }
+  .poster {
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+    width: 100%;
+  }
 }
 
 .list-image img {
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .list-section {
-    border-radius: 1em;
-    padding: 1em;
-    min-height: 260px;
+  border-radius: 1em;
+  padding: 1em;
+  min-height: 260px;
 }
 
 .warning {
-    color: red;
-    flex-grow: 4;
-    text-align: center;
-    margin: auto;
-    font-size: 24px;
-    font-weight: bold;
+  color: red;
+  flex-grow: 4;
+  text-align: center;
+  margin: auto;
+  font-size: 24px;
+  font-weight: bold;
 }
-
 
 /* Twitter. */
 
 .twitter-tweet {
-    display: none;
-    margin: auto;
+  display: none;
+  margin: auto;
 }
 
 /* Maps. */
 
 .prose iframe {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
 }
-
 
 /* EditPage. */
 
-.edit-page {}
+.edit-page {
+}
 
 .dark .edit-page {
-    filter: invert();
+  filter: invert();
 }
 
 .edit-page img {
-    max-width: 25px;
-    margin-left: auto;
-    margin-right: 0;
-    margin-top: 0;
-    margin-bottom: 0;
+  max-width: 25px;
+  margin-left: auto;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 /* Links */
 
 .links .marker {
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-top: 0.2em;
-    padding-bottom: 0.2em;
-    margin-right: 0.2em;
-    height: 100%;
-    border-radius: 10px 10px 0px 0px;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin-right: 0.2em;
+  height: 100%;
+  border-radius: 10px 10px 0px 0px;
 }
 
 @media (max-width: 768px) {
-    .links .marker {
-        padding-left: 0.2em;
-        padding-right: 0.2em;
-        margin-left: 0.2em;
-        margin-right: 0.2em;
-        height: 100%;
-    }
+  .links .marker {
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    height: 100%;
+  }
 
-
-    .links {
-        flex-wrap: wrap;
-        overflow-x: scroll;
-        padding-left: 0;
-    }
+  .links {
+    flex-wrap: wrap;
+    overflow-x: scroll;
+    padding-left: 0;
+  }
 }
 
 .countdown {
-    text-align: center;
+  text-align: center;
 }
 
-
-
 .more-space {
-    height: auto
+  height: auto;
 }
 
 .event-schedule {
-    margin-left: 0;
-    margin-right: 0;
-    min-width: 100%;
-    min-height: 38em;
+  margin-left: 0;
+  margin-right: 0;
+  min-width: 100%;
+  min-height: 38em;
 }
 
 /* Improve bullet lists on small display*/
 @media (max-width: 768px) {
-    .prose :where(ul):not(:where([class~="not-prose"] *)) {
-        list-style-type: disc;
-        margin-top: 1em;
-        margin-bottom: 1em;
-        padding-left: .625em;
-    }
+  .prose :where(ul):not(:where([class~="not-prose"] *)) {
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-left: 0.625em;
+  }
 
-    .prose :where(li):not(:where([class~="not-prose"] *)) {
-        margin-top: 0.3em;
-        margin-bottom: 0.3em;
-    }
+  .prose :where(li):not(:where([class~="not-prose"] *)) {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+  }
 }
 
 /*Fix scroll to target*/
 :target {
-    scroll-margin-top: 60px;
+  scroll-margin-top: 60px;
 }
 
 .sticky-section {
   position: fixed;
   top: 48px;
-  width: 100%
+  width: 100%;
 }
 
 /* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
 .sticky-section + .content {
   padding-top: 48px;
+}
+
+.random-sentence {
+  display: flex;
+  align-items: center; /* vertical centering */
+  justify-content: center; /* horizontal centering */
+
+  min-height: 20px;
+  padding: 0.5rem;
+
+  border: 2px solid #ddd;
+  border-radius: 12px;
+
+  font-size: 0.8rem;
+  text-align: center;
 }

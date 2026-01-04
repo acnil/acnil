@@ -9,7 +9,7 @@ Tenemos un zip con las imágenes en alta resolución que no se encuentran en est
 ## Ejecutar en local
 
 1. Instala dependencias
-   1. [Hugo v0.114.0](https://github.com/gohugoio/hugo/releases/tag/v0.114.0)
+   1. [Hugo v0.123.7](https://github.com/gohugoio/hugo/releases/tag/v0.123.7)
    3. VScode
    4. Git
 3. Descarga el repositorio

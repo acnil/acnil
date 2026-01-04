@@ -7,6 +7,16 @@ images:
 
 {{< figure src="/images/acnilito.png" title="Acnilito" class="mx-auto logo" link="/" >}}
 
+{{< random-sentence >}}
+ACNIL - Agencia de Caos Neurológico Inofensivo Local
+ACNIL - Algunos Cerebros Necesitan Instrucciones Largas
+ACNIL - Agrupación de Crisis Nerviosas Intermitentes Leves
+ACNIL - Aquí Cada Neurona Improvisa Libremente
+ACNIL - Asociación de Cerebros No Idealmente Lineales
+ACNIL - Aceptamos el Caos Natural Interno Legalmente
+{{< /random-sentence >}}
+
+
 Somos una asociación cultural de Burgos **sin ánimo de lucro** que trata de difundir los **juegos de mesa**, la **cultura asiática**, los **juegos de rol** y los **videojuegos**.
 
 Aquí encontrarás mucha gente interesante con la que compartir tus aficiones.

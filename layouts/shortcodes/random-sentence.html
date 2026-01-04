@@ -1,0 +1,12 @@
+{{ $values := split .Inner "\n" | jsonify }} {{ $uid := .Inner | md5 }}
+<span id="random-sentence-{{ $uid }}" class="random-sentence"></span>
+
+<script>
+  (function () {
+    const values = JSON.parse({{ $values }})
+    const sentences = values.filter(n => n)
+    const choice = sentences[Math.floor(Math.random() * sentences.length)];
+    var el = document.getElementById('random-sentence-{{ $uid }}')
+    el.textContent = choice;
+  })();
+</script>
