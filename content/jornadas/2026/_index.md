@@ -2,7 +2,7 @@
 title: Big Bang Burgos XIV 2025
 date: 2026-07-05
 images:
- - /jornadas/2025/0_cartel.jpg
+ - /jornadas/2026/0_cartel.jpg
 description: "11 y 12 de Julio en Forum Evolución. Otro año mas de el mejor evento de ocio alternativo en Burgos"
 cascade:
   layout: single
