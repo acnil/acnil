@@ -1,5 +1,5 @@
 ---
-title: Big Bang Burgos XIV 2025
+title: Big Bang Burgos XIV 2026
 date: 2026-07-05
 images:
  - /jornadas/2026/0_cartel.jpg
@@ -10,7 +10,7 @@ cascade:
 ---
 
 
-{{< figure src="0_cartel.jpg" alt="Cartel de Big Bang Burgos XIV 2025"  class="list-image" >}}
+{{< figure src="0_cartel.jpg" alt="Cartel de Big Bang Burgos XIV 2026"  class="list-image" >}}
 
 ¡Prepárate para la mayor aventura friki del año! Big Bang Burgos XIV te espera con todo el ocio alternativo
 
