@@ -46,9 +46,9 @@ Para ser socio se necesitan dos cosas:
 
 Los **nuevos socios** tienen distintas cuotas iniciales dependiendo del momento del año en el que se apunten a la asociación.
 
-- Desde principio de año hasta el evento BigBangBurgos **30€**
-- Desde BigBangBurgos hasta Juegatron **20€**
-- Desde Juegatron hasta final de año **35€** (Incluye cuota del año siguiente)
+- De Enero a Abril  **30€**
+- De Mayo a Agosto **20€**
+- De Septiembre a Diciembre **35€** (Incluye cuota del año siguiente)
 
 Los **nuevos** socios también deberán adjuntar una fotocopia de su DNI para verificar su identidad.
 
