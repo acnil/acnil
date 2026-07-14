@@ -40,6 +40,9 @@ Para ser socio se necesitan dos cosas:
    - [PDF](./inscripcion.pdf)
    - [Google Doc](https://docs.google.com/document/d/17EJnNRj26pSVtlnTKxvhh3YIaXH9IciLaIOnJfdRZ6I/edit?usp=sharing)
 2. Pagar la cuota de socio.
+3. Si eres menor de edad, Enviar la autorización paterna
+   - [PDF](./autorizacion_paterna.pdf)
+   - [Google Doc](https://drive.google.com/file/d/1vwUQE0Xj3dojfy3jNrfYtGO-bAobzcTp/view?usp=sharing)
 
 Los **nuevos socios** tienen distintas cuotas iniciales dependiendo del momento del año en el que se apunten a la asociación.
 
