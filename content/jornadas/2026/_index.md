@@ -24,13 +24,13 @@ cascade:
 
 ## Horarios
 
-<a href="./horario_sabado.jpeg">
+<a href="./horario_sabado.png">
 
 ![horario sabado](./horario_sabado.png)
 
 </a>
 
-<a href="./horario_domingo.jpeg">
+<a href="./horario_domingo.png">
 
 ![horario domingo](./horario_domingo.png)
 
